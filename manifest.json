@@ -1,0 +1,13 @@
+{
+  "manifestVersion": 1,
+  "dataVersion": "1.0",
+  "lastUpdated": "2025-09-05T00:00:00Z",
+  "currentTag": "v1.0.0",
+  "files": [
+    {
+      "name": "items",
+      "url": "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@v1.0.0/data/items.json",
+      "schemaVersion": 1
+    }
+  ]
+}
