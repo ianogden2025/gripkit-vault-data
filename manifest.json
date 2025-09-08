@@ -1,15 +1,15 @@
 {
-  "currentTag" : "v1.1.0",
-  "dataVersion" : "v1.1.0",
+  "currentTag" : "v1.2.0",
+  "dataVersion" : "v1.2.0",
   "files" : [
     {
       "name" : "items",
       "schemaVersion" : 1,
-      "sha256" : "a1278871ab880a5ebd295ddc2d661a4c615b143a1cf085baabd514e26709f867",
-      "url" : "https:\/\/cdn.jsdelivr.net\/gh\/Ianogden2025\/Gripkit-vault-data@v1.1.0\/data\/items.json"
+      "sha256" : "95b46b2aa61e7da5c924202359f3ed02da7f38c6cc93daac582434d819099366",
+      "url" : "https:\/\/cdn.jsdelivr.net\/gh\/Ianogden2025\/Gripkit-vault-data@v1.2.0\/data\/items.json"
     }
   ],
-  "lastUpdated" : "2025-09-05T12:12:59Z",
+  "lastUpdated" : "2025-09-08T05:56:11Z",
   "manifestVersion" : 1,
-  "whatsNewURL" : "https:\/\/cdn.jsdelivr.net\/gh\/Ianogden2025\/Gripkit-vault-data@v1.1.0\/whatsnew.json"
+  "whatsNewURL" : "https:\/\/cdn.jsdelivr.net\/gh\/Ianogden2025\/Gripkit-vault-data@v1.2.0\/whatsnew.json"
 }

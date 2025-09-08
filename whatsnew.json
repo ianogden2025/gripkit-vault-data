@@ -10,16 +10,16 @@
     "2’ x 2’ Polybag",
     "Modulus-X™ Rotary Adapter",
     "Porsche Ultra Arm",
-    "… +505 more"
+    "… +504 more"
   ],
   "counts" : {
-    "added" : 515,
+    "added" : 514,
     "removed" : 0,
     "updated" : 0
   },
-  "date" : "2025-09-05",
+  "date" : "2025-09-08",
   "notes" : [
-    "Test export"
+
   ],
   "removed" : [
 
@@ -28,5 +28,5 @@
   "updated" : [
 
   ],
-  "version" : "v1.1.0"
+  "version" : "v1.2.0"
 }
