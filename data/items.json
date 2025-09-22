@@ -1135,7 +1135,7 @@
     ],
     "DescriptionText" : "The 48.3mm (1\"1/2) Mitchell Three Legs is a camera support system commonly used in the TV and film industry to provide stable mounting for cameras and equipment. Its robust design features a black Mitchell base and adjustable clamping lever, allowing for precise positioning and secure attachment to various camera setups.",
     "Features" : "☑ 250mm ( 9,84” ) Main ring\n☑ 185mm ( 7, 28” ) O.D Black Mitchell base\n☑ 4 Counterbored holes M8\n☑ 48.3mm ( 1” 1/2 )\n☑ Stainless steel Allen bolts\n☑ M8 Stainless steel adjustable clamping lever\n☑ Black anodized\n☑ High strength aluminium alloy",
-    "Last edited time" : "May 4, 2025 10:12 PM",
+    "Last edited time" : "2025-09-22T17:20:01.199Z",
     "Manufacturers" : "gripfilm.com",
     "Min. Transport Required" : [
 
@@ -1150,7 +1150,7 @@
     "WebsiteURL" : "https://gripfilm.com/collections/mitchell-three-legs-48-3/products/tri-hat",
     "id" : "38",
     "photoURLs" : [
-
+      "https://gripfilm.com/cdn/shop/products/GFMTL-48_1.jpg?v=1737056852&width=1280"
     ],
     "videoURLs" : [
 
@@ -1164,7 +1164,7 @@
     ],
     "DescriptionText" : "The Paddle Mount is a camera support system designed for the TV and film industry, featuring aluminium speed rails and Mitchell plates for secure camera positioning and flexibility during shoots. It allows for smooth camera movements and is ideal for various filming setups.",
     "Features" : "☑ Mitchell male plate 233 x 233 x 20mm (9,17\" x 9,17\" x 0,78\")\n ☑ Mitchell female plate 233 x 233 x 20mm (9,17\" x 9,17\" x 0,78\") \n☑ Mitchell base 185 x 19mm (7,28\" x 0,74\")\n☑ 48.3mm (1\" 1/2 ) Aluminium speed-rail\n☑ 38 - 52mm (1\"49 - 2\",04)  Black half coupler clamp \n☑ M12 Red Mitchell connector\n☑ TÜV approved\n☑ M5 Anti-twist \n☑ Aluminium Alloy\n☑ Black Hard Anodized\n☑ Easy tighten\n☑ M12 Shortened lobe knobs\n☑ Stainless steel \n☑ High strength aluminium alloy",
-    "Last edited time" : "July 26, 2025 11:10 AM",
+    "Last edited time" : "2025-09-22T17:19:42.418Z",
     "Length" : "1.5m",
     "Manufacturers" : "gripfilm.com",
     "Min. Transport Required" : [
@@ -1181,7 +1181,7 @@
     "Width" : "23.3cm",
     "id" : "39",
     "photoURLs" : [
-
+      "https://gripfilm.com/cdn/shop/files/U9A9814.jpg?v=1747043402&width=1280"
     ],
     "videoURLs" : [
 
@@ -1940,7 +1940,7 @@
 
     ],
     "DescriptionText" : "The Matthews Lazy Suzy is a rotating camera support designed for smooth panning and tilting movements in film and TV production. It allows for dynamic shots by enabling cameras to rotate around a central point, enhancing creative flexibility and fluidity in capturing scenes.",
-    "Last edited time" : "July 26, 2025 11:13 AM",
+    "Last edited time" : "2025-09-22T17:20:21.358Z",
     "Manufacturers" : "Matthews Studio Equipment Inc.",
     "Min. Transport Required" : [
 
@@ -1955,7 +1955,7 @@
     "WebsiteURL" : "https://www.msegrip.com/products/lazy-suzy?srsltid=AfmBOoozADrn1otEDLk8nnlpnGrd-rHi8muGZQBQcnzhgx3uay72T9dj",
     "id" : "65",
     "photoURLs" : [
-
+      "https://www.msegrip.com/cdn/shop/products/lazy-suzy_415152_01_web.jpg?v=1754425598&width=1517"
     ],
     "videoURLs" : [
 
@@ -2058,7 +2058,7 @@
 
     ],
     "DescriptionText" : "Hand Held Bars (15mm) are camera support accessories used in the TV and film industry to provide stability and control during handheld shooting. They allow operators to easily maneuver the camera while maintaining a steady shot, enhancing the overall production quality.",
-    "Last edited time" : "January 13, 2025 8:29 PM",
+    "Last edited time" : "2025-09-22T17:21:48.461Z",
     "Manufacturers" : "Movie Camera Support",
     "Min. Transport Required" : [
       "Car"
@@ -2073,7 +2073,7 @@
     "WebsiteURL" : "https://www.moviecamerasupport.com/product_detail.php/pname/MCS-B002",
     "id" : "69",
     "photoURLs" : [
-
+      "https://cdn.cvp.com/images/products/1346160333mcs-b002-small.jpg"
     ],
     "videoURLs" : [
 
@@ -15252,6 +15252,34 @@
     "id" : "514",
     "photoURLs" : [
 
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-22T17:21:45.082Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Hand Held Bars (19mm) are camera support accessories used in the TV and film industry to provide stability and control during handheld shooting. They allow operators to easily maneuver the camera while maintaining a steady shot, enhancing the overall production quality.",
+    "Last edited time" : "2025-09-22T17:22:20.642Z",
+    "Manufacturers" : "Movie Camera Support",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Hand Held Bars (19mm)",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.moviecamerasupport.com/product_detail.php/pname/MCS-B002",
+    "id" : "7BC3CED9-B334-4ABD-BDF6-81F1241649FB",
+    "photoURLs" : [
+      "https://cdn.cvp.com/images/products/1346251959mcs-b019small.jpg"
     ],
     "videoURLs" : [
 
