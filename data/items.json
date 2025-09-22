@@ -1466,7 +1466,7 @@
     ],
     "DescriptionText" : "The Track Joiner is a durable A4 Grade Stainless Steel component used in the TV and film industry to connect and extend track systems for camera movement, ensuring smooth and stable operation for filming.",
     "Features" : "Made of A4 Grade Stainless Steel",
-    "Last edited time" : "August 11, 2025 7:27 PM",
+    "Last edited time" : "2025-09-22T22:27:31.734Z",
     "Length" : "140mm min | 204mm max",
     "Manufacturers" : "GSG Products",
     "Min. Transport Required" : [
@@ -1484,7 +1484,7 @@
     "Width" : "M6",
     "id" : "49",
     "photoURLs" : [
-
+      "https://www.gsproducts.co.uk/media/catalog/product/cache/6ad9938556a1c4e09cbd879887ed1f35/i/m/img_4160_3.jpg"
     ],
     "videoURLs" : [
 
@@ -1497,7 +1497,7 @@
 
     ],
     "DescriptionText" : "The GF-Slider Motor is a precision motor used in the TV and film industry to control slider movements, enabling smooth and dynamic camera tracking shots. It enhances production quality by allowing for automated, repeatable camera movements that contribute to professional cinematography.",
-    "Last edited time" : "July 31, 2025 8:01 PM",
+    "Last edited time" : "2025-09-22T22:16:52.169Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
       "Car"
@@ -1512,7 +1512,9 @@
     "WebsiteURL" : "https://www.kfxtechnology.com/gfm-slider-motor/",
     "id" : "50",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_95b4dc0c7b604fe4ba1431907345b072~mv2.png/v1/fill/w_320,h_316,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gfm_motor%2B.png",
+      "https://www.kfxtechnology.com/wp-content/uploads/2021/02/GFM-Slider-Motor-Undershot-compressed-1024x683.jpg",
+      "https://static.wixstatic.com/media/3e3f04_a3261b63690444659f2200aaa8d0e34d~mv2.jpg/v1/fill/w_303,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_a3261b63690444659f2200aaa8d0e34d~mv2.jpg"
     ],
     "videoURLs" : [
 
@@ -1525,7 +1527,7 @@
 
     ],
     "DescriptionText" : "The Heavy Duty Ronford Baker Slider Motor is a specialized motor designed for use with Ronford Baker sliders in the TV and film industry. It enables smooth camera movement along a track, facilitating dynamic shots and enhancing production quality.",
-    "Last edited time" : "August 1, 2025 8:24 AM",
+    "Last edited time" : "2025-09-22T22:26:16.333Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
       "Car"
@@ -1540,7 +1542,7 @@
     "WebsiteURL" : "https://www.kfxtechnology.com/slider-motor-2-2/",
     "id" : "51",
     "photoURLs" : [
-
+      "https://www.kfxtechnology.com/wp-content/uploads/2022/09/slider-1024x683.png"
     ],
     "videoURLs" : [
 
@@ -2321,130 +2323,6 @@
     ]
   },
   {
-    "Category" : "Sliders",
-    "Created Date" : "August 1, 2025 8:32 AM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "The 6ft Flyking Precision Camera Slider is a specialized equipment used in the TV and film industry to achieve smooth and controlled camera movements. It allows filmmakers to create dynamic shots by sliding the camera along the track, enhancing the visual storytelling and production quality.",
-    "Last edited time" : "August 1, 2025 8:37 AM",
-    "Length" : "6ft",
-    "Manufacturers" : "ProAim",
-    "Min. Transport Required" : [
-
-    ],
-    "Min. Weight" : "16.2kg",
-    "Name" : "6ft Flyking Precision Camera Slider",
-    "Other Requirements" : [
-
-    ],
-    "Payload" : "70kg",
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://proaim.co.uk/collections/camera-sliders/products/proaim-flyking-precision-camera-slider-mitchell-mount?variant=41560817795248",
-    "id" : "78",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "August 1, 2025 8:32 AM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "The 4ft Flyking Precision Camera Slider is a professional-grade equipment used in the TV and film industry to create smooth, controlled camera movements for dynamic shots, enhancing production quality by allowing filmmakers to achieve cinematic panning and tracking effects.",
-    "Last edited time" : "August 1, 2025 8:37 AM",
-    "Length" : "4ft",
-    "Manufacturers" : "ProAim",
-    "Min. Transport Required" : [
-
-    ],
-    "Min. Weight" : "13.4kg",
-    "Name" : "4ft Flyking Precision Camera Slider",
-    "Other Requirements" : [
-
-    ],
-    "Payload" : "70kg",
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://proaim.co.uk/collections/camera-sliders/products/proaim-flyking-precision-camera-slider-mitchell-mount?variant=41560817795248",
-    "id" : "79",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "August 1, 2025 8:31 AM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "The 3ft Flyking Precision Camera Slider is a professional filmmaking tool designed for smooth, controlled camera movements. It allows filmmakers to achieve dynamic shots and cinematic effects by enabling the camera to slide effortlessly, enhancing the production quality in TV and film projects.",
-    "Last edited time" : "August 1, 2025 8:37 AM",
-    "Length" : "3ft",
-    "Manufacturers" : "ProAim",
-    "Min. Transport Required" : [
-
-    ],
-    "Min. Weight" : "12kg",
-    "Name" : "3ft Flyking Precision Camera Slider",
-    "Other Requirements" : [
-
-    ],
-    "Payload" : "70kg",
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://proaim.co.uk/collections/camera-sliders/products/proaim-flyking-precision-camera-slider-mitchell-mount?variant=41560817795248",
-    "id" : "80",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "August 1, 2025 8:26 AM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "The 2ft Flyking Precision Camera Slider is a professional filming tool designed for smooth, controlled camera movements in TV and film production. It supports a payload of up to 70kg, making it ideal for various cameras and equipment, enhancing the quality of shots by allowing dynamic panning and tracking.",
-    "Last edited time" : "August 1, 2025 8:37 AM",
-    "Length" : "2ft",
-    "Manufacturers" : "ProAim",
-    "Min. Transport Required" : [
-
-    ],
-    "Min. Weight" : "10.5kg",
-    "Name" : "2ft Flyking Precision Camera Slider",
-    "Other Requirements" : [
-
-    ],
-    "Payload" : "70kg",
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://proaim.co.uk/collections/camera-sliders/products/proaim-flyking-precision-camera-slider-mitchell-mount?variant=41560817795248",
-    "id" : "81",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
     "Category" : "Camera Support",
     "Created Date" : "January 18, 2025 3:08 PM",
     "Crew Required" : [
@@ -3178,7 +3056,7 @@
       "Grip"
     ],
     "DescriptionText" : "The TwinTube Track is a slider system used in TV and film production to enable smooth camera movement along a predetermined path, enhancing the visual storytelling by providing dynamic shots and stable tracking.",
-    "Last edited time" : "July 31, 2025 8:02 PM",
+    "Last edited time" : "2025-09-22T22:23:22.464Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3193,7 +3071,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/twintube-2/",
     "id" : "108",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/A-Variant-with-Tie-Down.jpeg"
     ],
     "videoURLs" : [
 
@@ -3206,7 +3084,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Truss Round Bracket is a specialized mounting accessory used in the TV and film industry to securely attach lighting and rigging equipment to truss systems, enabling versatile setups and efficient space management on set.",
-    "Last edited time" : "July 31, 2025 8:02 PM",
+    "Last edited time" : "2025-09-22T22:21:56.837Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3221,7 +3099,9 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/trb100-trussroundbracket/",
     "id" : "109",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/TRB100-trussroundbracket.jpeg",
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/TRB-100-BarTruss-TWD-300x201-1.jpeg",
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/TRB-100-TWD-on-rigging-truss-300x201-1.jpeg"
     ],
     "videoURLs" : [
 
@@ -3234,7 +3114,7 @@
       "Grip"
     ],
     "DescriptionText" : "The TwinDolly is a versatile camera slider used in the TV and film industry to create smooth, controlled camera movements. It allows for dynamic shots, enhancing visual storytelling by enabling the camera to glide seamlessly across the set, making it ideal for tracking shots and establishing scenes.",
-    "Last edited time" : "July 31, 2025 8:02 PM",
+    "Last edited time" : "2025-09-22T22:22:26.832Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3249,7 +3129,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/twd200/",
     "id" : "110",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/DSC_5750-scaled-1-1024x683.jpeg"
     ],
     "videoURLs" : [
 
@@ -3262,7 +3142,7 @@
 
     ],
     "DescriptionText" : "The Track Jack is a versatile tool used in the TV and film industry to stabilize and support camera tracks. It allows for precise adjustments and leveling of track systems, ensuring smooth camera movement during filming.",
-    "Last edited time" : "January 19, 2025 2:12 PM",
+    "Last edited time" : "2025-09-22T22:27:18.959Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3277,7 +3157,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/track-jack/",
     "id" : "111",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/TJ-001-ok.jpeg"
     ],
     "videoURLs" : [
 
@@ -3290,7 +3170,7 @@
       "Dolly Grip (lvl 2)"
     ],
     "DescriptionText" : "The Centrefold BarTrack is a 2ft 6in track system used in the TV and film industry to facilitate smooth camera movements, particularly for dolly shots. It allows for precise tracking and stability during filming, enhancing the production quality.",
-    "Last edited time" : "January 19, 2025 2:14 PM",
+    "Last edited time" : "2025-09-22T22:26:41.224Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3305,7 +3185,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/centerfold-bartrack/",
     "id" : "112",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/CF-general-1-e1601477364329.jpeg"
     ],
     "videoURLs" : [
 
@@ -3318,7 +3198,7 @@
       "Dolly Grip (lvl 2)"
     ],
     "DescriptionText" : "The Centrefold BarTrack is a 3ft 2in track system used in the TV and film industry to facilitate smooth camera movement. It is essential for creating dynamic shots, allowing for precise dolly movements that enhance the visual storytelling of a production.",
-    "Last edited time" : "February 13, 2025 1:06 PM",
+    "Last edited time" : "2025-09-22T22:26:43.561Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3333,7 +3213,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/centerfold-bartrack/",
     "id" : "113",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/CF-general-1-e1601477364329.jpeg"
     ],
     "videoURLs" : [
 
@@ -3346,7 +3226,7 @@
       "Dolly Grip (lvl 2)"
     ],
     "DescriptionText" : "The Centrefold BarTrack (5ft) is a track system used in TV and film production to facilitate smooth camera movements. It is designed for use by a Dolly Grip (level 2) to enhance the stability and fluidity of shots, allowing for dynamic filming techniques.",
-    "Last edited time" : "January 19, 2025 2:14 PM",
+    "Last edited time" : "2025-09-22T22:26:45.453Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3361,7 +3241,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/centerfold-bartrack/",
     "id" : "114",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/CF-general-1-e1601477364329.jpeg"
     ],
     "videoURLs" : [
 
@@ -3374,7 +3254,7 @@
       "Dolly Grip (lvl 2)"
     ],
     "DescriptionText" : "The Centrefold BarTrack (8ft) is a specialized track system used in the TV and film industry to facilitate smooth camera movements. It allows for dynamic dolly shots and is essential for achieving professional-quality cinematography.",
-    "Last edited time" : "January 19, 2025 2:14 PM",
+    "Last edited time" : "2025-09-22T22:26:47.337Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -3389,7 +3269,7 @@
     "WebsiteURL" : "https://solidgripsystems.eu/product/centerfold-bartrack/",
     "id" : "115",
     "photoURLs" : [
-
+      "https://solidgripsystems.eu/wp-content/uploads/2023/08/CF-general-1-e1601477364329.jpeg"
     ],
     "videoURLs" : [
 
@@ -5178,7 +5058,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 4’ Ronford Baker Slider is a lightweight camera sliding device used in the TV and film industry to create smooth, controlled camera movements. It is typically operated by a grip and allows for dynamic shots, enhancing the visual storytelling by enabling horizontal or vertical tracking of subjects.",
-    "Last edited time" : "August 1, 2025 8:23 AM",
+    "Last edited time" : "2025-09-22T22:18:45.620Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5193,7 +5073,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "173",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5206,7 +5086,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 10’ Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows operators to create dynamic shots by sliding the camera along a track, enhancing the visual storytelling of a scene.",
-    "Last edited time" : "August 1, 2025 8:24 AM",
+    "Last edited time" : "2025-09-22T22:18:48.257Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5221,7 +5101,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "174",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5234,7 +5114,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 3’6” Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows filmmakers to create dynamic shots by sliding the camera along a track, enhancing storytelling through motion.",
-    "Last edited time" : "August 1, 2025 8:23 AM",
+    "Last edited time" : "2025-09-22T22:18:50.199Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5249,7 +5129,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "175",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5262,7 +5142,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 6’ Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows for dynamic shots by enabling the camera to slide horizontally or vertically, enhancing the storytelling and visual appeal of scenes.",
-    "Last edited time" : "August 1, 2025 8:24 AM",
+    "Last edited time" : "2025-09-22T22:18:52.171Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5277,7 +5157,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "176",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5290,7 +5170,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 8’ Ronford Baker Slider is a professional camera sliding system used in the TV and film industry to create smooth, controlled camera movements for dynamic shots. It is essential for achieving cinematic effects, enhancing storytelling, and providing a polished visual presentation.",
-    "Last edited time" : "August 1, 2025 8:24 AM",
+    "Last edited time" : "2025-09-22T22:18:54.155Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5305,7 +5185,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "177",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5318,7 +5198,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 2’ Ronford Baker Slider is a compact, professional camera slider used in the TV and film industry to create smooth, controlled tracking shots. It allows filmmakers to achieve dynamic movements while maintaining stability, enhancing the visual storytelling of their projects.",
-    "Last edited time" : "August 1, 2025 8:24 AM",
+    "Last edited time" : "2025-09-22T22:18:56.089Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5333,7 +5213,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "178",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5346,7 +5226,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 3’ Ronford Baker Slider is a camera slider used in the TV and film industry to create smooth, controlled horizontal movements of the camera. It enhances dynamic shots by allowing cinematographers to achieve professional-looking tracking shots and adds depth to scenes.",
-    "Last edited time" : "August 1, 2025 8:23 AM",
+    "Last edited time" : "2025-09-22T22:18:58.155Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5361,7 +5241,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
     "id" : "179",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
 
@@ -5461,7 +5341,7 @@
     ],
     "DescriptionText" : "The Large Circle Track (24ft) is a circular filming track used in the TV and film industry for creating smooth camera movements around a scene, enhancing dynamic shots and enabling precise tracking of subjects.",
     "Inside Diameter" : "21ft 6in",
-    "Last edited time" : "March 9, 2025 4:24 PM",
+    "Last edited time" : "2025-09-22T22:27:33.819Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
@@ -5518,8 +5398,8 @@
       "Grip"
     ],
     "DescriptionText" : "A Dolly Track is a specialized rail system used in the TV and film industry to facilitate smooth camera movements. It allows a camera mounted on a dolly to glide along the track, enabling dynamic shots and precise movement during filming.",
-    "Last edited time" : "July 31, 2025 2:16 PM",
-    "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
+    "Last edited time" : "2025-09-22T22:28:29.865Z",
+    "Manufacturers" : "Dunton Cine Engineering",
     "Min. Transport Required" : [
 
     ],
@@ -5534,7 +5414,7 @@
     ],
     "id" : "186",
     "photoURLs" : [
-
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423050851-OLKC59OSL8FG1D0SL7OV/dolly-8ft-1.jpeg?format=750w"
     ],
     "videoURLs" : [
 
@@ -5548,7 +5428,7 @@
     ],
     "DescriptionText" : "The Small Circle Track (12ft) is a compact circular track used in the TV and film industry for filming dynamic scenes, particularly for tracking shots and action sequences. Its design allows for smooth camera movement, enhancing the visual storytelling by providing a controlled environment for moving subjects.",
     "Inside Diameter" : "9ft 6in",
-    "Last edited time" : "March 9, 2025 4:25 PM",
+    "Last edited time" : "2025-09-22T22:31:56.696Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
@@ -5576,7 +5456,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Extra Large Circle Track is a specialized filming equipment used in the TV and film industry to create smooth, circular motion shots. It allows for dynamic camera movements, enhancing the visual storytelling by capturing action from various angles as the camera moves around the subject on the track.",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Last edited time" : "2025-09-22T22:31:55.257Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
@@ -5632,8 +5512,8 @@
       "Grip"
     ],
     "DescriptionText" : "A dolly track run up is a filmmaking tool used to smoothly guide a camera along a set path, allowing for dynamic and stable movement during shots. It is essential for capturing smooth tracking shots in both TV and film productions.",
-    "Last edited time" : "July 31, 2025 2:18 PM",
-    "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
+    "Last edited time" : "2025-09-22T22:30:15.794Z",
+    "Manufacturers" : "Dunton Cine Engineering",
     "Min. Transport Required" : [
 
     ],
@@ -5646,7 +5526,7 @@
     ],
     "id" : "190",
     "photoURLs" : [
-
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574170065806-X02056J2T6UGB173SQNG/dolly-riser1.jpg?format=750w"
     ],
     "videoURLs" : [
 
@@ -5659,7 +5539,7 @@
 
     ],
     "DescriptionText" : "A 1m crane track is a specialized equipment used in the TV and film industry to create smooth, controlled camera movements. It allows cameras to glide along a fixed path, enhancing the production's visual storytelling by providing dynamic shots and angles.",
-    "Last edited time" : "July 31, 2025 2:21 PM",
+    "Last edited time" : "2025-09-22T22:30:18.762Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5688,7 +5568,7 @@
 
     ],
     "DescriptionText" : "The 30' Technocrane Track is a specialized track system used in the TV and film industry to support the movement of a Technocrane, allowing for smooth and controlled camera movements during filming. It enables dynamic shots and precise positioning, enhancing the visual storytelling of productions.",
-    "Last edited time" : "July 31, 2025 2:27 PM",
+    "Last edited time" : "2025-09-22T22:32:02.458Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -5717,7 +5597,7 @@
 
     ],
     "DescriptionText" : "An 8’ 50’ crane track is a specialized equipment used in the TV and film industry to create smooth camera movements along a set path. It allows filmmakers to achieve dynamic shots, such as tracking or panning, enhancing the overall production quality.",
-    "Last edited time" : "January 13, 2025 8:42 PM",
+    "Last edited time" : "2025-09-22T22:32:03.195Z",
     "Manufacturers" : "Dunton Cine Engineering, Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -9320,8 +9200,8 @@
       "Grip"
     ],
     "DescriptionText" : "The Hover Dolly is a specialized filmmaking tool used to create smooth, gliding camera movements. With its compact design and adjustable height, it allows for versatile tracking shots and dynamic angles, enhancing the visual storytelling in TV and film production.",
-    "Height" : "160mm (dolly only) | 100mm to Mitchell Plate when on data%2016a00dda907980668febf7fdead3d9c7/Delta%20Track%2016a00dda907981b18512c5bcb2ca14f7.csv",
-    "Last edited time" : "January 13, 2025 8:40 PM",
+    "Height" : "160mm (dolly only) | 100mm to Mitchell Plate when on Delta Track",
+    "Last edited time" : "2025-09-22T22:26:03.683Z",
     "Length" : "480mm (dolly only)",
     "Manufacturers" : "Arri",
     "Min. Transport Required" : [
@@ -9335,13 +9215,16 @@
     "Steering Mode" : [
 
     ],
-    "Width" : "275mm (dolly only) | 390mm on data%2016a00dda907980668febf7fdead3d9c7/Delta%20Track%2016a00dda907981b18512c5bcb2ca14f7.csv",
+    "Width" : "275mm (dolly only) | 390mm on Delta Track",
     "id" : "315",
     "photoURLs" : [
-
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM80fpsDR3ogSi7zwYMs5Oto7s87BXc9lE2g&s",
+      "https://www.arrirental.com/resource/image/204132/landscape_ratio16x9/450/253/9d2cd640f8e4db7be6968683d5a334fb/A24F6E2910E8EA62A759561E4341814A/arri-rental-hover-dolly-website-72-1.png",
+      "New https://www.arrirental.com/resource/image/204134/landscape_ratio16x9/450/253/5a397fb2c51c6fdbdc157ee700aa1e4a/A95ED5EA557B5E52183460F0506F7141/arri-rental-hover-dolly-website-72-2.png",
+      "https://www.arrirental.com/resource/image/204136/landscape_ratio16x9/450/253/67e222b795472a1de40875d1ca9c6c01/E45DC4B25AABC02CCD129D16B3A5A92D/arri-rental-hover-dolly-website-72-3.png"
     ],
     "videoURLs" : [
-
+      "https://vimeo.com/422828715/4375853e4f?fl=pl&fe=vl"
     ]
   },
   {
@@ -10065,7 +9948,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 2'4” GF-Slider is a compact sliding mechanism used in the TV and film industry to create smooth camera movements. It is essential for achieving dynamic shots and enhancing the visual storytelling in productions.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:07.260Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -10080,7 +9963,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "340",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -10961,7 +10844,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 2m GF-Slider is a specialized equipment used in the TV and Film industry for smooth camera movements. It allows filmmakers to achieve precise and controlled sliding shots, enhancing the visual storytelling by creating dynamic perspectives and transitions.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:09.449Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -10976,7 +10859,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "370",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -10989,7 +10872,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 2.5m GF-Slider is a camera slider used in the TV and film industry to create smooth, controlled horizontal movements for dynamic shots, enhancing visual storytelling and production quality.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:11.549Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11004,7 +10887,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "371",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11017,7 +10900,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 3m GF-Slider is a professional sliding device used in the TV and film industry to achieve smooth camera movements, enhancing the quality of shots during filming. It allows for precise control over the camera's motion, enabling dynamic and fluid scenes.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:13.581Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11032,7 +10915,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "372",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11045,7 +10928,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 4’ GF-Slider is a compact slider used in the TV and film industry to achieve smooth, controlled camera movements for dynamic shots. It allows filmmakers to create professional-looking tracking shots with ease, enhancing the visual storytelling of scenes.",
-    "Last edited time" : "July 31, 2025 8:01 PM",
+    "Last edited time" : "2025-09-22T22:20:15.689Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11060,7 +10943,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "373",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11073,7 +10956,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 5’3” GF-Slider is a compact camera slider used in the TV and film industry to achieve smooth, controlled camera movements for cinematic shots, enhancing production quality and visual storytelling.",
-    "Last edited time" : "July 31, 2025 8:01 PM",
+    "Last edited time" : "2025-09-22T22:20:17.671Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11088,7 +10971,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "374",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11101,7 +10984,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 1m GF-Slider is a camera slider used in the TV and film industry to create smooth, controlled camera movements for dynamic shots. Designed for ease of use, it enhances the visual storytelling by allowing filmmakers to achieve professional-grade sliding shots without the need for complex equipment setups.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:20.403Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11116,7 +10999,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "375",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11129,7 +11012,7 @@
       "Grip"
     ],
     "DescriptionText" : "The 2' GF-Slider is a compact camera slider used in the TV and film industry to create smooth, controlled camera movements. It allows filmmakers to achieve professional-looking tracking shots and cinematic effects, enhancing the visual storytelling of their projects.",
-    "Last edited time" : "July 31, 2025 8:00 PM",
+    "Last edited time" : "2025-09-22T22:20:22.521Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11144,7 +11027,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-slider",
     "id" : "376",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png/v1/fill/w_640,h_920,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/3e3f04_905b6d2aed7f4159b16586a483a7d63d~mv2.png"
     ],
     "videoURLs" : [
 
@@ -11157,7 +11040,7 @@
       "Grip"
     ],
     "DescriptionText" : "The GF-Solo Track is a lightweight, portable camera tracking system used in the TV and film industry to create smooth, dynamic shots. It allows for precise movement of cameras along its lengths (available in 50cm, 100cm, 200cm, and 500cm), enabling filmmakers to achieve professional-quality tracking shots with minimal setup.",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Last edited time" : "2025-09-22T22:31:47.027Z",
     "Length" : "50cm | 100cm | 200cm | 500cm",
     "Manufacturers" : "Grip Factory Munich",
     "Max. Weight" : "3.5kg",
@@ -11175,7 +11058,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-solo-track",
     "id" : "377",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_bd58ea1a2b974dafb3825093b96ce7cb~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
     ],
     "videoURLs" : [
 
@@ -14256,7 +14139,7 @@
     ],
     "DescriptionText" : "The Spider Slider is a filmmaking tool designed to create smooth camera movements, allowing for dynamic shots in TV and film productions. It features a compact design with a travel distance of 36 inches, supporting payloads of up to 45 kg, and is typically operated by a grip to enhance production quality.",
     "Height" : "6in",
-    "Last edited time" : "July 31, 2025 8:02 PM",
+    "Last edited time" : "2025-09-22T22:20:57.155Z",
     "Length" : "29in",
     "Manufacturers" : "Hudson Spider",
     "Max. Weight" : "21kg",
@@ -14276,10 +14159,10 @@
     "Width" : "9 1/2in",
     "id" : "481",
     "photoURLs" : [
-
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTDIE6v4pB-XoZsptKXbgs1ujkvEC2jvgFg&s"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/ru7R59T01iI"
     ]
   },
   {
@@ -15084,7 +14967,7 @@
       "Grip"
     ],
     "DescriptionText" : "Delta Track is a specialized track system used in film and television production to facilitate smooth camera movement. It requires grip equipment and is vital for achieving dynamic shots, particularly in scenes where camera mobility is essential.",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Last edited time" : "2025-09-22T22:32:04.459Z",
     "Min. Transport Required" : [
 
     ],
@@ -15292,6 +15175,62 @@
     "id" : "3073012C-A4BE-4162-87A7-26962CFAE713",
     "photoURLs" : [
       "https://www.chapman-leonard.com/wp-content/uploads/2023/04/4V6A9627-1536x1025.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Track",
+    "Created Date" : "2025-09-22T22:28:34.733Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "A Dolly Track is a specialized rail system used in the TV and film industry to facilitate smooth camera movements. It allows a camera mounted on a dolly to glide along the track, enabling dynamic shots and precise movement during filming.",
+    "Last edited time" : "2025-09-22T22:29:05.672Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Dolly Track",
+    "Other Requirements" : [
+      "Paganinis",
+      "Track Joiners",
+      "Wedges"
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "50792D0D-75C2-4C9A-BA28-EADA2D378168",
+    "photoURLs" : [
+      "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_5x_shootblue.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Track",
+    "Created Date" : "2025-09-22T22:29:33.203Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "A dolly track run up is a filmmaking tool used to smoothly guide a camera along a set path, allowing for dynamic and stable movement during shots. It is essential for capturing smooth tracking shots in both TV and film productions.",
+    "Last edited time" : "2025-09-22T22:29:52.135Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Dolly Track Run Up",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "CD583899-DD39-4856-B102-0324767D6B43",
+    "photoURLs" : [
+      "https://web-api.cameraworks.co.uk/images/web-api.cameraworks.co.uk/files/icons/gtmzfutz.png?width=800&format=jpg&quality=70&bgcolor=%23f5f3f0"
     ],
     "videoURLs" : [
 
