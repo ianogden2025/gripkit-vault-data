@@ -2183,7 +2183,7 @@
 
     ],
     "DescriptionText" : "The O’Connor 2060 is a fluid head designed for professional video cameras in the TV and film industry, allowing smooth panning (360°) and tilting (+/- 90°) movements. With a maximum payload of 25kg, it supports heavy camera setups, facilitating precise control for dynamic shooting scenarios.",
-    "Last edited time" : "July 26, 2025 11:16 AM",
+    "Last edited time" : "2025-09-24T16:16:07.728Z",
     "Manufacturers" : "OConnor",
     "Max. Weight" : "7.3kg",
     "Min. Transport Required" : [
@@ -2202,7 +2202,7 @@
     "WebsiteURL" : "https://www.ocon.com/products/fluid-heads/2060/",
     "id" : "73",
     "photoURLs" : [
-
+      "https://www.ocon.com/wp-content/uploads/2013/07/2065-Fluid-Head.jpg"
     ],
     "videoURLs" : [
 
@@ -4924,7 +4924,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Atlas 7 3rd Axis Mode is a fluid head designed for camera stability in the TV and film industry. It supports a payload of up to 55kg and is primarily used by grip crews to facilitate smooth camera movements and precise angle adjustments during filming.",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:17:41.490Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -4940,7 +4940,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/fluid-heads/atlas-7/",
     "id" : "169",
     "photoURLs" : [
-
+      "https://lh3.googleusercontent.com/proxy/TkGyJoE4ac4iulWADn9BPpIOcDyrUi2MKkUVhvkSEJgfjaiCUCztMrmZcaP_wSXnWgBor7Zy0OM8vy9ym1V3-zfoeZPwNLM-yiVLWLuCShsJCVmiIinMivY2"
     ],
     "videoURLs" : [
 
@@ -4954,7 +4954,7 @@
     ],
     "DescriptionText" : "The Fluid 7 is a professional fluid head used in the TV and film industry for smooth camera movements. It supports a payload of up to 25kg and offers 360° pan and tilt capability, making it ideal for dynamic shooting scenarios. The fluid drag system, with on/off levers on each axis, allows for precise control, enhancing the quality of motion shots.",
     "Fluid Drag" : "3  on/off levers on each axis",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:18:16.315Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
@@ -4973,7 +4973,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/fluid-heads/fluid-7/",
     "id" : "170",
     "photoURLs" : [
-
+      "https://proav.co.uk/media/catalog/product/cache/92a91442fa9ddc103b38b29127a94db0/f/l/fluid_7_mark_iv_head_wide_platform_1.jpg"
     ],
     "videoURLs" : [
 
@@ -4988,7 +4988,7 @@
     "DescriptionText" : "The Atlas 50 is a fluid head used in the TV and film industry for smooth camera movements. It supports a payload of up to 50kg, offering precise control over pan and tilt angles, making it ideal for professional filming and broadcasting applications.",
     "Fluid Drag" : "7 steps with 0 positions at both ends",
     "Height" : "10 1/2in",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:18:29.635Z",
     "Length" : "7in",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
@@ -5009,7 +5009,7 @@
     "Width" : "10in",
     "id" : "171",
     "photoURLs" : [
-
+      "https://proav.co.uk/media/catalog/product/cache/92a91442fa9ddc103b38b29127a94db0/a/t/atlas-50_1.jpg"
     ],
     "videoURLs" : [
 
@@ -5024,7 +5024,7 @@
     "DescriptionText" : "The Atlas 7 is a fluid head designed for use in the TV and film industry, providing smooth camera movements with a payload capacity of 55kg. It features a 360° pan and tilt range, making it ideal for dynamic shots and precise adjustments during filming.",
     "Fluid Drag" : "15 variations with 0 at both ends",
     "Height" : "15 3/4in",
-    "Last edited time" : "August 9, 2025 1:37 PM",
+    "Last edited time" : "2025-09-24T16:17:55.654Z",
     "Length" : "7in",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
@@ -5045,7 +5045,7 @@
     "Width" : "10 1/2in",
     "id" : "172",
     "photoURLs" : [
-
+      "https://lh4.googleusercontent.com/proxy/B8luCNjJkm6FSaQHQYrPVtMEHth0zICN_BkibuE60ixnysZNFqhnUimTAHyfjLiXUNGGtzY34YeAacTq_zoc-jaOop26X1PkJtN888EHCWBLa-LoMcaGFOClrlc_6bdr8rd2yHWgXR4"
     ],
     "videoURLs" : [
 
@@ -6354,7 +6354,7 @@
     ],
     "DescriptionText" : "The Spin Head is a fluid head designed for cameras in the TV and film industry, allowing for smooth and continuous movement with a 360° tilt range. It supports a payload of up to 18 kg, making it ideal for capturing dynamic shots and enhancing camera stability during filming.",
     "Fluid Drag" : "Continuous",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:18:57.200Z",
     "Manufacturers" : "Cartoni",
     "Min. Transport Required" : [
 
@@ -6372,7 +6372,8 @@
     "WebsiteURL" : "https://www.cartoni.com/products/fluid-heads/fluid-heads-sfx/h534cs-spinhead-cinestyle/",
     "id" : "218",
     "photoURLs" : [
-
+      "https://www.cartoni.com/wp-content/uploads/ProductImages/FluidHeads/Cartoni_FluidHeads_H534_CS_SpinheadCinestyle.jpg",
+      "https://www.cartoni.com/wp-content/uploads/ProductImages/FluidHeads/Cartoni_FluidHeads_H534_CS_SpinheadCinestyle_03.jpg"
     ],
     "videoURLs" : [
 
@@ -6386,7 +6387,7 @@
     ],
     "DescriptionText" : "The Lambda 50 is a fluid head used in the TV and film industry for smooth camera movements and precise control. With a payload capacity of 50kg and a fluid drag system with 7 adjustable steps, it allows for dynamic tilting up to +/-65°, making it ideal for professional cinematography and video production.",
     "Fluid Drag" : "7 steps + 0",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:20:25.535Z",
     "Manufacturers" : "Cartoni",
     "Min. Transport Required" : [
 
@@ -6404,7 +6405,7 @@
     "WebsiteURL" : "https://www.cartoni.com/products/fluid-heads/fluid-heads-sfx/hl5000-lambda-50/",
     "id" : "219",
     "photoURLs" : [
-
+      "https://www.cartoni.com/wp-content/uploads/ProductImages/FluidHeads/Cartoni_FluidHeads_HL5000_Lambda50.jpg"
     ],
     "videoURLs" : [
 
@@ -6417,7 +6418,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Lambda 25 is a fluid head used in the TV and film industry for smooth camera movements and precise control. It supports a payload of up to 25kg, making it ideal for various camera setups, and requires a grip crew for operation.",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:20:08.025Z",
     "Manufacturers" : "Cartoni",
     "Min. Transport Required" : [
 
@@ -6434,7 +6435,7 @@
     "WebsiteURL" : "https://www.cartoni.com/products/fluid-heads/fluid-heads-sfx/hl2500-lambda-25/",
     "id" : "220",
     "photoURLs" : [
-
+      "https://www.cartoni.com/wp-content/uploads/ProductImages/FluidHeads/Cartoni_FluidHeads_HL2500_Lambda25.jpg"
     ],
     "videoURLs" : [
 
@@ -6449,7 +6450,7 @@
     ],
     "DescriptionText" : "The Maxima 5.0 is a fluid head designed for professional video production, enabling smooth and precise camera movements for panning and tilting. It supports a payload range from 5kg to 57kg, making it suitable for various camera setups in the TV and film industry.",
     "Fluid Drag" : "Continuous",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:19:46.749Z",
     "Manufacturers" : "Cartoni",
     "Min. Transport Required" : [
 
@@ -6468,7 +6469,7 @@
     "WebsiteURL" : "https://www.cartoni.com/products/fluid-heads/fluid-heads-flat-base/maxima50-hm5000/",
     "id" : "221",
     "photoURLs" : [
-
+      "https://www.cartoni.com/wp-content/uploads/ProductImages/FluidHeads/Cartoni_FluidHeads_HM5000_Maxima5.0.jpg"
     ],
     "videoURLs" : [
 
@@ -6482,7 +6483,7 @@
     ],
     "DescriptionText" : "The OConnor 2575 is a fluid head designed for professional video and film production, allowing smooth panning and tilting movements. It supports a payload of 60kg, making it ideal for heavy camera setups, and provides a 360° pan range and a tilt range of -90° to +90°, ensuring versatile camera angles and fluid motion during shooting.",
     "Height" : "8.4in",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:16:30.103Z",
     "Length" : "8.6in",
     "Manufacturers" : "OConnor",
     "Min. Transport Required" : [
@@ -6503,7 +6504,7 @@
     "Width" : "12.4in",
     "id" : "222",
     "photoURLs" : [
-
+      "https://www.ocon.com/wp-content/uploads/2013/06/2575D_560x460px.png"
     ],
     "videoURLs" : [
 
@@ -6517,7 +6518,7 @@
     ],
     "DescriptionText" : "The OConnor 120EX is a professional fluid head designed for use in the TV and film industry, allowing for smooth panning and tilting movements of cameras up to 109kg. Its versatility and robust construction make it ideal for capturing high-quality motion shots in various filming environments.",
     "Height" : "9.8in",
-    "Last edited time" : "January 13, 2025 8:37 PM",
+    "Last edited time" : "2025-09-24T16:16:18.489Z",
     "Length" : "10.5in",
     "Manufacturers" : "OConnor",
     "Min. Transport Required" : [
@@ -6538,7 +6539,7 @@
     "Width" : "13.5in",
     "id" : "223",
     "photoURLs" : [
-
+      "https://www.ocon.com/wp-content/uploads/2013/05/120EX_560x460px.png"
     ],
     "videoURLs" : [
 
@@ -15343,6 +15344,35 @@
     "photoURLs" : [
       "https://vmi.tv/wp-content/uploads/sites/3/2022/07/Ronford-Center-Column-1.jpg",
       "https://vmi.tv/wp-content/uploads/sites/3/2022/07/Ronford-Center-Column-2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Fluid Heads",
+    "Created Date" : "2025-09-24T16:17:02.602Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "Fluid Drag" : "15 variations with 0 at both ends",
+    "Last edited time" : "2025-09-24T16:17:22.160Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Atlas 7 Mini",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360°",
+    "Steering Mode" : [
+
+    ],
+    "Tilt Range" : "360°",
+    "id" : "56692E03-E70A-42BF-A089-56B069D5032E",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/8930de_1ccddbf54e5d4f9ba9a5dbe8881f6550~mv2.jpeg/v1/fill/w_568,h_522,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8930de_1ccddbf54e5d4f9ba9a5dbe8881f6550~mv2.jpeg"
     ],
     "videoURLs" : [
 
