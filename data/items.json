@@ -5748,8 +5748,8 @@
     "Crew Required" : [
       "Bolero Technician"
     ],
-    "DescriptionText" : "The Bolero Comms Kit is a wireless intercom system used in the TV and film industry for real-time communication among crew members during production. It enhances coordination and efficiency on set, allowing for seamless communication without the constraints of traditional wired systems.",
-    "Last edited time" : "2025-09-24T14:33:43.321Z",
+    "DescriptionText" : "Meet Bolero, the wireless intercom system that’s changing the way productions communicate – and now, meet its compact counterpart, Bolero Mini, designed for maximum mobility without compromise. Together, they deliver Riedel’s legendary audio clarity, reliability, and flexibility in any production environment.\n\nBolero supports up to 250 beltpacks and 100 antennas, while Bolero Mini packs the same cutting-edge performance into a lightweight, thin form factor – less than a smartphone in weight and only 28 mm thick. Whether on stage, backstage, or in the broadcast booth, Bolero Mini stays out of sight while keeping teams connected.",
+    "Last edited time" : "2025-09-24T14:34:48.675Z",
     "Manufacturers" : "Riedel",
     "Min. Transport Required" : [
 
@@ -5767,7 +5767,7 @@
       "https://atcomms.co.uk/wp-content/uploads/2025/04/5-WAY-WEB.png"
     ],
     "videoURLs" : [
-
+      "https://riedel.canto.de/direct/video/f2s41vdpgp15p89th9hfkpr56i/xK4B46j-jo-5ErWN5i_wPoWC5t0/play"
     ]
   },
   {
@@ -7776,12 +7776,12 @@
 
     ],
     "DescriptionText" : "The EarTec Comms Kit is a wireless communication system designed for seamless communication among crew members in the TV and film industry, enabling efficient coordination on set without the need for handheld radios.",
-    "Last edited time" : "January 13, 2025 8:46 PM",
+    "Last edited time" : "2025-09-24T14:39:01.202Z",
     "Manufacturers" : "EarTec",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "EarTec Comms Kit",
+    "Name" : "UltraLITE HD Comms Kit",
     "Other Requirements" : [
 
     ],
@@ -7791,7 +7791,7 @@
     "WebsiteURL" : "https://eartec.com/ultralite/",
     "id" : "266",
     "photoURLs" : [
-
+      "https://eartec.com/wp-content/uploads/2019/12/ULSM_2019-1536x1536.jpg"
     ],
     "videoURLs" : [
 
@@ -9490,12 +9490,12 @@
 
     ],
     "DescriptionText" : "The Hollyland C1 Pro Comms Kit is a wireless communication system designed for the TV and film industry, enabling seamless communication among crew members over a distance of up to 1,100 feet, which is crucial for coordinating tasks on set.",
-    "Last edited time" : "January 14, 2025 11:02 AM",
+    "Last edited time" : "2025-09-24T14:38:58.375Z",
     "Manufacturers" : "Hollyland",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Hollyland C1 Pro Comms Kit",
+    "Name" : "Solidcom C1 Pro Comms Kit",
     "Other Requirements" : [
 
     ],
@@ -9506,7 +9506,8 @@
     "Wireless Distance" : "1,100ft",
     "id" : "325",
     "photoURLs" : [
-
+      "https://cdn.hollyland.com/file/product/solidcom-c1-pro/banner-pe.jpg",
+      "https://cdn.hollyland.com/file/product/solidcom-c1-pro/Group200-pe.jpg"
     ],
     "videoURLs" : [
 
@@ -12719,12 +12720,12 @@
 
     ],
     "DescriptionText" : "The HME Comms Kit is a communication system widely used in the TV and film industry to facilitate clear and reliable communication between crew members on set, ensuring smooth coordination during production.",
-    "Last edited time" : "January 13, 2025 8:46 PM",
+    "Last edited time" : "2025-09-24T14:38:55.876Z",
     "Manufacturers" : "HME",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "HME Comms Kit",
+    "Name" : "Clear-Com Comms Kit",
     "Other Requirements" : [
 
     ],
@@ -12733,7 +12734,7 @@
     ],
     "id" : "432",
     "photoURLs" : [
-
+      "https://www.fullcompass.com/common/products/original/82456.jpg"
     ],
     "videoURLs" : [
 
@@ -15289,6 +15290,35 @@
     "id" : "044D1B3D-4A5A-49BF-9849-7D0637E068FD",
     "photoURLs" : [
       "https://m.media-amazon.com/images/I/81dPeeKxiUL._AC_SL1500_.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Comms",
+    "Created Date" : "2025-09-24T14:36:45.567Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Solidcom C1 Pro – Roaming Hub alone supports up to 20 headsets without the need for cascading, thus ensuring easy set-up and reducing cable clutter. With this game-changer, the communication needs of many different applications can be easily met.",
+    "Last edited time" : "2025-09-24T14:37:59.469Z",
+    "Manufacturers" : "Hollyland",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Solidcom C1 Pro - Roaming Hub",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.hollyland.com/product/solidcom-c1-pro",
+    "Wireless Distance" : "1,100ft",
+    "id" : "7C780BAD-BBBB-46EE-9DF8-C635070FF81F",
+    "photoURLs" : [
+      "https://cdn.hollyland.com/file/product/solidcom-c1-roaming/Group200-pe.jpg"
     ],
     "videoURLs" : [
 
