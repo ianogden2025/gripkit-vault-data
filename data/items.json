@@ -13150,7 +13150,7 @@
     ],
     "DescriptionText" : "The Really Useful 48 litre Box is a versatile storage solution ideal for organizing equipment, props, and materials in the TV and film industry. Its clear design allows for easy visibility and quick access, making it essential for efficient set management and logistics during production.",
     "Height" : "315mm",
-    "Last edited time" : "January 13, 2025 8:47 PM",
+    "Last edited time" : "2025-09-24T20:58:59.626Z",
     "Length" : "400mm",
     "Manufacturers" : "Really Useful Product",
     "Min. Transport Required" : [
@@ -13168,7 +13168,7 @@
     "Width" : "600mm",
     "id" : "447",
     "photoURLs" : [
-
+      "https://m.media-amazon.com/images/I/41fkQQp9dHL._AC_SL1200_.jpg"
     ],
     "videoURLs" : [
 
@@ -13328,7 +13328,7 @@
 
     ],
     "DescriptionText" : "The DollyMate Archetype is a versatile tool used in the TV and film industry for efficient camera movement. It enables smooth tracking shots and camera angles, enhancing the visual storytelling by providing stability and flexibility during filming.",
-    "Last edited time" : "January 13, 2025 8:47 PM",
+    "Last edited time" : "2025-09-24T20:58:19.357Z",
     "Manufacturers" : "CGE Tools",
     "Min. Transport Required" : [
 
@@ -13343,7 +13343,7 @@
     "WebsiteURL" : "https://cgetools.com/archetype",
     "id" : "453",
     "photoURLs" : [
-
+      "https://m.media-amazon.com/images/I/81TQyPwNrWL._AC_SL1500_.jpg"
     ],
     "videoURLs" : [
 
@@ -13356,7 +13356,7 @@
 
     ],
     "DescriptionText" : "The DollyMate ToolBox is a portable storage solution designed for professionals in the TV and film industry, allowing for the organization and easy access to essential tools and equipment on set, enhancing efficiency during production.",
-    "Last edited time" : "January 13, 2025 8:47 PM",
+    "Last edited time" : "2025-09-24T20:58:39.492Z",
     "Manufacturers" : "CGE Tools",
     "Min. Transport Required" : [
 
@@ -13371,7 +13371,7 @@
     "WebsiteURL" : "https://cgetools.com/toolbox",
     "id" : "454",
     "photoURLs" : [
-
+      "https://m.media-amazon.com/images/I/71KOZOtaK+L._AC_SL1500_.jpg"
     ],
     "videoURLs" : [
 
@@ -13384,7 +13384,7 @@
 
     ],
     "DescriptionText" : "The DollyMate MiniMate is a compact, portable dolly system designed for smooth camera movements in the TV and Film industry. It allows filmmakers to achieve professional-quality shots with ease, making it ideal for small shoots or tight spaces.",
-    "Last edited time" : "2025-09-24T20:54:20.582Z",
+    "Last edited time" : "2025-09-24T20:57:49.220Z",
     "Manufacturers" : "CGE Tools",
     "Min. Transport Required" : [
 
@@ -13399,7 +13399,7 @@
     "WebsiteURL" : "https://cgetools.com/minimate",
     "id" : "455",
     "photoURLs" : [
-
+      "https://m.media-amazon.com/images/I/81FMMsWfYnL._AC_SX679_.jpg"
     ],
     "videoURLs" : [
 
@@ -13496,7 +13496,7 @@
 
     ],
     "DescriptionText" : "The Stanley FatMax 26ft Tape Measure is a durable and reliable measuring tool commonly used in the TV & Film industry for precise measurements on set, ensuring accurate placement of props, lighting, and camera equipment during production.",
-    "Last edited time" : "2025-09-24T20:54:17.617Z",
+    "Last edited time" : "2025-09-24T20:57:17.855Z",
     "Length" : "26ft",
     "Manufacturers" : "Stanley",
     "Min. Transport Required" : [
@@ -13512,7 +13512,7 @@
     "WebsiteURL" : "https://www.stanleytools.com/product/33-725/25-ft-stanley-fatmax-classic-tape-measure",
     "id" : "460",
     "photoURLs" : [
-
+      "https://eu.evocdn.io/dealer/1716/catalog/product/images/3_0_3_9_30390999751937ca5bfe44a6d0aac26da0b3fc4d_stanley_fatmax_pro_pocket_tape_8mtr_26ft.jpg"
     ],
     "videoURLs" : [
 
@@ -14943,20 +14943,22 @@
 
     ],
     "DescriptionText" : "SCAN Work Gloves are durable protective gloves used in the TV and film industry to ensure safety while handling equipment and props, providing grip and preventing injuries during production activities.",
-    "Last edited time" : "2025-09-24T20:54:16.862Z",
+    "Last edited time" : "2025-09-24T20:55:59.540Z",
+    "Manufacturers" : "SCAN",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "SCAN Work Gloves",
+    "Name" : "Work Gloves",
     "Other Requirements" : [
 
     ],
     "Steering Mode" : [
 
     ],
+    "WebsiteURL" : "https://www.scan-safety.com/p/SCAGLONITMFM/Breathable-Nitrile-Micro-Foam-Gloves",
     "id" : "510",
     "photoURLs" : [
-
+      "https://www.scan-safety.com/images/large/SCAGLONITMFM.jpg?"
     ],
     "videoURLs" : [
 
