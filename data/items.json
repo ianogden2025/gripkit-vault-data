@@ -13135,7 +13135,7 @@
 
     ],
     "DescriptionText" : "The Brag Box - Wipers 7400 are specialized cleaning tools used in the TV and film industry to maintain the clarity of camera lenses and screens, ensuring high-quality visuals during production.",
-    "Last edited time" : "January 13, 2025 8:47 PM",
+    "Last edited time" : "2025-09-24T14:28:26.861Z",
     "Manufacturers" : "Wypall",
     "Min. Transport Required" : [
 
@@ -15231,6 +15231,33 @@
     "id" : "CD583899-DD39-4856-B102-0324767D6B43",
     "photoURLs" : [
       "https://web-api.cameraworks.co.uk/images/web-api.cameraworks.co.uk/files/icons/gtmzfutz.png?width=800&format=jpg&quality=70&bgcolor=%23f5f3f0"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Cleaning",
+    "Created Date" : "2025-09-24T14:29:06.201Z",
+    "Crew Required" : [
+
+    ],
+    "Last edited time" : "2025-09-24T14:29:37.415Z",
+    "Manufacturers" : "OXO",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "All Purpose Scrubbing Brush",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.oxouk.com/products/cleaning-organising/all-purpose-scrub-brush/",
+    "id" : "802EB9A2-1299-4285-9A6E-33E975A7D9E3",
+    "photoURLs" : [
+      "https://www.oxouk.com/wp-content/uploads/GG_33881_All-Purpose-Scrub-Brush_Carousel_01_EN-e1754569693857.jpg"
     ],
     "videoURLs" : [
 
