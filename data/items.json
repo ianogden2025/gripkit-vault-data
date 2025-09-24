@@ -5746,10 +5746,10 @@
     "Category" : "Comms",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
-
+      "Bolero Technician"
     ],
     "DescriptionText" : "The Bolero Comms Kit is a wireless intercom system used in the TV and film industry for real-time communication among crew members during production. It enhances coordination and efficiency on set, allowing for seamless communication without the constraints of traditional wired systems.",
-    "Last edited time" : "January 13, 2025 8:46 PM",
+    "Last edited time" : "2025-09-24T14:33:43.321Z",
     "Manufacturers" : "Riedel",
     "Min. Transport Required" : [
 
@@ -5764,7 +5764,7 @@
     "WebsiteURL" : "https://www.riedel.net/en/products-solutions/intercom/bolero-wireless-intercom",
     "id" : "198",
     "photoURLs" : [
-
+      "https://atcomms.co.uk/wp-content/uploads/2025/04/5-WAY-WEB.png"
     ],
     "videoURLs" : [
 
