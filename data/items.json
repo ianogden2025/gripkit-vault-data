@@ -3753,7 +3753,7 @@
 
     ],
     "DescriptionText" : "The Stinger Plus is a versatile jib arm used in the TV and film industry for capturing dynamic camera movements. It allows for smooth, controlled shots from various angles, enhancing the visual storytelling without the need for extensive setups.",
-    "Last edited time" : "January 13, 2025 8:34 PM",
+    "Last edited time" : "2025-09-24T20:37:50.928Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
       "Van"
@@ -6325,12 +6325,15 @@
 
     ],
     "DescriptionText" : "The Instagrid Power Pack is a portable power solution designed for the TV and film industry, providing reliable energy for lighting and equipment on set, ensuring uninterrupted shooting in diverse locations.",
-    "Last edited time" : "January 13, 2025 8:38 PM",
+    "Features" : "Rated Power Output: 3.6 kW (16A) | Peak Power Output: 18kW (80 A)",
+    "Last edited time" : "2025-09-24T20:32:25.125Z",
     "Manufacturers" : "Instagrid",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "20kg",
     "Name" : "Instagrid Power Pack",
+    "Operating Temperature" : "- 20 °C to 60 °C",
     "Other Requirements" : [
 
     ],
@@ -6339,7 +6342,7 @@
     ],
     "id" : "217",
     "photoURLs" : [
-
+      "https://assets.zoro.co.uk/Images/p/1500x1500/ZT6336316S/One_230v_Portable_Battery_System_0.jpg?w=1080"
     ],
     "videoURLs" : [
 
@@ -7592,7 +7595,7 @@
     ],
     "DescriptionText" : "The Vertical Apple Box Cushion is a portable, padded seat designed for comfort during film and TV production. It fits atop an apple box, providing a stable and cushioned seating option for crew members on set.",
     "Height" : "10cm",
-    "Last edited time" : "February 13, 2025 4:17 PM",
+    "Last edited time" : "2025-09-24T20:41:09.289Z",
     "Length" : "21.5cm",
     "Manufacturers" : "ProAim",
     "Min. Transport Required" : [
@@ -7610,7 +7613,7 @@
     "Width" : "30cm",
     "id" : "261",
     "photoURLs" : [
-
+      "https://www.proaim.be/cdn/shop/products/Proaim-Comfort-Cushion-Seat-for-Apple-box-_Vertical_1600x1600_00e98988-476b-435e-bf82-f08d02592baf_882x882.jpg?v=1642393272"
     ],
     "videoURLs" : [
 
@@ -10692,7 +10695,7 @@
 
     ],
     "DescriptionText" : "The GF-Mini Shock Absorber is a compact device used in the TV and Film industry to stabilize and dampen vibrations in camera rigs and mounting equipment, ensuring smooth and steady shots during filming.",
-    "Last edited time" : "January 13, 2025 8:46 PM",
+    "Last edited time" : "2025-09-24T20:38:00.254Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -10776,7 +10779,7 @@
 
     ],
     "DescriptionText" : "The GF-Maxi Shock Absorber is a specialized device used in the TV and film industry to reduce vibrations and impacts in camera equipment, ensuring smooth and stable shots during production.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:38:01.206Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11271,7 +11274,9 @@
 
     ],
     "DescriptionText" : "The Imperial Full Apple Box (18\" high) is a versatile wooden equipment piece commonly used in the TV and film industry for creating elevation, supporting camera setups, or serving as a stable platform for actors and crew. Its durable construction makes it ideal for a variety of staging needs.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Height" : "8in",
+    "Last edited time" : "2025-09-24T20:40:47.197Z",
+    "Length" : "12in",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11284,9 +11289,10 @@
 
     ],
     "WebsiteURL" : "https://www.setgear.co.uk/products/apple-box-imperial-full?pr_prod_strat=e5_desc&pr_rec_id=c8283bd84&pr_rec_pid=7868918726805&pr_ref_pid=7868924690581&pr_seq=uniform",
+    "Width" : "18in",
     "id" : "386",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_037_5c70870e-6c9f-4c2a-8aa6-ccb73311532a_360x.jpg?v=1680542740"
     ],
     "videoURLs" : [
 
@@ -11299,7 +11305,7 @@
 
     ],
     "DescriptionText" : "Finger wedges are wooden tools used in the TV and film industry for precise alignment and stabilization of various set pieces and props during filming. They help ensure that items remain securely in place, allowing for smoother shots and reducing the need for post-production adjustments.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:42:00.467Z",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11313,7 +11319,7 @@
     ],
     "id" : "387",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/WedgesNewFreshPhoto_360x.jpg?v=1680721380"
     ],
     "videoURLs" : [
 
@@ -11326,7 +11332,7 @@
 
     ],
     "DescriptionText" : "The Teaboard T49 is a versatile wooden serving board used in the TV & Film industry for presenting food and beverages on set. Its aesthetic design enhances visual appeal during scenes, making it ideal for catering and styling in productions.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:42:19.621Z",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11341,7 +11347,7 @@
     "WebsiteURL" : "https://www.setgear.co.uk/products/teaboard-46?pr_prod_strat=e5_desc&pr_rec_id=5e8bdc459&pr_rec_pid=7713462517909&pr_ref_pid=7713458356373&pr_seq=uniform",
     "id" : "388",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_006_360x.jpg?v=1666025611"
     ],
     "videoURLs" : [
 
@@ -11354,7 +11360,7 @@
 
     ],
     "DescriptionText" : "Large wedges are commonly used in the TV and film industry for set construction and staging. They provide stability and support for props, set pieces, and equipment, ensuring safety and proper alignment during production.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:41:51.954Z",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11368,7 +11374,7 @@
     ],
     "id" : "389",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/P1410079_360x.jpg?v=1652257464"
     ],
     "videoURLs" : [
 
@@ -11381,7 +11387,7 @@
 
     ],
     "DescriptionText" : "The Teaboard T43 is a wooden serving board commonly used in the TV and film industry for presenting food and beverages on set. Its aesthetic appeal enhances visual storytelling during scenes that involve dining or entertaining, making it an essential prop for creating an authentic atmosphere.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:42:06.505Z",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11396,7 +11402,7 @@
     "WebsiteURL" : "https://www.setgear.co.uk/products/teaboard-t43?pr_prod_strat=e5_desc&pr_rec_id=8dfac35cc&pr_rec_pid=7713451311253&pr_ref_pid=7713462517909&pr_seq=uniform",
     "id" : "390",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_004_360x.jpg?v=1666024769"
     ],
     "videoURLs" : [
 
@@ -11409,7 +11415,7 @@
 
     ],
     "DescriptionText" : "The Teaboard T44 is a versatile wooden surface used in the TV and film industry for stabilizing cameras and other equipment during shoots. It provides a reliable platform for mounting gear, ensuring smooth operation and precise filming angles.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Last edited time" : "2025-09-24T20:42:14.093Z",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11424,7 +11430,7 @@
     "WebsiteURL" : "https://www.setgear.co.uk/collections/camera-kit/products/teaboard-44",
     "id" : "391",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_001_360x.jpg?v=1666025347"
     ],
     "videoURLs" : [
 
@@ -11437,12 +11443,14 @@
 
     ],
     "DescriptionText" : "The Imperial Half Apple Box is a versatile wooden box used in the TV and film industry for elevating equipment or actors, providing support, and creating stable platforms on set.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Height" : "4in",
+    "Last edited time" : "2025-09-24T20:49:17.108Z",
+    "Length" : "12in",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Imperial Half Apple Box",
+    "Name" : "Imperial Half Apple Box (18” high)",
     "Other Requirements" : [
 
     ],
@@ -11450,9 +11458,10 @@
 
     ],
     "WebsiteURL" : "https://www.setgear.co.uk/collections/grip-kit/products/apple-box-imperial-1-2",
+    "Width" : "18in",
     "id" : "392",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_041_2d90f6bc-26fc-4cb0-8938-bce55849431e_360x.jpg?v=1680544274"
     ],
     "videoURLs" : [
 
@@ -11465,7 +11474,9 @@
 
     ],
     "DescriptionText" : "The Imperial Eighth Apple Box is a versatile wooden platform, 18 inches high, commonly used in the TV and film industry for various purposes, including raising camera equipment, providing stable seating, or serving as a prop. Its sturdy construction allows for reliable support in diverse production settings.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Height" : "1",
+    "Last edited time" : "2025-09-24T20:40:23.088Z",
+    "Length" : "12in",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11478,9 +11489,10 @@
 
     ],
     "WebsiteURL" : "https://www.setgear.co.uk/products/apple-box-imperial-1-8?pr_prod_strat=e5_desc&pr_rec_id=d5d4b3a17&pr_rec_pid=7868926230677&pr_ref_pid=7868925608085&pr_seq=uniform",
+    "Width" : "18in",
     "id" : "393",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_043_0534d312-4f7f-41b6-90e7-e584b08fadd3_360x.jpg?v=1680544191"
     ],
     "videoURLs" : [
 
@@ -11493,7 +11505,9 @@
 
     ],
     "DescriptionText" : "The Imperial Quarter Apple Box is an 18-inch high wooden box commonly used in the TV and film industry as a versatile prop or platform for adjusting actor heights, creating levels on set, or providing a stable surface for equipment.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
+    "Height" : "2in",
+    "Last edited time" : "2025-09-24T20:40:12.314Z",
+    "Length" : "12in",
     "Manufacturers" : "Setgear",
     "Min. Transport Required" : [
 
@@ -11506,9 +11520,10 @@
 
     ],
     "WebsiteURL" : "https://www.setgear.co.uk/products/copy-of-apple-box-imperial-1-4?pr_prod_strat=e5_desc&pr_rec_id=8be2e55af&pr_rec_pid=7868925608085&pr_ref_pid=7868918726805&pr_seq=uniform",
+    "Width" : "18in",
     "id" : "394",
     "photoURLs" : [
-
+      "https://www.setgear.co.uk/cdn/shop/products/SETGEAR_042_11d9d096-f899-4a4b-abdb-48f704dc5ff4_360x.jpg?v=1680543730"
     ],
     "videoURLs" : [
 
@@ -11521,8 +11536,10 @@
 
     ],
     "DescriptionText" : "The American Full Apple Box is a versatile wooden box used in the TV and film industry for various purposes, including as a platform for actors, to prop up equipment, or to create different heights for staging. Its robust design allows for easy stacking and stability on set.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
-    "Manufacturers" : "Setgear",
+    "Height" : "8in",
+    "Last edited time" : "2025-09-24T20:43:47.596Z",
+    "Length" : "12in",
+    "Manufacturers" : "Matthews Studio Equipment Inc.",
     "Min. Transport Required" : [
 
     ],
@@ -11534,9 +11551,10 @@
 
     ],
     "WebsiteURL" : "https://www.msegrip.com/collections/apple-boxes/products/full-apple-box",
+    "Width" : "20in",
     "id" : "395",
     "photoURLs" : [
-
+      "https://www.msegrip.com/cdn/shop/products/259535_full-apple-box_01_1500.jpg?v=1728246760&width=1125"
     ],
     "videoURLs" : [
 
@@ -11549,8 +11567,10 @@
 
     ],
     "DescriptionText" : "The American Half Apple Box is a versatile wooden platform used in the TV and film industry to create stable surfaces for actors and equipment, often serving as a riser or a prop to adjust height and facilitate camera shots.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
-    "Manufacturers" : "Setgear",
+    "Height" : "4in",
+    "Last edited time" : "2025-09-24T20:45:00.176Z",
+    "Length" : "12in",
+    "Manufacturers" : "Matthews Studio Equipment Inc.",
     "Min. Transport Required" : [
 
     ],
@@ -11562,9 +11582,10 @@
 
     ],
     "WebsiteURL" : "https://www.msegrip.com/products/half-apple-box",
+    "Width" : "20in",
     "id" : "396",
     "photoURLs" : [
-
+      "https://www.msegrip.com/cdn/shop/products/259536_half-apple-box_01_1500.jpg?v=1728246762&width=1125"
     ],
     "videoURLs" : [
 
@@ -11577,8 +11598,10 @@
 
     ],
     "DescriptionText" : "The American Eighth Apple Box is a versatile wooden platform commonly used in the TV and film industry for various purposes, including elevating equipment, actors, or props, providing stability and a level surface for shooting scenes.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
-    "Manufacturers" : "Setgear",
+    "Height" : "1in",
+    "Last edited time" : "2025-09-24T20:45:03.248Z",
+    "Length" : "12in",
+    "Manufacturers" : "Matthews Studio Equipment Inc.",
     "Min. Transport Required" : [
 
     ],
@@ -11590,9 +11613,10 @@
 
     ],
     "WebsiteURL" : "https://www.msegrip.com/products/eighth-apple-box",
+    "Width" : "20in",
     "id" : "397",
     "photoURLs" : [
-
+      "https://www.msegrip.com/cdn/shop/products/259538_eighth-apple-box_01_1500.jpg?v=1728246828&width=1125"
     ],
     "videoURLs" : [
 
@@ -11605,8 +11629,10 @@
 
     ],
     "DescriptionText" : "The American Quarter Apple Box is a versatile piece of equipment used in the TV and film industry for staging, lighting, and as a prop. Its sturdy wooden construction allows it to be easily stacked or used as a platform for actors and equipment.",
-    "Last edited time" : "January 13, 2025 8:45 PM",
-    "Manufacturers" : "Setgear",
+    "Height" : "2in",
+    "Last edited time" : "2025-09-24T20:44:48.752Z",
+    "Length" : "12in",
+    "Manufacturers" : "Matthews Studio Equipment Inc.",
     "Min. Transport Required" : [
 
     ],
@@ -11618,9 +11644,10 @@
 
     ],
     "WebsiteURL" : "https://www.msegrip.com/products/quarter-apple-box",
+    "Width" : "20in",
     "id" : "398",
     "photoURLs" : [
-
+      "https://www.msegrip.com/cdn/shop/products/259537_quarter-apple-box_01_1500.jpg?v=1728246826&width=1125"
     ],
     "videoURLs" : [
 
@@ -14413,7 +14440,7 @@
       "Rigging Grip (lvl 3)"
     ],
     "DescriptionText" : "The Tilta Shock Absorbing Arm is a specialized rigging tool used in the TV and film industry to stabilize and absorb shocks during camera movements, ensuring smoother shots and reducing vibrations. It is particularly useful when mounting cameras on moving rigs or vehicles.",
-    "Last edited time" : "February 21, 2025 3:37 PM",
+    "Last edited time" : "2025-09-24T20:38:01.724Z",
     "Min. Transport Required" : [
       "Car"
     ],
@@ -14440,7 +14467,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Alien Pro is a car mounting system designed for the TV and film industry, allowing for stable and versatile camera placement on vehicles during shoots, enabling dynamic moving shots and enhancing production value.",
-    "Last edited time" : "February 21, 2025 3:38 PM",
+    "Last edited time" : "2025-09-24T20:38:02.188Z",
     "Min. Transport Required" : [
       "Car"
     ],
@@ -14467,7 +14494,7 @@
 
     ],
     "DescriptionText" : "An HD Monitor is a high-definition display device used in the TV and film industry for accurate video editing, color grading, and monitoring during production. It provides clear and detailed visuals, essential for ensuring the quality of the final output.",
-    "Last edited time" : "December 30, 2024 12:10 AM",
+    "Last edited time" : "2025-09-24T20:38:04.523Z",
     "Min. Transport Required" : [
 
     ],
@@ -15373,6 +15400,63 @@
     "id" : "56692E03-E70A-42BF-A089-56B069D5032E",
     "photoURLs" : [
       "https://static.wixstatic.com/media/8930de_1ccddbf54e5d4f9ba9a5dbe8881f6550~mv2.jpeg/v1/fill/w_568,h_522,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8930de_1ccddbf54e5d4f9ba9a5dbe8881f6550~mv2.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Power",
+    "Created Date" : "2025-09-24T20:34:08.969Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Great for charging dollies and for powering the essential coffee machine. Can be solar charged.",
+    "Features" : " 1056Wh | 1800W",
+    "Last edited time" : "2025-09-24T20:37:22.363Z",
+    "Manufacturers" : "Anker",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "SOLIX C1000 Portable Power Station",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.ankersolix.com/uk/products/c1000?variant=51162041352528&ref=naviMenu_1_1_2_1_img",
+    "id" : "18CCB8CB-88C8-4A40-A6D2-6F82274F0E6F",
+    "photoURLs" : [
+      "https://cdn.shopify.com/s/files/1/0864/7026/3120/files/cq5dam.web.1280.1280_20_985ee81f-dbd9-41dc-8318-1c711a6c1c12_2048x.png?v=1750410480"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Woodwork",
+    "Created Date" : "2025-09-24T20:45:31.600Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Take a really abstract approach to an already field-proven design and you get a product with a 'footprint' that offers greater stability. As a result of having a larger surface area and by having three feet, it makes leveling a whole lot easier! We just couldn't call it anything else - Elephant Blocks!\n\nManufactured of the highest quality 9-ply 'Baltic Birch' plywood, Elephant Blocks replace conventional Basso Blocks. The improved design allows them to stack in limitless configurations in 1\" increments while accomplishing the same elevating function and support as Bassos. And they occupy less space! Elephant Blocks...now that's a real trunk full!",
+    "Features" : "Available in 2in and 4in",
+    "Last edited time" : "2025-09-24T20:46:19.125Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Elephant Blocks",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "B879B8A2-5C10-4995-860C-0C5CC9CE558F",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/files/elephant-blocks_2in-4in_259568-259570.jpg?v=1754421036&width=1125"
     ],
     "videoURLs" : [
 
