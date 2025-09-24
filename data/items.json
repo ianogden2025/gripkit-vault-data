@@ -15242,11 +15242,15 @@
     "Crew Required" : [
 
     ],
-    "Last edited time" : "2025-09-24T14:29:37.415Z",
+    "DescriptionText" : "The OXO Good Grips All-Purpose Scrub Brush helps you tackle stubborn dirt across your home—from grout lines to tile edges and more. Stiff bristles power through grime, while the contoured handle shields your knuckles and absorbs pressure for comfortable cleaning. The curved neck hooks easily on buckets or caddies for fuss-free access and storage.",
+    "Height" : "10.1 cm",
+    "Last edited time" : "2025-09-24T14:30:45.211Z",
+    "Length" : "7.62 cm",
     "Manufacturers" : "OXO",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "136g",
     "Name" : "All Purpose Scrubbing Brush",
     "Other Requirements" : [
 
@@ -15255,6 +15259,7 @@
 
     ],
     "WebsiteURL" : "https://www.oxouk.com/products/cleaning-organising/all-purpose-scrub-brush/",
+    "Width" : "12.7 cm",
     "id" : "802EB9A2-1299-4285-9A6E-33E975A7D9E3",
     "photoURLs" : [
       "https://www.oxouk.com/wp-content/uploads/GG_33881_All-Purpose-Scrub-Brush_Carousel_01_EN-e1754569693857.jpg"
