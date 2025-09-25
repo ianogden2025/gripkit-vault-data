@@ -9695,7 +9695,8 @@
 
     ],
     "Inside Diameter" : "294",
-    "Last edited time" : "2025-09-25T19:10:08.155Z",
+    "Last edited time" : "2025-09-25T19:18:20.585Z",
+    "Length" : "8.5m Long Arm",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -9798,10 +9799,10 @@
       "On-Road/Off-Road Tyre Packages Included."
     ],
     "Fulcrum to Long End" : "4.3m | 5.5m | 6.5m | 7.6m",
-    "Fulcrum to Short End" : "1.9m",
+    "Fulcrum to Rear" : "1.9m",
     "Height" : "3.1m Level Arm | 8m Arm Up",
     "Horse Power" : "575 BHP",
-    "Last edited time" : "2025-09-25T19:16:11.983Z",
+    "Last edited time" : "2025-09-25T19:21:04.341Z",
     "Length" : "8.5m Long Arm",
     "Manufacturers" : "Bickers Action",
     "Max. Lens Height (Underslung)" : "15ft Standard Arm | 21ft 8in Long Arm",
@@ -9967,32 +9968,45 @@
       "Head Tech",
       "Precision Driver",
       "U-Crane Driver",
-      "U-Crane Operator"
+      "U-Crane Operator",
+      "Lorry Driver"
     ],
-    "DescriptionText" : "The U-Crane 6 Stealth F150 Raptor is a specialized tracking vehicle used in the TV and film industry for capturing dynamic moving shots. It is designed to provide stability and precision while following subjects, making it ideal for high-octane scenes and action sequences.",
+    "DescriptionText" : "The U-Crane 6 Stealth F150 Raptor is based on a Ford F150 Raptor – 3.5L V6 Twin turbo with 450 BHP capable of 0-60 in 5.3 Seconds. The F150 Raptor has been fully customised by our in-house engineering team to ensure the perfect integration of U-Crane to Car is achieved with a full exoskeletal cage mounted to the chassis to deliver a high level of stability whilst driving over any and all terrains, combined with FOX Racing long travel suspension and Air Ride Assist makes the F150 Raptor our most versatile and capable vehicle within the Bickers U-Crane fleet.\n\nALL BICKERS TRACKING VEHICLES CANNOT BE RUN IN WATER, BEACH SALT WATER OR RIVER WATER.\n\nThe U-Crane 6 paired with the Filmotechnic Flight Head series create the most dynamic remotely operated Gyrostabilised camera crane systems available on the market with a 360 degree pan speed of 4.5 seconds. This combination ensures the camera’s stability is second to none on-road, off-road and even at high speeds.\n\nThe U-Crane 6 is capable of taking a huge variety of camera packages including camera arrays. The weights and lengths stated below make the U-Crane 6 the longest reaching and heaviest payload arm in the UK. ",
     "Features" : [
-
+      "5x SmallHD 703 Ultrabright Monitors with Shogun Recorder for Video Playback.",
+      "Motorola Walkie Talkie set available along with full in-car comms if required.",
+      "On-Road/Off-Road Tyre Packages Included."
     ],
-    "Inside Diameter" : "302",
-    "Last edited time" : "2025-09-25T19:08:58.367Z",
+    "Fulcrum to Long End" : "4.3m | 5.5m | 6.5m | 7.6m",
+    "Fulcrum to Rear" : "1.9m",
+    "Height" : "3.1m Level Arm | 8m Arm Up",
+    "Horse Power" : "450 BHP",
+    "Last edited time" : "2025-09-25T19:22:04.013Z",
+    "Length" : "8.5m Long Arm",
     "Manufacturers" : "Bickers Action",
+    "Max. Lens Height (Underslung)" : "15ft Standard Arm | 21ft 8in Long Arm",
+    "Min. Lens Height" : "-4.1m",
     "Min. Transport Required" : [
-
+      "Articulated Truck"
     ],
     "Name" : "U-Crane 6 Stealth F150 Raptor",
     "Other Requirements" : [
-
+      "Rain Deflector"
     ],
+    "Payload" : "85kg",
+    "Road Legal" : true,
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/u-crane-6-f150-raptor/",
     "id" : "302",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/f20679a6-ced7-4147-863c-c3bc2da28d2e-1-e1547908673783.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/IMG_0687.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/IMG_0689.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/B4Sj5bwSJtI"
     ]
   },
   {
@@ -13406,7 +13420,7 @@
 
     ],
     "Inside Diameter" : "404",
-    "Last edited time" : "January 13, 2025 8:44 PM",
+    "Last edited time" : "2025-09-25T19:22:03.275Z",
     "Manufacturers" : "Action 99 Cars",
     "Min. Transport Required" : [
 
