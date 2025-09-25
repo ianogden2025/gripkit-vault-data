@@ -1702,7 +1702,7 @@
 
     ],
     "Inside Diameter" : "50",
-    "Last edited time" : "2025-09-22T22:16:52.169Z",
+    "Last edited time" : "2025-09-25T19:58:29.718Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
       "Car"
@@ -5570,17 +5570,23 @@
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The 4’ Ronford Baker Slider is a lightweight camera sliding device used in the TV and film industry to create smooth, controlled camera movements. It is typically operated by a grip and allows for dynamic shots, enhancing the visual storytelling by enabling horizontal or vertical tracking of subjects.",
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
     "Features" : [
-
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
     ],
     "Inside Diameter" : "173",
-    "Last edited time" : "2025-09-22T22:18:45.620Z",
+    "Last edited time" : "2025-09-25T20:11:08.175Z",
+    "Length" : "4ft",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "4’ Ronford Baker Slider",
+    "Name" : "4ft Ronford Baker Slider",
     "Other Requirements" : [
 
     ],
@@ -5593,199 +5599,7 @@
       "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
     ],
     "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 10’ Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows operators to create dynamic shots by sliding the camera along a track, enhancing the visual storytelling of a scene.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "174",
-    "Last edited time" : "2025-09-22T22:18:48.257Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "10’ Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "174",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 3’6” Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows filmmakers to create dynamic shots by sliding the camera along a track, enhancing storytelling through motion.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "175",
-    "Last edited time" : "2025-09-22T22:18:50.199Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "3’6” Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "175",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 6’ Ronford Baker Slider is a professional camera slider used in the TV and film industry to achieve smooth, controlled camera movements. It allows for dynamic shots by enabling the camera to slide horizontally or vertically, enhancing the storytelling and visual appeal of scenes.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "176",
-    "Last edited time" : "2025-09-22T22:18:52.171Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "6’ Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "176",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 8’ Ronford Baker Slider is a professional camera sliding system used in the TV and film industry to create smooth, controlled camera movements for dynamic shots. It is essential for achieving cinematic effects, enhancing storytelling, and providing a polished visual presentation.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "177",
-    "Last edited time" : "2025-09-22T22:18:54.155Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "8’ Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "177",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 2’ Ronford Baker Slider is a compact, professional camera slider used in the TV and film industry to create smooth, controlled tracking shots. It allows filmmakers to achieve dynamic movements while maintaining stability, enhancing the visual storytelling of their projects.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "178",
-    "Last edited time" : "2025-09-22T22:18:56.089Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "2’ Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "178",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Sliders",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The 3’ Ronford Baker Slider is a camera slider used in the TV and film industry to create smooth, controlled horizontal movements of the camera. It enhances dynamic shots by allowing cinematographers to achieve professional-looking tracking shots and adds depth to scenes.",
-    "Features" : [
-
-    ],
-    "Inside Diameter" : "179",
-    "Last edited time" : "2025-09-22T22:18:58.155Z",
-    "Manufacturers" : "Ronford Baker Engineering",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "3’ Ronford Baker Slider",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
-    "id" : "179",
-    "photoURLs" : [
-      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
-    ],
-    "videoURLs" : [
-
+      "https://youtu.be/DJzT3UqDEJQ"
     ]
   },
   {
@@ -11137,8 +10951,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "340",
-    "Last edited time" : "2025-09-22T22:20:07.260Z",
+    "Last edited time" : "2025-09-25T20:04:20.969Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12153,8 +11966,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "370",
-    "Last edited time" : "2025-09-22T22:20:09.449Z",
+    "Last edited time" : "2025-09-25T20:04:23.353Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12185,8 +11997,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "371",
-    "Last edited time" : "2025-09-22T22:20:11.549Z",
+    "Last edited time" : "2025-09-25T20:04:25.955Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12217,8 +12028,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "372",
-    "Last edited time" : "2025-09-22T22:20:13.581Z",
+    "Last edited time" : "2025-09-25T20:04:28.197Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12249,8 +12059,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "373",
-    "Last edited time" : "2025-09-22T22:20:15.689Z",
+    "Last edited time" : "2025-09-25T20:04:30.533Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12281,8 +12090,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "374",
-    "Last edited time" : "2025-09-22T22:20:17.671Z",
+    "Last edited time" : "2025-09-25T20:04:32.924Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12313,8 +12121,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "375",
-    "Last edited time" : "2025-09-22T22:20:20.403Z",
+    "Last edited time" : "2025-09-25T20:04:35.314Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -12345,8 +12152,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "376",
-    "Last edited time" : "2025-09-22T22:20:22.521Z",
+    "Last edited time" : "2025-09-25T20:11:32.766Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -15924,8 +15730,7 @@
 
     ],
     "Height" : "6in",
-    "Inside Diameter" : "481",
-    "Last edited time" : "2025-09-22T22:20:57.155Z",
+    "Last edited time" : "2025-09-25T20:04:40.389Z",
     "Length" : "29in",
     "Manufacturers" : "Hudson Spider",
     "Max. Weight" : "21kg",
@@ -17443,6 +17248,300 @@
     ],
     "videoURLs" : [
 
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T19:59:31.280Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Introducing Ronford Baker's new lightweight portable slider. The slider comes complete with removable and adjustable ‘ARRI’ standard rosette mounting legs, adjustable magnetic carriage stops and quick release carriage plate. Configurable without using any tools, you will be able to use either a 100mm or 150mm bowl mount options both on the top and underneath the slider.\n\nThere is also a flat plate option forusing attaching a quick release or dovetail plate.The slider carriage runs on precision ground stainless steel rails to ensure a smooth andsilent operation. 3/8” mounting points are available along the centre of the slider to helpmount on a tripod using either a 100mm or 150mm levelling ball. The slider can also bemounted onto monopods or lighting stands.\n\nOptional 32mm clamps on rosettes and tube kit is also available. Protective impact & shock resistant wheeled case (available separately).",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-25T20:04:41.420Z",
+    "Length" : "2ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "4.3kg",
+    "Name" : "Lightweight 2ft Slider",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "25kg",
+    "Steering Mode" : [
+
+    ],
+    "id" : "BF63A8F5-8ADE-45AF-A3FE-8FA2ACECDFB8",
+    "photoURLs" : [
+      "https://cdn.cvp.com/images/products/altimage/21-07-20201595334865slider.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:01:15.885Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Introducing Ronford Baker's new lightweight portable slider. The slider comes complete with removable and adjustable ‘ARRI’ standard rosette mounting legs, adjustable magnetic carriage stops and quick release carriage plate. Configurable without using any tools, you will be able to use either a 100mm or 150mm bowl mount options both on the top and underneath the slider.\n\nThere is also a flat plate option forusing attaching a quick release or dovetail plate.The slider carriage runs on precision ground stainless steel rails to ensure a smooth andsilent operation. 3/8” mounting points are available along the centre of the slider to helpmount on a tripod using either a 100mm or 150mm levelling ball. The slider can also bemounted onto monopods or lighting stands.\n\nOptional 32mm clamps on rosettes and tube kit is also available. Protective impact & shock resistant wheeled case (available separately).",
+    "Features" : [
+      "Quick release carriage plate which can also be used as a Hi-Hat",
+      "Fast and easily mountable 100mm or 150mm base options via 3/8” holes, or on rosette mountable legs.",
+      "The slider can also be mounted onto monopods, lighting stands or on 32mm tubes.",
+      "Can be underslung",
+      "‘ARRI’ standard rosette mounting legs, compatible with our ‘Moose’ Bar Hand Extensions",
+      "Spirit Levels installed at both ends of the slider"
+    ],
+    "Last edited time" : "2025-09-25T20:03:27.975Z",
+    "Length" : "3ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "5.4kg",
+    "Name" : "Lightweight 3ft Slider",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "25kg",
+    "Steering Mode" : [
+
+    ],
+    "Width" : "10in",
+    "id" : "B780428A-B012-43BC-A798-27623FFDD9CD",
+    "photoURLs" : [
+      "https://cdn.cvp.com/images/products/altimage/21-07-20201595334865slider.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:06:44.331Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:12.017Z",
+    "Length" : "2ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "2ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "F2640D57-D42E-4E9E-B5CA-7856583890AC",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:07:04.430Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:14.816Z",
+    "Length" : "3ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "3ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "44E88DBD-20EF-4333-A8AA-925F734016B4",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:07:19.300Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:17.488Z",
+    "Length" : "5ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "5ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "C09D8D02-6574-4225-9DB4-2C1FED1658C7",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:07:43.716Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:20.248Z",
+    "Length" : "6ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "6ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:07:54.859Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:22.877Z",
+    "Length" : "8ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "8ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "557B24C2-AFBE-4E27-ACD4-884A55700DC0",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-09-25T20:08:05.282Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Ultra high precision slider available in in lengths from 25” to 96”.  Supplied with precision ground stainless steel runners and rollers, 360 degree lockable rotation and adjustable magnetic stops.  Mitchell, 150m/m or 100m/m top fittings, support bars and slider friction units also available.\n\nThe Ronford-Baker Slider is available in many lengths and can be made to your specific requirements.\n\nThe slider is CNC machined from high tensile aluminium stress relieved ‘Tooling Plate’, and anodised to suit. Designed for maximised\ncarriage travel, with a minimum height of 4 ¾” (12 cm). Mitchell to Mitchell fitting, with an overall width of just 10″ (25 cm). The whole unit has a lockable rotation of 360 degrees.\n\nUltra high precision, ground stainless steel runners and rollers.",
+    "Features" : [
+      "360 degree lockable rotation",
+      "‘Soft stop’ adjustable buffers or adjustable magnetic stops",
+      "Available in length from 640 mm (25″) to 2440 mm (8’)",
+      "‘Tritium’ spirit level",
+      "Mitchell to Mitchell fitting & 150m/m Bowl available for top",
+      "Linear damper available"
+    ],
+    "Last edited time" : "2025-09-25T20:11:25.957Z",
+    "Length" : "10ft",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "10ft Ronford Baker Slider",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/sliders/",
+    "id" : "771F31A3-F5DA-42DC-B955-BD599D8FC807",
+    "photoURLs" : [
+      "https://lh3.googleusercontent.com/proxy/Md258cBo_c-frH78RLE2ncurAKcqHenIi91kegEypw7ZXtlR_spd2g0OgnWMLwUpJhW3Hpk75fhMgUnASssm59D7FH7Pk5gbakIMga2bpfFv22t6i2BdCXdJ-KBEXkuRbA"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/DJzT3UqDEJQ"
     ]
   }
 ]
