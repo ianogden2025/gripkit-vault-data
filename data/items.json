@@ -9792,7 +9792,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-25T19:04:04.741Z",
+    "Height" : "3.1m",
+    "Last edited time" : "2025-09-25T19:07:29.811Z",
     "Manufacturers" : "Bickers Action",
     "Max. Lens Height (Underslung)" : "15ft Standard Arm | 21ft 8in Long Arm",
     "Min. Transport Required" : [
@@ -9802,14 +9803,19 @@
     "Other Requirements" : [
       "Rain Deflector"
     ],
+    "Pan Range" : "360º",
     "Payload" : "85kg",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "+/- 45º",
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/u-crane-dynamic-glc63s/",
     "id" : "297",
     "photoURLs" : [
-      "https://www.bickers.co.uk/wp-content/uploads/2022/11/GLE-U-Crane-3-e1673354918542.jpg"
+      "https://www.bickers.co.uk/wp-content/uploads/2022/11/GLE-U-Crane-3-e1673354918542.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/thumbnail_IMG_7313-1.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/thumbnail_1350D6B2-EBC9-49D6-99B4-D6FD26A62142.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/thumbnail_IMG_1512.jpg"
     ],
     "videoURLs" : [
       "https://youtu.be/aR5kr4jlaNI"
