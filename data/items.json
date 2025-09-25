@@ -397,7 +397,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-25T18:53:18.157Z",
+    "Last edited time" : "2025-09-25T19:10:03.602Z",
     "Manufacturers" : "Brownian Motion",
     "Min. Transport Required" : [
 
@@ -406,6 +406,7 @@
     "Other Requirements" : [
 
     ],
+    "Road Legal" : true,
     "Steering Mode" : [
 
     ],
@@ -9336,7 +9337,7 @@
     "Fulcrum to Rear" : "1.9m",
     "Height" : "3.1m",
     "Inside Diameter" : "283",
-    "Last edited time" : "2025-09-25T19:08:36.299Z",
+    "Last edited time" : "2025-09-25T19:10:09.027Z",
     "Manufacturers" : "Bickers Action",
     "Max. Lens Height (Overslung)" : "15ft (Short Mode) | 21.8ft (Long Mode)",
     "Min. Transport Required" : [
@@ -9346,6 +9347,7 @@
     "Other Requirements" : [
 
     ],
+    "Road Legal" : true,
     "Steering Mode" : [
 
     ],
@@ -9693,7 +9695,7 @@
 
     ],
     "Inside Diameter" : "294",
-    "Last edited time" : "2025-09-25T19:07:49.053Z",
+    "Last edited time" : "2025-09-25T19:10:08.155Z",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -9780,6 +9782,7 @@
   },
   {
     "Category" : "Tracking Vehicles",
+    "Controls" : "Hand Wheels, Joytick",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech",
@@ -9790,12 +9793,19 @@
     ],
     "DescriptionText" : "U- Crane is now a Registered Trade Mark of Bickers Action and Filomotechnic \n\nBickers Action are the only UK suppliers and operators of the official Filmotechnic U-Crane Arm made in the Ukraine. \n\nThe U-Crane 6 Stealth GLE63s AMG is based on a Mercedes GLE63s AMG 4Matic – 5.5L V8 Biturbo with 575 BHP capable of 0-60 in 4.1 Seconds, making this the fastest and most powerful full size arm car in the UK. The GLE has been fully customised by our in-house engineering team to ensure the perfect integration of U-Crane to Car is achieved. The GLE63’s is our most advanced arm car to date. This being the 5th iteration of U-Crane car we have built. (Formerly Russian Arm Car)  \n\nThe U-Crane 6 paired with the Filmotechnic Flight Head series create the most dynamic remotely operated Gyrostabilised camera crane systems available on the market with a 360 degree pan speed of 4.5 seconds. This combination ensures the camera’s stability is second to none on-road, off-road and even at high speeds.\n\nThe U-Crane 6 is capable of taking a huge variety of camera packages including camera arrays. The weights and lengths stated below make the U-Crane 6 the longest reaching and heaviest payload arm in the UK/Worldwide.",
     "Features" : [
-
+      "5x SmallHD 703 Ultrabright Monitors with Shogun Recorder for Video Playback.",
+      "Motorola Walkie Talkie set available along with full in-car comms if required.",
+      "On-Road/Off-Road Tyre Packages Included."
     ],
-    "Height" : "3.1m",
-    "Last edited time" : "2025-09-25T19:08:41.509Z",
+    "Fulcrum to Long End" : "4.3m | 5.5m | 6.5m | 7.6m",
+    "Fulcrum to Short End" : "1.9m",
+    "Height" : "3.1m Level Arm | 8m Arm Up",
+    "Horse Power" : "575 BHP",
+    "Last edited time" : "2025-09-25T19:16:11.983Z",
+    "Length" : "8.5m Long Arm",
     "Manufacturers" : "Bickers Action",
     "Max. Lens Height (Underslung)" : "15ft Standard Arm | 21ft 8in Long Arm",
+    "Min. Lens Height" : "-4.1m",
     "Min. Transport Required" : [
       "Articulated Truck"
     ],
@@ -9805,6 +9815,7 @@
     ],
     "Pan Range" : "360º",
     "Payload" : "85kg",
+    "Road Legal" : true,
     "Steering Mode" : [
 
     ],
