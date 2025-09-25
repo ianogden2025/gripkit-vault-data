@@ -8747,14 +8747,19 @@
     "Category" : "Tracking Vehicles",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
-      "Precision Driver"
+      "Precision Driver",
+      "Level 3 Grip"
     ],
-    "DescriptionText" : "The Discovery 4X4 Tracking Vehicle is utilized in the TV and film industry for pursuit and escort scenes, providing a robust and versatile platform that can navigate challenging terrains while ensuring precision driving for tracking shots.",
+    "DescriptionText" : "The Discovery 4×4 Split Tailgate Tracking Vehicles (2x available Black or Grey in colour) are rigged for filming from the rear, and they can carry fixed cameras from the various scaffold rigging points front, rear and roof. The “Post” rig or Up and Down Camera Support rig can be rigged to these tracking vehicles. The floor in the rear is fitted with a multi-hole threaded rigging plate which can be used for mounting camera equipment and securing harnessing points for the operating crew.\n\nThe Grey Discovery has a removable rear window enabling you to film with the Spilt Tailgate fully closed – Much safer on longer tracking Shots, more covert filming and not distracting other road users\n\nThey can also Tow an “A” Frame or the Tracking Tow Dolly – can be used as a Non-Descript Lead Vehicle for forward facing “A” Frame Shots – Which can be further improved using the long “A” Frame.\n\nOr it can carry Camera Gear Externally Either with Fixed Post Rig  – Or an Up and Down Rig \n\nThey can Carry 2 crew in the working rear area. The passenger’s compartment can carry 3 crew plus driver\n\nIdeally suited for low key shooting, Top Gear Style. Police / Local Authority Approval is still required for these tracking vehicles, the same procedures apply as any of our regular tracking vehicles being used on the public highway. They can also be used as Pursuit Vehicle / Tracking Vehicle Escort vehicle and be fitted with Orange Beacons – Good general Off Roads Vehicle.",
     "Features" : [
-
+      "Fitted with EU Digital Tachograph for legally Towing Trailers",
+      "2 x Safety harnesses",
+      "Rigging Gear for Rigging Plate"
     ],
-    "Inside Diameter" : "270",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Height" : "2.4m",
+    "Horse Power" : "245 BHP ",
+    "Last edited time" : "2025-09-25T19:40:11.647Z",
+    "Length" : "4.9m",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -8763,13 +8768,17 @@
     "Other Requirements" : [
 
     ],
+    "Road Legal" : true,
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/discovery-tracking-vehicle-split-rear-tailgate/",
+    "Width" : "2m",
     "id" : "270",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/Bickers-Discovery-3.jpeg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/IMG_8364-scaled.jpeg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/01/e3d6aa26-25a4-4e07-9ec3-f2588206f143.jpg"
     ],
     "videoURLs" : [
 
@@ -8781,12 +8790,11 @@
     "Crew Required" : [
       "Precision Driver"
     ],
-    "DescriptionText" : "The Electric Assisted Bicycle (ETV) is a lightweight, eco-friendly vehicle used in the TV and film industry for tracking shots and on-set mobility. It allows precision drivers to navigate tight spaces and follow action sequences smoothly, enhancing the filming process while minimizing noise and disruption.",
+    "DescriptionText" : "Electric Assisted Bicycle as used on Tomb Raider Bicycle Chase in 2018.\n\nMounted with small cameras by Grips\n\nETV = Fully Electric Tracking Vehicle",
     "Features" : [
 
     ],
-    "Inside Diameter" : "271",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Last edited time" : "2025-09-25T19:42:04.708Z",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -8795,13 +8803,16 @@
     "Other Requirements" : [
 
     ],
+    "Road Legal" : true,
+    "Speed" : "upto 30mph",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/electric-assisted-bicycle/",
     "id" : "271",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2019/02/WhatsApp-Image-2019-12-17-at-15.55.161.jpeg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/02/Bickers-Electric-Tracking-Bicycle.jpg"
     ],
     "videoURLs" : [
 
@@ -8811,18 +8822,21 @@
     "Category" : "Tracking Vehicles",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
-      "Precision Driver"
+      "Precision Driver",
+      "Level 3 Grip"
     ],
-    "DescriptionText" : "The High Speed Quad is a specialized vehicle used in the TV and film industry for tracking shots, providing stable and swift camera movement during high-speed action sequences. It requires a precision driver to navigate various terrains while maintaining the camera's focus and stability.",
+    "DescriptionText" : "The Fast Tracking  Quad Tracking Vehicle can cope with most types of terrain, This Quad tracking vehicle is capable of higher speeds / More Extreme Riding –  than our standard Rubicon Quad, It can be used as a Motorised Dolly, and has various camera fixings / Scaffold Fittings  front and back. The Camera can be hard mounted or mounted via Remote Head (with Wireless controls).  No Crew is carried on this Quad just the the Driver.\n\nNew Improved design easier for Rigging and with Up Rated Suspension.",
     "Features" : [
-
+      "700cc Engine"
     ],
-    "Inside Diameter" : "272",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Height" : "1.2m",
+    "Last edited time" : "2025-09-25T19:45:20.592Z",
+    "Length" : "1.85m",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
-
+      "Van"
     ],
+    "Min. Weight" : "250kg",
     "Name" : "High Speed Quad",
     "Other Requirements" : [
 
@@ -8831,9 +8845,13 @@
 
     ],
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/higher-speed-tracking-quad/",
+    "Width" : "1.13m plus 150mm for Mud Guards",
     "id" : "272",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2019/04/DSC00132.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/04/IMG_1807.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/04/Racing-Quad-Mud-Guards-4.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2019/04/Racing-Tracking-Quad.jpg"
     ],
     "videoURLs" : [
 
@@ -8843,14 +8861,18 @@
     "Category" : "Tracking Vehicles",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
-      "Precision Driver"
+      "Precision Driver",
+      "Level 3 Grip"
     ],
-    "DescriptionText" : "The Cheyenne Elite is a specialized air-ride tracking vehicle designed for precision driving in the TV and film industry, used to achieve smooth and stable shots during filming. Its advanced suspension system allows for versatile movement and adaptability on various terrains, making it ideal for capturing dynamic scenes.",
+    "DescriptionText" : "The Cheyenne Tracking 4×4 is a multi-roll Tracking Vehicle. This vehicle can be used Off-Road on rough and muddy terrain, and is also ideal for location access with camera gear etc. Cheynne is quiet and fitted with air cushion suspension, which is adjustable to weight and ride comfort.\n\nThis vehicle can be used for all round camera tracking and “A” framing with interchangeable front or rear platforms. The generator (5 KW) is built in under the floor area of this tracking vehicle allowing more area for crew / equipment and in addition is much quieter. The carrying capacity on the rear work area of this vehicle is for 6 crew, plus equipment. The Crew Cab offers seating for a further 3 crew members plus Driver and has space for remote head controls, the cab area also has 240v supply, 12v supply and USB sockets.\n\nThe safety rails double as rigging points and offer endless opportunity for hard mounting of cameras, remote heads and other rigs. The Cheyenne can carry any jib arm, other manual cranes and up to a 22 Foot Techno crane.\n\nThe carrying capacity on this vehicle is for 6 people plus equipment. The Crew Cab offers seating for a further 3 crew members and has space for remote head controls",
     "Features" : [
-
+      "4x Safety harnesses",
+      "Interchangeable Front or Rear Platform",
+      "Camera Beam"
     ],
-    "Inside Diameter" : "273",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Height" : "2.3m (with Spare wheel on roof) ",
+    "Last edited time" : "2025-09-25T19:48:29.221Z",
+    "Length" : "6.1 m (Excluding Rear Platform) ",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -8863,12 +8885,15 @@
 
     ],
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/air-ride-cheyenne-elite/",
+    "Width" : "2.1m",
     "id" : "273",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2022/11/Bickes-New-Cheyenne-Tracking-Vehicle-3-e1673343680866.jpeg",
+      "https://www.bickers.co.uk/wp-content/uploads/2022/11/Cheyenne-with-Beach-tyres-01-scaled.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2022/11/Bickes-New-Cheyenne-Tracking-Vehicle-6.jpeg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/muf_8L_DitE"
     ]
   },
   {
@@ -8877,12 +8902,12 @@
     "Crew Required" : [
       "Precision Driver"
     ],
-    "DescriptionText" : "The Bandit Solo is a tracking vehicle designed for precision driving in the TV and film industry, enabling smooth and accurate camera movements during shoots.",
+    "DescriptionText" : "“Bandit” Solo Tracking Motorcycle is ideal for carrying a camera rearward facing & handheld and a hard mount for front facing shots. It is fitted with Rear facing foot pegs. Ideal for shooting in traffic or in tight locations.\n\nThe bike has a 1255cc, four stroke engine and is very smooth and manoeuvrable. Additional mounts can made to requirements or can be used in conjunction with the “Man Cam” from Camera Revolution – Small compact camera package 2C Camera compact. Our Riders /Operators Highly experienced in Motorcycle Tracking along with Motorcycle racing experience.\n\nMuch more Robust for carrying bigger camera Packages than the Electric Tracking Motorcycles, Very smooth running engine.",
     "Features" : [
 
     ],
     "Inside Diameter" : "274",
-    "Last edited time" : "January 13, 2025 8:43 PM",
+    "Last edited time" : "2025-09-25T19:49:39.632Z",
     "Manufacturers" : "Bickers Action",
     "Min. Transport Required" : [
 
@@ -8897,7 +8922,9 @@
     "WebsiteURL" : "https://www.bickers.co.uk/tracking_equipment/bandit-solo/",
     "id" : "274",
     "photoURLs" : [
-
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/8148318b-ddd1-4d12-81a1-134566e06a4e.jpg",
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/image-1.jpeg",
+      "https://www.bickers.co.uk/wp-content/uploads/2018/09/Bandii-Cuela-7.jpeg"
     ],
     "videoURLs" : [
 
