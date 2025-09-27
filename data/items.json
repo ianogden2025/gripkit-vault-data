@@ -4520,8 +4520,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "138",
-    "Last edited time" : "January 13, 2025 8:41 PM",
+    "Last edited time" : "2025-09-27T09:51:23.985Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
 
@@ -4552,8 +4551,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "139",
-    "Last edited time" : "January 13, 2025 8:41 PM",
+    "Last edited time" : "2025-09-27T09:51:31.300Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
 
@@ -6033,8 +6031,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "194",
-    "Last edited time" : "2025-09-27T07:31:45.937Z",
+    "Last edited time" : "2025-09-27T09:51:31.818Z",
     "Manufacturers" : "Cinemoves",
     "Min. Transport Required" : [
 
@@ -6074,7 +6071,7 @@
       "Two stabilization levels: Stealth mode for quiet settings and Ludacris mode for extremely fast pan rates and high G-force environments.",
       "3” and 6” extenders for longer camera packages."
     ],
-    "Last edited time" : "2025-09-27T07:34:05.477Z",
+    "Last edited time" : "2025-09-27T09:50:04.548Z",
     "Manufacturers" : "SpaceCam Systems",
     "Min. Transport Required" : [
       "Van"
@@ -7963,7 +7960,7 @@
 
     ],
     "Height" : "13in",
-    "Last edited time" : "2025-09-27T06:35:54.553Z",
+    "Last edited time" : "2025-09-27T09:50:23.091Z",
     "Length" : "13in",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
@@ -8003,8 +8000,7 @@
 
     ],
     "Height" : "61cm overslung | 76cm underslung",
-    "Last edited time" : "2025-09-27T06:36:01.763Z",
-    "Length" : "21cm",
+    "Last edited time" : "2025-09-27T09:50:38.988Z",
     "Manufacturers" : "Libra Remotes",
     "Max. Weight" : "31kg with Isodamp",
     "Min. Transport Required" : [
@@ -13567,7 +13563,8 @@
       "Limits programmable, damping and speed adjustment for all axis available",
       "All information transferable to a computer by 232"
     ],
-    "Last edited time" : "2025-09-27T09:00:45.247Z",
+    "Height" : "732mm Lonest | 394mm shortest",
+    "Last edited time" : "2025-09-27T09:49:41.820Z",
     "Manufacturers" : "Servicevision",
     "Max. Weight" : "58.5",
     "Min. Transport Required" : [
@@ -13681,7 +13678,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T07:49:59.240Z",
+    "Last edited time" : "2025-09-27T09:50:42.259Z",
     "Manufacturers" : "Servicevision",
     "Max. Weight" : "80kg",
     "Min. Transport Required" : [
@@ -13720,10 +13717,10 @@
     "Features" : [
       "Rain proof design"
     ],
-    "Height" : "580mm",
+    "Height" : "650mm Tucked | 1010mm longest",
     "Inside Diameter" : "422",
-    "Last edited time" : "2025-09-27T07:47:56.597Z",
-    "Length" : "650mm Tucked | 1010mm longest",
+    "Last edited time" : "2025-09-27T09:50:52.445Z",
+    "Length" : "580mm",
     "Manufacturers" : "Servicevision",
     "Max. Weight" : "80kg",
     "Min. Transport Required" : [
@@ -13759,9 +13756,9 @@
     "Features" : [
       "Rain proof design"
     ],
-    "Height" : "470mm",
-    "Last edited time" : "2025-09-27T07:43:49.737Z",
-    "Length" : "490mm Tucked | 540mm Longest",
+    "Height" : "490mm Tucked | 540mm Longest",
+    "Last edited time" : "2025-09-27T09:51:01.057Z",
+    "Length" : "470mm",
     "Manufacturers" : "Servicevision",
     "Max. Weight" : "40kg",
     "Min. Transport Required" : [
@@ -15530,10 +15527,10 @@
       "Built in platform to supply camera power.",
       "Rigs to Mitchell mount with dovetail for quick gimble removal."
     ],
-    "Height" : "165mm (exc camera)",
+    "Height" : "749mm (2” Drops) | 787mm (4” Drops) | 863mm (6” Drops)",
     "Inside Diameter" : "474",
-    "Last edited time" : "2025-09-27T07:38:02.378Z",
-    "Length" : "749mm (2” Drops) | 787mm (4” Drops) | 863mm (6” Drops)",
+    "Last edited time" : "2025-09-27T09:51:13.352Z",
+    "Length" : "165mm (exc camera)",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
       "Van"
@@ -17623,7 +17620,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T06:35:03.033Z",
+    "Last edited time" : "2025-09-27T09:49:37.411Z",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
       "Car"
@@ -17642,6 +17639,61 @@
     ],
     "videoURLs" : [
 
+    ]
+  },
+  {
+    "Category" : "Stabilised Heads",
+    "Controls" : "Wheels, Handheld, Panbar and Joystick",
+    "Created Date" : "2025-09-27T09:52:04.157Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Gyro Motion is proud to introduce GENESIS — our patented gyro-stabilized head, setting new standards in stabilization and user friendliness.\n \nThis head is the result of a process involving years of experience, engineering talent and the ambition to create a perfect system without the usual drawbacks of conventional open frame gimbals.\n \nThe new head architecture, electronic design, software and control solutions allowed for us to create a system that provides exceptional accuracy and has no limitations in terms of stabilization and control.",
+    "Features" : [
+      "Gimbal always maintains correct polarity of the control axes regardless of the orientation of the mounting point.",
+      "4-axis design eliminates gimbal lock in any orientation.",
+      "Two control modes: relative the earth horizon and relative the camera axes.",
+      "Motion recording and playback (3 min).",
+      "High stabilization accuracy provides excellent stable picture for lenses up to 500 mm for wide range of payload inertia.",
+      "No limitation 360-degree continuous pan, tilt and roll control.",
+      "Programmable limits, tilt safety limits, auto reverse of tilt control direction.",
+      "Slip ring SDI and camera power channels through all axes.",
+      "Back pan compensation: 3 axis work mode; adjustable horizon ±180-degree.",
+      "Eliminates need for a levelling head.",
+      "Built in platform to supply camera power."
+    ],
+    "Height" : "791mm",
+    "Last edited time" : "2025-09-27T10:00:28.421Z",
+    "Manufacturers" : "Gyro Motion",
+    "Max. Weight" : "56kg",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "31kg",
+    "Name" : "Genesis",
+    "Operating Temperature" : "-20 to 60 °C ",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º continuous",
+    "Payload" : "25kg",
+    "Roll Range" : "360º continuous",
+    "Speed" : "0.005 – 360°/sec for all axes ",
+    "Steering Mode" : [
+
+    ],
+    "Tilt Range" : "360º continuous",
+    "WebsiteURL" : "https://www.gyromotion.net/genesis",
+    "Width" : "621mm",
+    "id" : "612F1224-9134-4EE1-B34A-8AB5925DFFEC",
+    "photoURLs" : [
+      "https://www.camerarevolution.com/wp-content/uploads/2025/01/Genesis.png",
+      "https://static.wixstatic.com/media/0232e3_31df6f4375bf40adb0b17f08eb25ea49~mv2.png/v1/fill/w_1960,h_1102,q_90,enc_avif,quality_auto/0232e3_31df6f4375bf40adb0b17f08eb25ea49~mv2.png",
+      "https://static.wixstatic.com/media/0232e3_7a5172b700a044128ef5da248fba1fec~mv2.jpg/v1/fill/w_1960,h_1102,q_90,enc_avif,quality_auto/0232e3_7a5172b700a044128ef5da248fba1fec~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_800d230cffcc43ca8f9f7863fc15b523~mv2.jpg/v1/fill/w_1960,h_1102,q_90,enc_avif,quality_auto/3e3f04_800d230cffcc43ca8f9f7863fc15b523~mv2.jpg"
+    ],
+    "videoURLs" : [
+      "https://vimeo.com/434742761?fl=pl&fe=sh"
     ]
   }
 ]
