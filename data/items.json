@@ -6034,7 +6034,7 @@
 
     ],
     "Inside Diameter" : "194",
-    "Last edited time" : "2025-09-27T06:35:53.029Z",
+    "Last edited time" : "2025-09-27T07:31:45.937Z",
     "Manufacturers" : "Cinemoves",
     "Min. Transport Required" : [
 
@@ -6063,12 +6063,18 @@
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Matrix is a high-performance stabilized head used in the TV and film industry for smooth camera movements. It features advanced controls, including a joystick and pan bar, allowing operators to achieve precise pans and tilts, making it ideal for dynamic shots and action sequences. With a payload capacity of 45kg and a speed of 200°/sec, it supports heavy camera setups while providing 360° movement in all directions.",
+    "DescriptionText" : "The Matrix™ is a 4-axis gimbal that offers outstanding stability and smooth movement in all directions. Its open architecture and redundant axis allow it to be mounted in any orientation while maintaining correct polarity of pan, tilt, and roll without gimbal lock. It is the first 4-axis gimbal to provide 360° continuous roll without needing a patch cable between the twist and tilt axes, making it perfect for handling large payloads, including all film cameras. The Matrix™ also supports true nodal positioning for most camera setups, ensuring maximum precision and versatility.4 Axis with full regard. No gimbal lock. Does not require level mounting point.",
     "Features" : [
-
+      "Can obtain camera nodal on all axis.",
+      "Wireless control via proprietary system, WIFI or Bluetooth.",
+      "Android app-based operating system. (real time upgrades and modifications).",
+      "Carbon fibre construction.",
+      "Will carry IMAX and Most film cameras.",
+      "Can obtain camera nodal on all axis.",
+      "Two stabilization levels: Stealth mode for quiet settings and Ludacris mode for extremely fast pan rates and high G-force environments.",
+      "3” and 6” extenders for longer camera packages."
     ],
-    "Inside Diameter" : "195",
-    "Last edited time" : "2025-09-27T06:35:53.874Z",
+    "Last edited time" : "2025-09-27T07:34:05.477Z",
     "Manufacturers" : "SpaceCam Systems",
     "Min. Transport Required" : [
       "Van"
@@ -6089,7 +6095,7 @@
     "WebsiteURL" : "https://camerarevolution.com/equipment/matrix/",
     "id" : "195",
     "photoURLs" : [
-
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Matrix-matrix-mode.png"
     ],
     "videoURLs" : [
 
@@ -13577,32 +13583,41 @@
     ]
   },
   {
+    "Axis" : "2",
     "Category" : "Remote Heads",
+    "Controls" : "Handwheels, Joystick, Panbar",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The Micro Scorpio is a compact remote head used in the TV and film industry to control camera movements remotely, allowing for precise, smooth shots in challenging locations or setups.",
+    "DescriptionText" : "The Micro Scorpio Head is the smallest remote head in the Scorpio line. The light, compact head features simplified mechanics (with cables instead of HD slip rings) and electronics (with one main servo board for both axes instead of one per axis). ",
     "Features" : [
-
+      "Independent axes connected by cable.",
+      "Micro Scorpio Head can be controlled from up to 500 meters by cable serie RS485 or by wireless half-duplex microwave 2,4 GHz.",
+      "All axes (Pan and Tilt, Foco, Iris and Zoom using the Scorpio Focus) are programmable and repeatable."
     ],
-    "Inside Diameter" : "419",
-    "Last edited time" : "January 13, 2025 8:39 PM",
+    "Last edited time" : "2025-09-27T07:55:07.846Z",
     "Manufacturers" : "Servicevision",
+    "Max. Weight" : "20kg",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "6kg",
     "Name" : "Micro Scorpio",
     "Other Requirements" : [
 
     ],
+    "Payload" : "12kg (no cage) | 25kg with cage",
+    "Speed" : "360 degrees in 2.4s ",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/scorpio-heads-grips-en/micro-scorpio-head/",
     "id" : "419",
     "photoURLs" : [
-
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/jaula1.gif",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/mshd_micro-scorpio-head-/gr_remote-systems_remote-heads_servicevison_scorpio-micro_03.png",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/mshd_micro-scorpio-head-/gr_remote-systems_remote-heads_servicevison_scorpio-micro_04.png"
     ],
     "videoURLs" : [
 
@@ -13641,32 +13656,41 @@
     ]
   },
   {
+    "Axis" : "3",
     "Category" : "Stabilised Heads",
+    "Controls" : "Wheels, Panbar, Joystick",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Scorpio Stab V is a stabilized head used in the TV and film industry to achieve smooth and steady camera movements, particularly for handheld shots. It helps reduce camera shake, allowing for professional-quality footage even in dynamic shooting environments.",
+    "DescriptionText" : "The Scorpio Stabilised Head offers five axes of gyro-stabilization. The mechanical and electronic designs make it a sturdy, reliable, and advanced head capable of carrying a camera parcel up to 45kg. The installation and setup time during camera/lens changes is similar to that required with any non-stabilised Scorpio head. ",
     "Features" : [
 
     ],
-    "Inside Diameter" : "421",
-    "Last edited time" : "January 13, 2025 8:42 PM",
+    "Last edited time" : "2025-09-27T07:49:59.240Z",
     "Manufacturers" : "Servicevision",
+    "Max. Weight" : "80kg",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Scorpio Stab V",
+    "Min. Weight" : "35kg",
+    "Name" : "Scorpio Stabilised",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "360º",
+    "Payload" : "45kg",
+    "Speed" : "360º/3 secodns",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "360º",
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/stabilized-heads-en/scorpio-stabilized-head-v/",
     "id" : "421",
     "photoURLs" : [
-
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/ssh_scorpio-stabilised-head/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised_02-png.png?sfvrsn=eaac8ad0_0",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/ssh_scorpio-stabilised-head/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised_03-png.png?sfvrsn=d3db0509_0",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/ssh_scorpio-stabilised-head/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised_01-png.png?sfvrsn=1e93b44a_0"
     ],
     "videoURLs" : [
 
@@ -13678,27 +13702,34 @@
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Scorpio Stabilised is a type of stabilized head used in the TV and film industry to achieve smooth and steady camera movements. It helps operators maintain control and stability during filming, particularly in dynamic environments, enhancing the overall quality of the shot.",
+    "DescriptionText" : "The Scorpio “Stab V” head offers a wide range of motion with fast adjustments and weather-resistant stability. Its pan axis revolutions can traverse 360 degrees in 3 seconds, enabled by HD slip rings for quick movements capable of following an action-packed shot. ",
     "Features" : [
-
+      "Rain proof design"
     ],
+    "Height" : "580mm",
     "Inside Diameter" : "422",
-    "Last edited time" : "January 13, 2025 8:42 PM",
+    "Last edited time" : "2025-09-27T07:47:56.597Z",
+    "Length" : "650mm Tucked | 1010mm longest",
     "Manufacturers" : "Servicevision",
+    "Max. Weight" : "80kg",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Scorpio Stabilised",
+    "Min. Weight" : "35kg",
+    "Name" : "Scorpio Stab V",
     "Other Requirements" : [
 
     ],
+    "Payload" : "45kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/stabilized-heads-en/scorpio-stabilized-head/",
     "id" : "422",
     "photoURLs" : [
-
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/sshv_scorpio-stabilised-head-v/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised-v_03.png?sfvrsn=a911d575_3",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/sshv_scorpio-stabilised-head-v/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised-v_01.png?sfvrsn=d4cb694e_3",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/sshv_scorpio-stabilised-head-v/gr_remote-systems_remote-heads_service-vision_scorpio-stabilised-v_02.png?sfvrsn=fe3f9b4a_3"
     ],
     "videoURLs" : [
 
@@ -13710,27 +13741,36 @@
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Mini Scorpio Stab V is a stabilized head used in the TV and film industry to provide smooth and controlled camera movements. It helps operators achieve steady shots while capturing dynamic scenes, enhancing overall production quality.",
+    "DescriptionText" : "The Mini Scorpio Stab V builds on the legacy of its full-sized counterpart, featuring advanced gyros, mechanics, and software to deliver exceptional stabilization in a smaller, lighter package. With its water-resistant design, it operates seamlessly in humidity or rain, ensuring reliable performance in any conditions.",
     "Features" : [
-
+      "Rain proof design"
     ],
-    "Inside Diameter" : "423",
-    "Last edited time" : "January 13, 2025 8:41 PM",
+    "Height" : "470mm",
+    "Last edited time" : "2025-09-27T07:43:49.737Z",
+    "Length" : "490mm Tucked | 540mm Longest",
     "Manufacturers" : "Servicevision",
+    "Max. Weight" : "40kg",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "20kg",
     "Name" : "Mini Scorpio Stab V",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "360º",
+    "Payload" : "20kg",
+    "Roll Range" : "360º",
+    "Speed" : "360º/2 seconds",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "360º",
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/stabilized-heads-en/mini-scorpio-stabilized-v-head/",
+    "Width" : "450mm",
     "id" : "423",
     "photoURLs" : [
-
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/stabilized_head_mini_v.png"
     ],
     "videoURLs" : [
 
@@ -15465,31 +15505,41 @@
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The M7 Evo is a stabilized head used in the TV and film industry for smooth camera movements. It supports a payload of up to 35kg and allows for precise control through various modes, making it ideal for dynamic shots and professional filming setups.",
+    "DescriptionText" : "The Maximus 7 is a 4-axis stabilised head that provides exceptional stability and smooth movement in all directions. It can be mounted in any orientation and maintains a level horizon under high G-forces, even with long lenses. The Evo ensures true nodal positioning for most camera packages and offers 360° continuous roll. With no need for a levelling head, it allows for quick mounting on all setups. It supports a wide range of payloads and accommodates 4” and 6” yoke extensions for even longer camera packages.",
     "Features" : [
-
+      "Gimbal always maintains correct polarity of the control axes regardless of the orientation of the mounting point.",
+      "4-axis design eliminates gimbal lock in any orientation.",
+      "High stabilization accuracy provides excellent stable picture.",
+      "Programmable limits, tilt safety limits, auto reverse of tilt control direction.",
+      "Eliminates need for a levelling head.",
+      "Quickly accepts larger cameras with 4” & 6” yoke extensions.",
+      "Built in platform to supply camera power.",
+      "Rigs to Mitchell mount with dovetail for quick gimble removal."
     ],
+    "Height" : "165mm (exc camera)",
     "Inside Diameter" : "474",
-    "Last edited time" : "January 13, 2025 8:41 PM",
+    "Last edited time" : "2025-09-27T07:38:02.378Z",
+    "Length" : "749mm (2” Drops) | 787mm (4” Drops) | 863mm (6” Drops)",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
       "Van"
     ],
-    "Min. Weight" : "28kg",
+    "Min. Weight" : "38kg",
     "Name" : "M7 Evo",
     "Other Requirements" : [
 
     ],
-    "Payload" : "35kg",
+    "Payload" : "45kg",
     "Speed" : "240°/sec",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.chapman-leonard.com/product/m7evo/",
+    "Width" : "622mm",
     "Wireless Distance" : "1.5mi",
     "id" : "474",
     "photoURLs" : [
-
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/M7-matrix-mode.png"
     ],
     "videoURLs" : [
 
