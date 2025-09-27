@@ -13567,7 +13567,7 @@
       "Limits programmable, damping and speed adjustment for all axis available",
       "All information transferable to a computer by 232"
     ],
-    "Last edited time" : "2025-09-27T08:59:38.563Z",
+    "Last edited time" : "2025-09-27T09:00:45.247Z",
     "Manufacturers" : "Servicevision",
     "Max. Weight" : "58.5",
     "Min. Transport Required" : [
@@ -13584,6 +13584,7 @@
 
     ],
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/scorpio-heads-grips-en/mini-scorpio-ez/",
+    "Width" : "385mm",
     "id" : "418",
     "photoURLs" : [
       "https://scorpio.servicevision.es/wp-content/uploads/2019/05/minscorpioez1.jpg",
