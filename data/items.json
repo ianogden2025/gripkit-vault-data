@@ -13551,32 +13551,45 @@
     ]
   },
   {
+    "Axis" : "2",
     "Category" : "Remote Heads",
+    "Controls" : "Handwheels, Joystick, Panbar ",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The Mini Scorpio EZ Head is a versatile remote head designed for camera operation in the TV and film industry, allowing for smooth and precise movement during filming. It is used to control camera angles and movements remotely, enhancing creativity and flexibility in shot composition.",
+    "DescriptionText" : "The Mini Scorpio EZ Head offers incredibly smooth non-stabilised movements even at slow and high speeds. With a modular design and a 45kg maximum payload, the EZ head accommodates a variety of camera sizes and weights. ",
     "Features" : [
-
+      "Booth Axis have a central hole: 50mm (2″) Pan and 70mm (2,7″) Tilt for passing cables through them.",
+      "Mini Scorpio EZ Head can be controlled from up to 500 meters by cable serie RS485 or by wireless half-duplex microwave 2,4GHz",
+      "Using the new EZ Control (without display):",
+      "Limit, speed and Damping adjustment available.",
+      "Limits programmable, damping and speed adjustment for all axis available",
+      "All information transferable to a computer by 232"
     ],
-    "Inside Diameter" : "418",
-    "Last edited time" : "January 13, 2025 8:39 PM",
+    "Last edited time" : "2025-09-27T08:59:38.563Z",
     "Manufacturers" : "Servicevision",
+    "Max. Weight" : "58.5",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "13.5kg",
     "Name" : "Mini Scorpio EZ Head",
     "Other Requirements" : [
 
     ],
+    "Payload" : "45kg",
+    "Speed" : "361 degrees in 2.5s ",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/scorpio-heads-grips-en/mini-scorpio-ez/",
     "id" : "418",
     "photoURLs" : [
-
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/minscorpioez1.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/dsc0050_12-1024x1024.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/dsc0051_12-1024x1024.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/dsc0061_12-983x1024.jpg"
     ],
     "videoURLs" : [
 
