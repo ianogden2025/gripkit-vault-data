@@ -7958,7 +7958,7 @@
     ],
     "Height" : "13in",
     "Inside Diameter" : "251",
-    "Last edited time" : "July 26, 2025 11:20 AM",
+    "Last edited time" : "2025-09-27T06:29:29.343Z",
     "Length" : "13in",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
@@ -7976,7 +7976,7 @@
     "Width" : "13in",
     "id" : "251",
     "photoURLs" : [
-
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Mini-Libra.png"
     ],
     "videoURLs" : [
 
@@ -7985,17 +7985,18 @@
   {
     "Axis" : "3",
     "Category" : "Stabilised Heads",
+    "Controls" : "Wheels, Handheld, Panbar and Joystick",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Libra Tech"
     ],
-    "DescriptionText" : "The Libra is a stabilised head used in the TV and film industry for smooth and controlled camera movements. It supports a payload of up to 68kg, allowing for precise panning and tilting during filming, and is essential for creating dynamic shots without unwanted vibrations.",
+    "DescriptionText" : "The most versatile stabilized head ever, designed to handle a wide range of shooting scenarios with ease. It can be seamlessly rigged into various scenarios, including but not limited to cranes, tracking vehicles and wire rigs. With its quick setup, this highly adaptable platform accommodates virtually any camera package, even multi-camera arrays, making it the go-to solution for filmmakers seeking flexibility and reliability in even the most demanding environments.\n",
     "Features" : [
 
     ],
     "Height" : "61cm overslung | 76cm underslung",
     "Inside Diameter" : "252",
-    "Last edited time" : "July 26, 2025 11:21 AM",
+    "Last edited time" : "2025-09-27T06:31:26.390Z",
     "Length" : "21cm",
     "Manufacturers" : "Libra Remotes",
     "Max. Weight" : "31kg with Isodamp",
@@ -8018,7 +8019,10 @@
     "Width" : "51cm",
     "id" : "252",
     "photoURLs" : [
-
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Libra-Head-overslung.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Libra-Head-underslung.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Libra-Head-Matrix-Mode.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Libra-Head-Probe-Mode.png"
     ],
     "videoURLs" : [
 
@@ -8035,7 +8039,7 @@
 
     ],
     "Inside Diameter" : "253",
-    "Last edited time" : "January 13, 2025 8:42 PM",
+    "Last edited time" : "2025-09-27T06:30:54.761Z",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
       "Van"
@@ -8049,7 +8053,7 @@
     ],
     "id" : "253",
     "photoURLs" : [
-
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Water-resistant.jpg"
     ],
     "videoURLs" : [
 
