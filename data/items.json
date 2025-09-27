@@ -4994,7 +4994,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T20:46:04.279Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
@@ -5486,7 +5486,7 @@
       "24ft Camera Centre"
     ],
     "Inside Diameter" : "21ft 6in",
-    "Last edited time" : "2025-09-27T20:38:33.009Z",
+    "Last edited time" : "2025-09-27T20:40:33.584Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -5517,7 +5517,7 @@
       "18ft Camera Centre"
     ],
     "Inside Diameter" : "15ft 6in",
-    "Last edited time" : "2025-09-27T20:38:36.173Z",
+    "Last edited time" : "2025-09-27T20:40:35.035Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -5583,7 +5583,7 @@
       "12ft Camera Centre"
     ],
     "Inside Diameter" : "9ft 6in",
-    "Last edited time" : "2025-09-27T20:38:19.895Z",
+    "Last edited time" : "2025-09-27T20:40:39.633Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -17458,6 +17458,112 @@
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1mkeUibq96xkwl4Ph-D2CzvK0aY8A6FZUFP6PlbV6d8T9uuOThITO3Mk0m9fuaipp4k&usqp=CAU",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfBffqVahUvENqaDGDFMLbxHhHIjgDLVuppp3kXA9gEBkbIS-wizn35Gw8sMoLblGt2I&usqp=CAU",
       "https://lh5.googleusercontent.com/proxy/6TpKG3beX_JsX1-Yig5XPrX9341o8MBrqi2nOAXc2HMsJ7CbolEJD9iFqActXod8KAoe06I9gOv-nFOQ2rLop0MEu43hVsIj-m2PwLyi5A7Ix4ixnzR_pLJE"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Remote Systems",
+    "Column/Jib Travel" : "800 mm ",
+    "Created Date" : "2025-09-27T20:42:25.579Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Weighing only 16 kg with a slim 236 mm carbon fiber column, it lifts up to 32 kg with 800 mm travel. With an outstanding speed of 1 m/s – faster than comparable systems – it sets a new standard for dynamic camera movement.\n\nDesigned for maximum flexibility, the GF-NEO Column can be operated both over-slung and under-slung. It’s driven by a powerful 48 V system for quiet, smooth, and reliable performance across film, broadcast, live events, and modern content creation.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T20:44:33.421Z",
+    "Manufacturers" : "Grip Factory Munich",
+    "Max. Column/Jib Height" : "1400 mm ",
+    "Min. Column/Jib Height" : "650 mm ",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "16kg",
+    "Name" : "Neo Column",
+    "Other Requirements" : [
+
+    ],
+    "Outside Diameter" : "236 mm ",
+    "Payload" : "32kg",
+    "Speed" : "1m/s",
+    "Steering Mode" : [
+
+    ],
+    "id" : "589EDF8C-02A3-4CB0-BC9D-34592A036419",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/3e3f04_582d196940e04d8dba1bfe1a0e25a53a~mv2.png/v1/fill/w_1398,h_906,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-neo-column-hero.png",
+      "https://static.wixstatic.com/media/3e3f04_9e0071af663f4e79a822a1938556fbad~mv2.png/v1/fill/w_652,h_652,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-neo-column-top-view.png",
+      "https://static.wixstatic.com/media/3e3f04_d75b8ac312374bd98b14f38839f3127d~mv2.png/v1/crop/x_0,y_0,w_489,h_867/fill/w_489,h_865,al_c,q_90,enc_avif,quality_auto/gf-neo-column-sideview.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T20:46:07.605Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The GF-Tri Hat is a compact and versatile camera mounting solution, designed for maximum stability in minimal space. With its three foldable legs, the Tri Hat can be positioned securely in tight corners, on narrow platforms, or directly on the floor.\n \nEach leg is equipped with either a 48.3 mm (1 ½\") or a 42.4 mm (1 ¼\") clamp (Please select) allowing for quick and precise height adjustments. The base plate supports standard GFM inserts, including Mitchell, 150 mm, and 100 mm bowls, offering full compatibility with a wide range of camera heads.\n \nAll components are CNC-machined from high-grade aluminum and treated with GFM’s patented hard-coat anodizing for durability and long-lasting performance.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T20:47:19.340Z",
+    "Manufacturers" : "Grip Factory Munich",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "5kg",
+    "Name" : "Tri-Hat",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "100kg",
+    "Steering Mode" : [
+
+    ],
+    "id" : "2BE5F44C-F72B-4AAD-9F97-0811302C2EA3",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/3e3f04_53d626f839e342f5bd8c9aa85fca9a23~mv2.png/v1/fill/w_1653,h_1102,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_53d626f839e342f5bd8c9aa85fca9a23~mv2.png",
+      "https://static.wixstatic.com/media/3e3f04_8566d4be10ce4f8292943104724825de~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_8566d4be10ce4f8292943104724825de~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_0abbd6d2379d4595ae79159605bfdd28~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_0abbd6d2379d4595ae79159605bfdd28~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_dcaa6fc5af9548a5961f56b9a929c8fd~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_dcaa6fc5af9548a5961f56b9a929c8fd~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_c4be481551fb4e3d8e497bbc5c90f07b~mv2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_c4be481551fb4e3d8e497bbc5c90f07b~mv2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T20:48:07.187Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Each GF-Dual Offset Rig configuration includes a set of Height Adjusters. The 150 mm Bowl Top Mount comes with two large Height Adjusters, whereas Mitchell Plate & Mitchell 4-Way Plate come with two small Height Adjusters.\n \nAdditional Top Mounts (including a second set of Height Adjusters if required) are available on request.\n \nNote: Mitchell Top Mounts can be used with Height Adjusters or flat.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T20:48:59.928Z",
+    "Manufacturers" : "Grip Factory Munich",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Dual Rotating Offset",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "4F33CB5F-45D4-4A88-AC1E-24587FDC2F0A",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/3e3f04_53a5f2fbdd3a4defbdf6c9a7a24cf064~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_53a5f2fbdd3a4defbdf6c9a7a24cf064~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_c25360d684714dd291e18fb0f86bcda8~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_c25360d684714dd291e18fb0f86bcda8~mv2.jpg"
     ],
     "videoURLs" : [
 
