@@ -10762,7 +10762,7 @@
 
     ],
     "Inside Diameter" : "333",
-    "Last edited time" : "2025-09-22T21:46:11.758Z",
+    "Last edited time" : "2025-09-27T10:24:50.200Z",
     "Manufacturers" : "Supertechno",
     "Min. Transport Required" : [
       "Truck"
@@ -10785,6 +10785,7 @@
     ]
   },
   {
+    "Arm Travel" : "11ft 6in",
     "Category" : "Telescopic Cranes",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
@@ -10795,21 +10796,32 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "334",
-    "Last edited time" : "2025-09-22T21:46:10.613Z",
+    "Fulcrum to Long End" : "8ft 3in",
+    "Fulcrum to Rear" : "4ft 1in",
+    "Fulcrum to Short End" : "2ft 7in",
+    "Height" : "6ft 11in",
+    "Last edited time" : "2025-09-27T10:28:44.934Z",
+    "Length" : "15ft 7in",
     "Manufacturers" : "Supertechno",
+    "Max. Lens Height (Overslung)" : "17ft 5in",
+    "Max. Lens Height (Underslung)" : "14ft 6in",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "264kg",
     "Name" : "Technocrane10+",
     "Other Requirements" : [
       "Comms",
       "Stabilised Remote Head"
     ],
+    "Payload" : "13kg",
+    "Speed" : "1.5m/s",
     "Steering Mode" : [
 
     ],
+    "Travel" : "8ft 3in",
     "WebsiteURL" : "https://www.supertechno.com/technocrane-10",
+    "Width" : "2ft 4in without jacks",
     "id" : "334",
     "photoURLs" : [
       "https://www.supertechno.com/upload/2124-1209285114.png"
