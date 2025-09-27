@@ -6034,7 +6034,7 @@
 
     ],
     "Inside Diameter" : "194",
-    "Last edited time" : "January 13, 2025 8:42 PM",
+    "Last edited time" : "2025-09-27T06:35:53.029Z",
     "Manufacturers" : "Cinemoves",
     "Min. Transport Required" : [
 
@@ -6068,7 +6068,7 @@
 
     ],
     "Inside Diameter" : "195",
-    "Last edited time" : "July 26, 2025 11:20 AM",
+    "Last edited time" : "2025-09-27T06:35:53.874Z",
     "Manufacturers" : "SpaceCam Systems",
     "Min. Transport Required" : [
       "Van"
@@ -7952,13 +7952,12 @@
     "Crew Required" : [
       "Libra Tech"
     ],
-    "DescriptionText" : "The Mini Libra is a compact stabilizer used in the TV and film industry to achieve smooth and controlled camera movements. Designed for portability, it allows operators to maneuver the camera easily for dynamic shots, ensuring stability during filming, whether in handheld mode or with joystick control.",
+    "DescriptionText" : "The L8 is the compact yet powerful sibling of the renowned Libra 7. Its smaller size makes it ideal for rigging in tight, hard-to-reach spaces while maintaining top-tier performance. With fast setup and compatibility across various camera packages, the L8 delivers the same flexibility and precision as the Libra 7, all in a more compact design.",
     "Features" : [
 
     ],
     "Height" : "13in",
-    "Inside Diameter" : "251",
-    "Last edited time" : "2025-09-27T06:29:29.343Z",
+    "Last edited time" : "2025-09-27T06:35:54.553Z",
     "Length" : "13in",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
@@ -7976,7 +7975,10 @@
     "Width" : "13in",
     "id" : "251",
     "photoURLs" : [
-      "https://www.camerarevolution.com/wp-content/uploads/2024/03/Mini-Libra.png"
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/L8-Underslung.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/L8-overslung.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/L8-Matrix-mode.png",
+      "https://www.camerarevolution.com/wp-content/uploads/2024/03/L8-probe-mode.png"
     ],
     "videoURLs" : [
 
@@ -7995,8 +7997,7 @@
 
     ],
     "Height" : "61cm overslung | 76cm underslung",
-    "Inside Diameter" : "252",
-    "Last edited time" : "2025-09-27T06:31:26.390Z",
+    "Last edited time" : "2025-09-27T06:36:01.763Z",
     "Length" : "21cm",
     "Manufacturers" : "Libra Remotes",
     "Max. Weight" : "31kg with Isodamp",
@@ -8038,8 +8039,7 @@
     "Features" : [
 
     ],
-    "Inside Diameter" : "253",
-    "Last edited time" : "2025-09-27T06:30:54.761Z",
+    "Last edited time" : "2025-09-27T06:36:03.662Z",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
       "Van"
@@ -17546,6 +17546,38 @@
     ],
     "videoURLs" : [
       "https://youtu.be/DJzT3UqDEJQ"
+    ]
+  },
+  {
+    "Axis" : "2",
+    "Category" : "Remote Heads",
+    "Created Date" : "2025-09-27T06:33:42.325Z",
+    "Crew Required" : [
+      "Head Technician"
+    ],
+    "DescriptionText" : "The 2 Axis Libra is a remote camera head designed using the trusted framework of the original Libra head, but streamlined into a compact two-axis configuration. Equipped with pan and tilt stabilization while omitting a roll axis, it is the ideal choice for shooting in tight spaces or scenarios where a third axis is unnecessary. Despite its reduced axis count, the head maintains the same exceptional build quality as the full Libra system, ensuring reliability and smooth operation in a more compact form.\n",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T06:35:03.033Z",
+    "Manufacturers" : "Libra Remotes",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Libra 2-Axis (Barry)",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "id" : "4902B275-1341-4DE3-95EC-A123E93AB216",
+    "photoURLs" : [
+      "https://www.camerarevolution.com/wp-content/uploads/2025/05/Libra-2-Axis-LG.png"
+    ],
+    "videoURLs" : [
+
     ]
   }
 ]
