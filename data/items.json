@@ -4511,51 +4511,70 @@
     ]
   },
   {
+    "Axis" : "3",
     "Category" : "Stabilised Heads",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The G3 is a stabilized head used in the TV and film industry to mount cameras, providing smooth and stable shots during motion. It allows for precise control and flexibility, essential for dynamic filming environments.",
+    "DescriptionText" : "The G3 remote head has been a reliable choice for filmmakers and cinematographers over the years, even in the toughest of environments. It is capable of stabilizing heavy camera packages, such as the 3D packages used on feature films such as Tron and Life of Pie. The larger size of the G3 prevents any challenge of running with 1000-foot magazines. Its gyro stabilization can handle the most extreme off-road conditions. It is a dependable choice for any filmmaker.\n\n",
     "Features" : [
-
+      "3 axis gyro Stabilized Head",
+      "3 full 360 deg rotation on Pan, tilt, roll"
     ],
-    "Last edited time" : "2025-09-27T09:51:23.985Z",
+    "Height" : "32in min | 38in Max",
+    "Last edited time" : "2025-09-27T10:04:25.837Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "38kg",
     "Name" : "G3",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "720º",
+    "Payload" : "114kg",
+    "Roll Range" : "720º",
+    "Speed" : "From O degrees to 180 degrees / sec.",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "720º",
     "WebsiteURL" : "https://www.chapman-leonard.com/product/g3/",
+    "Width" : "38in",
     "id" : "138",
     "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/04/G3-head-no-dolly_web-1-2048x1158.webp",
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/04/G3-head-no-dolly_web-2-2048x1158.webp",
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/04/G3-head-no-dolly_web-6-2048x1158.webp"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/5Kzt9H3VHW8"
     ]
   },
   {
+    "Axis" : "3 or 2",
     "Category" : "Stabilised Heads",
+    "Controls" : "Wheels",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Amphibian is a stabilised head used in the TV and film industry for smooth camera movement and stability during shooting. It is particularly effective for capturing dynamic shots and ensuring steady footage, essential for high-quality production.",
+    "DescriptionText" : "The Amphibian is built in the USA by Chapman Leonard and offered in 2 and 3 axis when it arrives. Your qualified technician can help you choose the best application for your shoot. It is a fully submersible head that is perfectly paired with the 32′ Telescopic Hydrascope and sliding weight system. The Amphibians ability to handle water dives do to its incredibly powerful motors and strong build makes it the head of choice for underwater filming. The camera plate is adaptable to all hydroflex water housings with its universal plate. The amphibian can be used in salt water as well making it an ideal piece of equipment for underwater filming project.",
     "Features" : [
-
+      "3 axis Fully Submersible head also available in 2 axis configuration.",
+      "Engineered for Heavy payloads accepting light rigs or custom camera packages",
+      "Salt or fresh water compatible",
+      "Best used with 32’ Hydrascope crane with sliding weight system"
     ],
-    "Last edited time" : "2025-09-27T09:51:31.300Z",
+    "Height" : "40in max | 34in min",
+    "Last edited time" : "2025-09-27T10:09:24.852Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "31kg",
     "Name" : "Amphibian",
     "Other Requirements" : [
 
@@ -4564,12 +4583,13 @@
 
     ],
     "WebsiteURL" : "https://www.chapman-leonard.com/product/amphibian/",
+    "Width" : "20.5in",
     "id" : "139",
     "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/04/Amphibian.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/l30iNn2cG-c"
     ]
   },
   {
@@ -17642,11 +17662,12 @@
     ]
   },
   {
+    "Axis" : "4",
     "Category" : "Stabilised Heads",
     "Controls" : "Wheels, Handheld, Panbar and Joystick",
     "Created Date" : "2025-09-27T09:52:04.157Z",
     "Crew Required" : [
-
+      "Head Tech"
     ],
     "DescriptionText" : "Gyro Motion is proud to introduce GENESIS — our patented gyro-stabilized head, setting new standards in stabilization and user friendliness.\n \nThis head is the result of a process involving years of experience, engineering talent and the ambition to create a perfect system without the usual drawbacks of conventional open frame gimbals.\n \nThe new head architecture, electronic design, software and control solutions allowed for us to create a system that provides exceptional accuracy and has no limitations in terms of stabilization and control.",
     "Features" : [
@@ -17663,7 +17684,7 @@
       "Built in platform to supply camera power."
     ],
     "Height" : "791mm",
-    "Last edited time" : "2025-09-27T10:00:28.421Z",
+    "Last edited time" : "2025-09-27T10:05:25.013Z",
     "Manufacturers" : "Gyro Motion",
     "Max. Weight" : "56kg",
     "Min. Transport Required" : [
