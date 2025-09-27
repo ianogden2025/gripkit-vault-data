@@ -1563,11 +1563,21 @@
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The Suction Cup Set is a versatile rigging tool used in the TV and film industry for securely attaching equipment to smooth surfaces, enabling stable camera mounts and props during shoots.",
+    "DescriptionText" : "SET INCLUDES: \n☑ 4 Pieces 85mm ( 3\" 1/4 ) Rubber suction pad with 40mm (1\" 57 ) Starter Pin 16mm (5/8\" )\n☑ 4 Pieces 90mm ( 3\" 1/2 ) Suction cup \n☑ 8 Pieces 120mm ( 4\" 3/4 ) Suction cup\n☑ 4 Pieces 150mm ( 6\" ) Suction cup\n☑ 16 Pieces 80mm ( 3\" 3/4 ) Length - Starter pin 1/4 - 3/8 Female Threads\n☑ Black Explorer case 5822\n\nNote : The suction cups should never be stored activated; they should always be stored in their resting position.",
     "Features" : [
-
+      "85mm ( 3,34\" ) O.D Outside diameter",
+      "90mm ( 3\" 1/2 ) O.D Outside diameter",
+      "120mm ( 4\" 3/4 ) O.D Outside diameter",
+      "150mm ( 6\" ) O.D Outside diameter",
+      "Stainless steel",
+      "Black anodized",
+      "High strength aluminium alloy",
+      "Black Explorer case 5822",
+      "Custom laset cut foam",
+      "Copolymer polipropylene case",
+      "Waterproof case"
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:02:36.568Z",
     "Manufacturers" : "gripfilm.com",
     "Min. Transport Required" : [
 
@@ -1576,13 +1586,15 @@
     "Other Requirements" : [
 
     ],
+    "Payload" : "GFSC-150 - 16.6kg | GFSC-120 - 13.3kg | GFSC-90 - 7.3kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://gripfilm.com/collections/suction-cups/products/suction-cup-set",
     "id" : "46",
     "photoURLs" : [
-
+      "https://gripfilm.com/cdn/shop/products/GFSCS_1_b84963dc-d975-491c-9b01-41d0ce991171.jpg?v=1672828226&width=1540",
+      "https://gripfilm.com/cdn/shop/products/GFSCS_3.jpg?v=1672828226&width=1540"
     ],
     "videoURLs" : [
 
@@ -1598,7 +1610,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:02:57.477Z",
     "Manufacturers" : "gripfilm.com",
     "Min. Transport Required" : [
 
