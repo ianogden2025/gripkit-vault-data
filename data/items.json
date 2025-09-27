@@ -10762,7 +10762,7 @@
 
     ],
     "Inside Diameter" : "333",
-    "Last edited time" : "2025-09-27T10:35:10.648Z",
+    "Last edited time" : "2025-09-27T10:37:25.896Z",
     "Manufacturers" : "Supertechno",
     "Min. Transport Required" : [
       "Truck"
@@ -10778,9 +10778,10 @@
     "WebsiteURL" : "https://www.supertechno.com/supertechno-15",
     "id" : "333",
     "photoURLs" : [
-      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/osta15_supertechno-15/gr_remote-systems_telescopic-cranes_technocrane_supertechno-15_01-png.png?sfvrsn=d42f75ed_0",
       "https://www.supertechno.com/upload/1270-0711107219.png",
-      "https://www.supertechno.com/upload/1410-1304537442_s.jpg"
+      "https://www.supertechno.com/upload/1410-1304537442_s.jpg",
+      "https://www.supertechno.com/upload/1411-1304553889_s.jpg",
+      "https://www.supertechno.com/upload/1412-1304569840_s.jpg"
     ],
     "videoURLs" : [
 
@@ -10802,7 +10803,7 @@
     "Fulcrum to Rear" : "4ft 1in",
     "Fulcrum to Short End" : "2ft 7in",
     "Height" : "6ft 11in",
-    "Last edited time" : "2025-09-27T10:28:44.934Z",
+    "Last edited time" : "2025-09-27T10:36:34.995Z",
     "Length" : "15ft 7in",
     "Manufacturers" : "Supertechno",
     "Max. Lens Height (Overslung)" : "17ft 5in",
@@ -10826,14 +10827,19 @@
     "Width" : "2ft 4in without jacks",
     "id" : "334",
     "photoURLs" : [
-      "https://www.supertechno.com/upload/2124-1209285114.png"
+      "https://www.supertechno.com/upload/2124-1209285114.png",
+      "https://www.supertechno.com/upload/1936-1109281311_s.png",
+      "https://www.supertechno.com/upload/1935-1109266811_s.png",
+      "https://www.supertechno.com/upload/1934-1109252410_s.png"
     ],
     "videoURLs" : [
       "https://youtu.be/sO6r8MCF1gw"
     ]
   },
   {
+    "Arm Travel" : "37ft 1in",
     "Category" : "Telescopic Cranes",
+    "Column/Jib Travel" : "5ft 11in",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "2 x Crane Techs (lvl 2)",
@@ -10843,9 +10849,16 @@
     "Features" : [
 
     ],
+    "Fulcrum to Long End" : "48ft 6in",
+    "Fulcrum to Rear" : "12ft 11in",
+    "Fulcrum to Short End" : "10’7in",
     "Inside Diameter" : "335",
-    "Last edited time" : "2025-09-22T21:47:39.561Z",
+    "Last edited time" : "2025-09-27T10:40:47.692Z",
     "Manufacturers" : "Supertechno",
+    "Max. Column/Jib Height" : "6ft",
+    "Max. Lens Height (Overslung)" : "53ft 6in",
+    "Max. Lens Height (Underslung)" : "50ft",
+    "Min. Column/Jib Height" : "11ft 10in",
     "Min. Transport Required" : [
       "Truck"
     ],
@@ -10854,13 +10867,19 @@
       "Comms",
       "Stabilised Remote Head"
     ],
+    "Speed" : "2.8m/s",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.supertechno.com/supertechno-50",
     "id" : "335",
     "photoURLs" : [
-      "https://www.supertechno.com/upload/1273-0711399617.png"
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/osta22_supertechno-22/01_gr_remote-systems_telescopic-cranes_technocrane_supertechno-22_01-png.png",
+      "https://www.supertechno.com/upload/2093-1206419577_s.png",
+      "https://www.supertechno.com/upload/2094-1206433002_s.png",
+      "https://www.supertechno.com/upload/2092-1206405368_s.png",
+      "https://www.supertechno.com/upload/1721-0905156734_s.png",
+      "https://www.supertechno.com/upload/1722-0905166963_s.png"
     ],
     "videoURLs" : [
 
