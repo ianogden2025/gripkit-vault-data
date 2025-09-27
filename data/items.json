@@ -1332,7 +1332,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:29:28.894Z",
     "Manufacturers" : "gripfilm.com",
     "Min. Transport Required" : [
 
@@ -1347,7 +1347,8 @@
     "WebsiteURL" : "https://gripfilm.com/collections/leveling-base/products/leveling-base",
     "id" : "40",
     "photoURLs" : [
-
+      "https://gripfilm.com/cdn/shop/files/Sintitulo-1_b14dd9f3-af69-4d60-854f-fc1db7abc9c6.jpg?v=1713815179&width=1540",
+      "https://gripfilm.com/cdn/shop/products/image_d297fe72-7ae3-48b3-9d69-005cda9790a1.jpg?v=1713815179&width=1540"
     ],
     "videoURLs" : [
 
@@ -2449,7 +2450,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:30:19.106Z",
     "Manufacturers" : "Novoflex",
     "Min. Transport Required" : [
 
@@ -2464,7 +2465,7 @@
     "WebsiteURL" : "https://novoflex.co.uk/magicball-ballhead/",
     "id" : "72",
     "photoURLs" : [
-
+      "https://cdn11.bigcommerce.com/s-htqnlghd1h/images/stencil/1000x1000/products/315/1803/oo7rtv3x8by6g37ipq2z__23654.1712679366.jpg?c=1"
     ],
     "videoURLs" : [
 
@@ -4209,7 +4210,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:22:29.691Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
       "Van"
@@ -4225,164 +4226,7 @@
     "WebsiteURL" : "https://www.chapman-leonard.com/product/stinger-plus/",
     "id" : "130",
     "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Jib Arms",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "2x Crane Grips (lvl 3)"
-    ],
-    "DescriptionText" : "The Stinger II is a jib arm used in the TV and film industry to achieve smooth, dynamic camera movements. It requires a minimum crew of two crane grips and is designed to be mounted on a van, facilitating versatile shooting angles and enhanced production value.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Chapman/Leonard Studio Equipment",
-    "Min. Transport Required" : [
-      "Van"
-    ],
-    "Name" : "Stinger II",
-    "Other Requirements" : [
-      "Comms",
-      "Remote Head"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://www.chapman-leonard.com/product/stinger-ii/",
-    "id" : "131",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Jib Arms",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "The Stinger is a jib arm used in the TV and film industry to achieve smooth camera movements and dynamic shots. It allows operators to position cameras at various angles and heights, enhancing the storytelling and visual impact of productions.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Chapman/Leonard Studio Equipment",
-    "Min. Transport Required" : [
-      "Van"
-    ],
-    "Name" : "Stinger",
-    "Other Requirements" : [
-      "Comms",
-      "Remote Head"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://www.chapman-leonard.com/product/stinger/",
-    "id" : "132",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Mobile Crane Bases",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Crane Base Tech"
-    ],
-    "DescriptionText" : "The Super Raptor is a mobile crane base used in the TV and film industry to support heavy equipment and facilitate the safe movement of cameras and other gear on set, ensuring efficient production workflows.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Chapman/Leonard Studio Equipment",
-    "Min. Transport Required" : [
-      "Truck"
-    ],
-    "Name" : "The Super Raptor",
-    "Other Requirements" : [
-      "Crane"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://www.chapmanleonard.com/superraptor",
-    "id" : "133",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Mobile Crane Bases",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Crane Base Tech"
-    ],
-    "DescriptionText" : "The Rhino is a mobile crane base used in the TV and film industry to provide stable support for cranes during filming, allowing for smooth camera movements and dynamic shots.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Chapman/Leonard Studio Equipment",
-    "Min. Transport Required" : [
-      "Truck"
-    ],
-    "Name" : "The Rhino",
-    "Other Requirements" : [
-      "Crane"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://www.chapmanleonard.com/rhino",
-    "id" : "134",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Mobile Crane Bases",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Crane Base Tech"
-    ],
-    "DescriptionText" : "The Raptor is a mobile crane base used in the TV and film industry to support and stabilize camera systems during shooting, allowing for smooth, dynamic movements and versatile positioning in various filming environments.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Chapman/Leonard Studio Equipment",
-    "Min. Transport Required" : [
-      "Truck"
-    ],
-    "Name" : "The Raptor",
-    "Other Requirements" : [
-      "Crane"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://www.chapmanleonard.com/raptor",
-    "id" : "135",
-    "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/04/Stinger-for-Website-Image.jpg"
     ],
     "videoURLs" : [
 
@@ -6142,7 +5986,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:42:53.087Z",
     "Manufacturers" : "Alpha Grip",
     "Min. Transport Required" : [
       "Articulated Truck"
@@ -6157,7 +6001,8 @@
     "WebsiteURL" : "https://www.sunbeltrentals.co.uk/film-tv-equipment/cranes/specialist-vehicles/the-scarab-xl-2070/",
     "id" : "199",
     "photoURLs" : [
-
+      "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129082/4e807e6ef3f74416a3e966056fd29d40.jpg?format=webp&quality=99",
+      "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129082/f7bf2927a95a4624bfe0e4ad7d748b27.jpg?format=webp&quality=99"
     ],
     "videoURLs" : [
 
@@ -6173,7 +6018,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:43:03.359Z",
     "Manufacturers" : "Alpha Grip",
     "Min. Transport Required" : [
       "Truck"
@@ -6188,7 +6033,7 @@
     "WebsiteURL" : "https://www.sunbeltrentals.co.uk/film-tv-equipment/cranes/specialist-vehicles/the-scarab-2071/",
     "id" : "200",
     "photoURLs" : [
-
+      "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129081/b7728fcc9b35420e9e6d70b55bf54671.jpg?format=webp&quality=99"
     ],
     "videoURLs" : [
 
@@ -7145,14 +6990,14 @@
       "2x Crane Grips (lvl 3)",
       "Crane Tech (lvl 2)"
     ],
-    "DescriptionText" : "The Fisher 23 Arm is a jib arm used in the TV and film industry to achieve dynamic camera movements. It allows for precise control of the camera's height and angle, enhancing the visual storytelling by providing versatile shots, particularly in tight spaces or when capturing high angles.",
+    "DescriptionText" : "The Model 20, 21 and 22 jib arms can be used on all J.L. Fisher camera dollies. The Model 23 can be used on the Model 9 and 10 camera dollies with a center mount. They are smooth, quiet and easy to set up, with the J.L. Fisher reputation for being well constructed and easily maintained. All jib arms come complete with weight carts, leveling offsets and angle plates.",
     "Features" : [
 
     ],
     "Fulcrum to Long End" : "21ft",
     "Fulcrum to Rear" : "4ft (V1 & V2) 7ft (V3-V7)",
     "Fulcrum to Short End" : "6ft",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:24:04.572Z",
     "Manufacturers" : "J.L. Fisher",
     "Max. Lens Height (Overslung)" : "20ft 7in",
     "Max. Weight" : "154 (excl dolly, payload & counterweight)",
@@ -7173,7 +7018,7 @@
     "WebsiteURL" : "https://www.jlfisher.com/jibarms",
     "id" : "228",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/9e1783_38546adf573e40e4940dc2be6d758e11~mv2.png/v1/fill/w_770,h_682,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cover%20Composite_tif.png"
     ],
     "videoURLs" : [
 
@@ -7686,7 +7531,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:31:00.484Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -7701,7 +7546,7 @@
     "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/fluid-heads/low-levelling-head/",
     "id" : "245",
     "photoURLs" : [
-
+      "https://lh5.googleusercontent.com/proxy/gCUdMjVoXAnwsdEG_kWZz91wPZHeH2L9kD22rlih2-NpJ2Rnq93a3gAhagfVWEsIUx3PyyhODEE52ePFr4ag2_E7KSkvoKnnNjKR5xiLk5qWbsuNYaY0tjvqRnYsSY9xrw"
     ],
     "videoURLs" : [
 
@@ -9895,11 +9740,16 @@
     "Crew Required" : [
       "Crane Base Tech"
     ],
-    "DescriptionText" : "The Hexatron is a mobile crane base used in the TV and film industry for supporting camera systems, enabling smooth and versatile movement during filming. Its adjustable height and multiple steering modes allow for precise positioning and stability, making it essential for dynamic shots.",
+    "DescriptionText" : "The HEXATRON from ARRI Rental is an exclusive, all-weather, go-anywhere crane positioning base. Suitable for use with telescopic and modular camera cranes, the heavy-duty, four-wheel drive vehicle allows elaborate crane shots to be achieved quickly and easily on the toughest terrain and at the most inaccessible locations.\n\nOnce in position, the vehicle base stabilizes itself with four hydraulic legs, which provide solid support. Then the custom-made six-arm HEXApod fixed to the vehicle base levels the crane mount itself. Other system components include the HEXAjuice power supply, HEXAbrake remote-controlled pan brake and dedicated road haulage truck.",
     "Features" : [
-
+      "Quick and easy to operate at many different locations on a single day.",
+      "Strong climbing ability for year-round use on mountainous and hard-to-reach terrain.",
+      "Various steering modes and wheel configurations to suit different conditions.",
+      "Precise leveling of the crane achieved in minutes.",
+      "Can be safely driven off the set immediately after use with the crane still mounted, causing no delay to shooting.",
+      "The water wading depth of 60 cm and all-terrain tires eliminate logistical problems associated with harsh weather and sodden locations."
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:44:41.406Z",
     "Length" : "5.2m (vehicle only)",
     "Manufacturers" : "Arri",
     "Max. Column/Jib Height" : "3.15m",
@@ -9923,7 +9773,7 @@
     "Width" : "2.15m (3.35m with stabilisers)",
     "id" : "314",
     "photoURLs" : [
-
+      "https://britishcinematographer.co.uk/wp-content/uploads/2016/11/Unknown-1.jpg"
     ],
     "videoURLs" : [
 
@@ -10131,26 +9981,32 @@
     "Crew Required" : [
       "Crane Base Tech"
     ],
-    "DescriptionText" : "The Panaconda is a mobile crane base used in the TV and film industry to provide stable support for cameras and equipment during shoots, allowing for smooth movement and precise positioning.",
+    "DescriptionText" : "The Panaconda is the ultimate all-terrain mobile crane base. Support for all a wide range of Panavision-supplied telescopic and modular arms makes this one of the greatest multi-use grip vehicles available. ",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "2.23 (30' Techno), 2.28 (50' Techno) min | 4 (30' Techno), 4.05 (50' Techno) max",
+    "Last edited time" : "2025-09-27T16:47:14.006Z",
+    "Length" : "4.06m",
     "Manufacturers" : "Panavision",
+    "Max. Weight" : "5330kg (30' Techno), 6500kg (50' Techno) ",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "4000kg",
     "Name" : "Panaconda",
     "Other Requirements" : [
       "Crane"
     ],
+    "Speed" : "8kph",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/mtb-panaconda-4x4",
+    "Width" : "2.29m",
     "id" : "321",
     "photoURLs" : [
-
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/mtb_panaconda-4x4/gr_remote-systems_mobile-base_panavision_panaconda_4x4_01-png.png?sfvrsn=d8eb9845_0"
     ],
     "videoURLs" : [
 
@@ -10162,26 +10018,33 @@
     "Crew Required" : [
       "Crane Base Tech"
     ],
-    "DescriptionText" : "The Panagator 4x4 is a mobile crane base used in the TV and film industry to provide stable support for camera cranes. It allows for precise movement and positioning of cameras, enhancing the quality of shots during production.",
+    "DescriptionText" : "A true utility crane base, the Panagator is a 4×4 all-terrain vehicle capable of moving cranes in the harshest of environments and locations. Capable of supporting up to a Supertechno 30, the Panagator features off-road tires and heavy-duty construction, making it a vital tool in extreme conditions. ",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "2.32 (22' Techno), 2.56 (30' Techno) min | 2.65 (22' Techno), 2.9 (30' Techno) max",
+    "Last edited time" : "2025-09-27T16:49:39.418Z",
+    "Length" : "3.5",
     "Manufacturers" : "Panavision",
+    "Max. Weight" : "2760kg (22' Techno), 3170kg (30' Techno) ",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "1840kg",
     "Name" : "Panagator 4x4",
     "Other Requirements" : [
       "Crane"
     ],
+    "Speed" : "16kph",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/puv-panagator-4x4",
+    "Width" : "1.75m",
     "id" : "322",
     "photoURLs" : [
-
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/puv_panagator-4x4/gr_remote-systems_mobile-base_panavision_panagator_4x4_01-png.png?sfvrsn=bfc5b54c_0",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/puv_panagator-4x4/gr_remote-systems_mobile-base_panavision_panagator_4x4_04-png.png?sfvrsn=e092e8bb_0"
     ],
     "videoURLs" : [
 
@@ -10193,12 +10056,15 @@
     "Crew Required" : [
       "Crane Base Tech"
     ],
-    "DescriptionText" : "The PanaViper is a mobile crane base used in the TV and film industry to support camera systems for dynamic shots. It allows for smooth movement and precise control, enabling filmmakers to capture high-quality footage from various angles.",
+    "DescriptionText" : "Built on a 4x4 base, the PanaViper supports a wide range of modular and telescopic arms and offers ultra-low gearing for climbing steep hills and mounds, delivering much higher performance than other machines. The PanaViper also incorporates a built-in power supply for cranes and remote heads and a leveling column for positioning on uneven terrain.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "2.32m (50' Techno) ",
+    "Last edited time" : "2025-09-27T16:49:56.299Z",
+    "Length" : "5.26m",
     "Manufacturers" : "Panavision",
+    "Max. Weight" : "6600kg (50' Techno) ",
     "Min. Transport Required" : [
       "Truck"
     ],
@@ -10206,13 +10072,16 @@
     "Other Requirements" : [
       "Crane"
     ],
+    "Speed" : "8kph",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/vtb-panaviper",
+    "Width" : "1.98m",
     "id" : "323",
     "photoURLs" : [
-
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/vtb_panaviper/gr_remote-systems_mobile-base_panavision_panaviper_02.png?sfvrsn=42410d98_3",
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/vtb_panaviper/gr_remote-systems_mobile-base_panavision_panaviper_01.png?sfvrsn=6f0dcb7a_3"
     ],
     "videoURLs" : [
 
@@ -11448,7 +11317,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:24:18.764Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11464,7 +11333,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-jib-slider",
     "id" : "359",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_3155fbf0031f4a71a519cf585ee0a53e~mv2.gif"
     ],
     "videoURLs" : [
 
@@ -11480,7 +11349,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:24:28.925Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11496,7 +11365,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-baby-jib",
     "id" : "360",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_99a940e2d77e4f479a5ed8ce2958814e~mv2.png/v1/fill/w_1384,h_528,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Baby-Jib.png"
     ],
     "videoURLs" : [
 
@@ -11512,7 +11381,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:24:36.699Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11528,7 +11397,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-jib",
     "id" : "361",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_32d551879d5d48358e812b45c8c01085~mv2.gif"
     ],
     "videoURLs" : [
 
@@ -11544,7 +11413,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:24:44.038Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11560,7 +11429,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-mini-jib",
     "id" : "362",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/0b5294_3cc274bdb436429e81007b34de703a65~mv2.png/v1/fill/w_1622,h_406,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/minijib-teaser.png"
     ],
     "videoURLs" : [
 
@@ -11576,7 +11445,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:26:36.578Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11592,10 +11461,15 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-mod-jib",
     "id" : "363",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_9e0c834865074580ab8e2e75fb2d8dec~mv2.gif",
+      "https://static.wixstatic.com/media/3e3f04_099240f1d3c0495f8eb92205d236f138~mv2.gif",
+      "https://static.wixstatic.com/media/3e3f04_32afc1de73d941e7a163f5ecf4a3faaf~mv2.png/v1/fill/w_1356,h_450,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/qdwdw.png",
+      "https://static.wixstatic.com/media/3e3f04_01fda9c3050547b4b186645e97888aee~mv2.png/v1/fill/w_920,h_338,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-mod-jib-ultra-lightweight-construction.png",
+      "https://static.wixstatic.com/media/3e3f04_a755015fdad1480d840f5df87456bb97~mv2.png/v1/crop/x_115,y_600,w_2769,h_1800/fill/w_720,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Play-Free-Dove-Tail-System.png",
+      "https://static.wixstatic.com/media/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg/v1/fit/w_1011,h_1213,q_90,enc_avif,quality_auto/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg"
     ],
     "videoURLs" : [
-
+      "https://vimeo.com/861547629?fl=pl&fe=sh"
     ]
   },
   {
@@ -11604,13 +11478,13 @@
     "Crew Required" : [
       "2x Crane Grips (lvl 3)"
     ],
-    "DescriptionText" : "The GF-Multi Jib is a versatile jib arm used in the TV and film industry to achieve dynamic camera movements. It allows for extended reach and height adjustments, enabling filmmakers to capture a variety of angles and shots with precision. Designed for use with cranes, it supports different payloads depending on the rear section length, making it ideal for professional cinematography setups.",
+    "DescriptionText" : "The GF-Multi Jib is a professional, lightweight and modular Jib arm, suitable for carrying all general remote head systems. It is portable, mobile and mounts on most standard dollies fitted with Euro Adapter or Mitchell mounts.\nThe arm is stabilised with an easy to mount, rod rigging system. In general, the two 150 cm sections are used as front arm extensions whereas the 100, 50 and 30 cm sections function as both rear and front sections. Various configurations can be achieved by combining the sections, allowing the arm to be assembled to the required length.",
     "Features" : [
 
     ],
     "Fulcrum to Long End" : "15ft 3in",
     "Fulcrum to Short End" : "4ft 2in (30cm Rear Section) | 4ft 10in (50cm Rear Section) | 6ft 6in (1m Rear Section)",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:26:58.555Z",
     "Length" : "60in with Jacks",
     "Manufacturers" : "Grip Factory Munich",
     "Max. Lens Height (Overslung)" : "20ft 1in (30cm Rear Section) | 19ft 6in (50cm Rear Section) | 18ft (1m Rear Section)",
@@ -11631,7 +11505,7 @@
     "Width" : "35in",
     "id" : "364",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_3501886589be4dadb4a8cb8ecc18276d~mv2.png/v1/fill/w_2250,h_398,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/hero_gf-multi-jib.png"
     ],
     "videoURLs" : [
 
@@ -11647,7 +11521,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:27:30.419Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11663,10 +11537,10 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-tele-jib",
     "id" : "365",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/0b5294_6a294eb5f5b44b7b8b47723e7036485e~mv2.png/v1/fill/w_1792,h_410,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/TeleJib-teaser.png"
     ],
     "videoURLs" : [
-
+      "https://vimeo.com/425208947?fl=pl&fe=sh"
     ]
   },
   {
@@ -14096,7 +13970,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:27:50.945Z",
     "Manufacturers" : "Aerocrane",
     "Min. Transport Required" : [
       "Van"
@@ -14111,7 +13985,8 @@
     "WebsiteURL" : "https://www.aerocrane.nl/index.php/jibb/accessories",
     "id" : "437",
     "photoURLs" : [
-
+      "https://www.aerocrane.nl/images/JIB/accessories5.jpg",
+      "https://www.aerocrane.nl/images/JIB/accessories3.jpg"
     ],
     "videoURLs" : [
 
@@ -14130,7 +14005,7 @@
     "Fulcrum to Long End" : "7ft",
     "Fulcrum to Rear" : "2ft 7in min | 4ft 8in max",
     "Fulcrum to Short End" : "3ft",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:28:04.262Z",
     "Manufacturers" : "Aerocrane",
     "Max. Lens Height (Overslung)" : "12ft 5in",
     "Min. Lens Height" : "-5ft 3in",
@@ -14150,7 +14025,7 @@
     "WebsiteURL" : "https://www.aerocrane.nl/index.php/jibb/accessories",
     "id" : "438",
     "photoURLs" : [
-
+      "https://www.aerocrane.nl/images/JIB/off-limit.jpg"
     ],
     "videoURLs" : [
 
@@ -14169,7 +14044,7 @@
     "Fulcrum to Long End" : "7ft",
     "Fulcrum to Rear" : "2ft 7in min | 4ft 8in max",
     "Fulcrum to Short End" : "3ft",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:28:37.754Z",
     "Manufacturers" : "Aerocrane",
     "Max. Lens Height (Overslung)" : "9ft 4in",
     "Min. Lens Height" : "-2ft 2in",
@@ -14189,7 +14064,7 @@
     "WebsiteURL" : "https://www.aerocrane.nl/index.php/jibb/accessories",
     "id" : "439",
     "photoURLs" : [
-
+      "https://www.aerocrane.nl/images/JIB/remote-rig.jpg"
     ],
     "videoURLs" : [
 
@@ -15366,38 +15241,6 @@
     "id" : "476",
     "photoURLs" : [
       "https://egripment.com/assets/components/phpthumbof/cache/Matador%20%284%29.1b7665f2a31d6961f80680926191a75f.jpg"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Jib Arms",
-    "Created Date" : "January 4, 2025 8:40 PM",
-    "Crew Required" : [
-      "2x Crane Grips (lvl 3)"
-    ],
-    "DescriptionText" : "The MiniJib Short is a compact jib arm designed for use in the TV and film industry, allowing for smooth camera movements and angles. It requires two crane grips for operation and is typically transported in a van. Ideal for capturing dynamic shots, it enhances the versatility and creativity of filming.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Egripment",
-    "Min. Transport Required" : [
-      "Van"
-    ],
-    "Name" : "MiniJib Short",
-    "Other Requirements" : [
-      "Comms",
-      "Remote Head"
-    ],
-    "Steering Mode" : [
-
-    ],
-    "WebsiteURL" : "https://shop.egripment.com/product/minijib-short/",
-    "id" : "477",
-    "photoURLs" : [
-
     ],
     "videoURLs" : [
 
@@ -17381,6 +17224,133 @@
     ],
     "videoURLs" : [
       "https://vimeo.com/434742761?fl=pl&fe=sh"
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T16:36:24.250Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The 3-way leveller comes with a Mitchell top and a Euro coupling fitting, to level your remote head or your geared head to a maximum of 15 degrees\nWith Mitchell top\nStandard Euro couple fitting\nAluminium handle with stainles steel insert\nAdjustable levelling balls\nAluminium parts are powder coated or hardened anodized",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T16:38:20.923Z",
+    "Manufacturers" : "ProSup",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Three-Way Leveller",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://prosup.com/product/3-way-camera-leveller/",
+    "id" : "D6073C9F-DC17-4DDB-96B9-1A6D11B4046F",
+    "photoURLs" : [
+      "https://prosup.com/wp-content/uploads/500-600levellers/510_3-way-Camera-Leveller_800.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T16:37:36.353Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The 3-way leveller comes with a Mitchell top and a Euro coupling fitting, to level your remote head or your geared head to a maximum of 15 degrees.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-27T16:38:15.400Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Three-Way Leveller",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://prosup.com/product/3-way-camera-leveller/",
+    "id" : "CECAF297-2C53-4BC4-84D6-9CB086C46278",
+    "photoURLs" : [
+      "https://lh4.googleusercontent.com/proxy/zumQxrWlOclZhLwx_6SFrDSUjpjIhUekMYrsbCk5BoTubbCqaBxU_rGgwlZaQ0vmoN9HcfhEbq_pMKVIUmuZ4pa9VvPz358dk_XwUJEJhLsgN8_sOs4DZZI_K0KRiT_xMacUmkNH0RC_OGckCNX67c9x8A"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T16:38:46.419Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+      "Upto 90º tilt"
+    ],
+    "Last edited time" : "2025-09-27T16:40:13.577Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Mitchell Adjustable Tilt Riser",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "F1D3FB86-D489-401F-94BA-C2F64A001BF0",
+    "photoURLs" : [
+      "https://www.ljud-bildmedia.se/prod/1008965.00/1008965.00_01.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutUYQN2ORl7ymvBigjc04272n3exaYhG2tg&s"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-27T16:40:44.269Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Now you have a solution to adjust the height of your camera from 2.5\" closed to 4\" maximum height. The riser snaps into the Ronford Baker Large Quick Release Plate and is supplied with two 3/8\" camera screws. Perfect for car rigging or for macro shooting where you need a quick and smooth height adjustment.",
+    "Features" : [
+      "Adjustable height: 2.5 - 4 inches",
+      "One (1) spoke hand wheel to rise and lower height",
+      "Four (4) tension levers to secure the position of the height",
+      "Riser snaps to Ronford Baker Large Quick Release Plate (sold separately)",
+      "Two (2) 3/8\" screws",
+      "Suitable for minute height adjustments (e.g. macro shoots, car rigs)"
+    ],
+    "Last edited time" : "2025-09-27T16:41:41.307Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Quick Release Adjustable Riser (2.5 - 4\")",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "C97BFE47-CB28-482C-8ABF-560E7BE8C62D",
+    "photoURLs" : [
+      "https://www.bandpro.com/media/catalog/product/cache/62cd0db4a82e0f8315cd853c356888b1/r/o/ronford-baker-quick-release-adjustable-riser-1.jpg"
+    ],
+    "videoURLs" : [
+
     ]
   }
 ]
