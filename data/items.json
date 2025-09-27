@@ -4447,64 +4447,81 @@
     ]
   },
   {
-    "Category" : "Remote Heads",
+    "Axis" : "2 or 3",
+    "Category" : "Stabilised Heads",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The CL MINI is a compact remote head designed for camera movement in the TV and film industry. It allows for precise control of camera angles and movements, enabling smooth and dynamic shots, particularly in tight spaces or when working with specialized rigs.",
+    "DescriptionText" : "The Chapman Leonard 2 axis remote head is a powerful and reliable tool for professional cinematographers. It features back pan compensation and 15 degrees of leveling in both directions, allowing cinematographers to quickly adjust the level of their shots. Its powerful motors enable it to handle heavy camera payloads, and limits can be set on all its axis. This remote head is offered in Aluminum and Magnesium, weight is the primary difference. In addition, there’s a variety of sizes, Standard, Mini, and our XL system is often used for lighting rigs.  The CL head runs from lithium batteries, is water resistant, and won’t drift during lock off shots. This makes it an ideal tool for its cost efficiency and build quality, truly supporting large lenses and fully built out camera bodies.",
     "Features" : [
-
+      "Repeatable moves",
+      "Smooth, Silent Performance",
+      "Water Resistant"
     ],
-    "Inside Diameter" : "136",
-    "Last edited time" : "January 13, 2025 8:39 PM",
+    "Height" : "25.4in min | 32.9in max",
+    "Last edited time" : "2025-09-27T10:23:12.987Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
+    "Max. Weight" : "72.7kg (2-axis) | 81.6kg (3-axis)",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "27.7kg (2-axis) | 36.6kg (3-axis)",
     "Name" : "CL MINI",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "720º",
+    "Payload" : "45kg",
+    "Roll Range" : "42º",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "720º",
     "WebsiteURL" : "https://www.chapman-leonard.com/product/cl-mini/",
+    "Width" : "18.7in min | 21.7in max",
     "id" : "136",
     "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/05/CL-Head-Final.jpg"
     ],
     "videoURLs" : [
 
     ]
   },
   {
+    "Axis" : "2 or 3",
     "Category" : "Remote Heads",
+    "Controls" : "Wheels, Panbar",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The CL Head is a remote-controlled camera head used in the TV and film industry to enable precise and smooth movement of cameras during shooting, enhancing the creative possibilities for cinematographers.",
+    "DescriptionText" : "The Chapman Leonard 2 axis remote head is a powerful and reliable tool for professional cinematographers. It features back pan compensation and has an optional bolt on that provides 15 degrees of leveling in both directions, allowing cinematographers to quickly adjust the level of their shots. Its powerful motors enable it to handle heavy camera payloads, and limits can be set on all its axis. This remote head is offered in Aluminum and Magnesium, weight is the primary difference. In addition, there’s a variety of sizes, Standard, Mini, and our XL system is often used for lighting rigs.  The CL head runs from lithium batteries, is water resistant, and won’t drift during lock ofleveling This makes it an ideal tool for its cost efficiency and build quality, truly supporting large lenses and fully built out camera bodies.",
     "Features" : [
-
+      "2 axis with auto horizon & back pan compensation",
+      "6 full Rotation limit on Pan, tilt, roll",
+      "Available in Aluminium and Magnesium"
     ],
-    "Inside Diameter" : "137",
-    "Last edited time" : "January 13, 2025 8:39 PM",
+    "Height" : "28in min | 35.2in max",
+    "Last edited time" : "2025-09-27T10:15:31.413Z",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "27.7kg (2-axis) | 36.6kg (3-axis)",
     "Name" : "CL Head",
     "Other Requirements" : [
 
     ],
+    "Payload" : "45kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.chapman-leonard.com/product/cl-head/",
+    "Width" : "20.75 in min | 23.75 in max",
     "id" : "137",
     "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2023/05/CL-Side-2048x1638.jpg"
     ],
     "videoURLs" : [
 
@@ -10164,12 +10181,12 @@
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The 360 EVO is a stabilised head designed for camera systems in the TV and film industry, allowing for smooth 360° panning and rolling movements. It is operated using a joystick, pan bar, and wheels, making it ideal for dynamic shots and precise camera control.",
+    "DescriptionText" : "The 360 EVO lives up to its name: 360-degree rotation not only on the pan axis, but also on the roll axis, enables filmmakers to take their creative visions even further. It offers an easy upgrade path for SRH owners and seamless adoption for TRINITY operators, thanks to shared software and accessories, as well as remote system integration, heavy payloads, versatile connectivity, and an unbeatable price-performance ratio.",
     "Features" : [
 
     ],
     "Inside Diameter" : "316",
-    "Last edited time" : "January 13, 2025 8:41 PM",
+    "Last edited time" : "2025-09-27T10:24:13.308Z",
     "Manufacturers" : "Arri",
     "Min. Transport Required" : [
 
@@ -10186,7 +10203,7 @@
     "WebsiteURL" : "https://www.arri.com/en/camera-systems/camera-stabilizer-systems/360-evo",
     "id" : "316",
     "photoURLs" : [
-
+      "https://www.chapman-leonard.com/wp-content/uploads/2024/04/Arri-360-Evo-Web.jpg"
     ],
     "videoURLs" : [
 
@@ -13514,7 +13531,7 @@
 
     ],
     "Inside Diameter" : "416",
-    "Last edited time" : "January 13, 2025 8:39 PM",
+    "Last edited time" : "2025-09-27T10:18:02.044Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
 
