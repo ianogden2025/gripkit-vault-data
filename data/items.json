@@ -3651,7 +3651,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T20:33:50.431Z",
     "Manufacturers" : "SolidGripSystems",
     "Min. Transport Required" : [
 
@@ -5483,9 +5483,10 @@
     ],
     "DescriptionText" : "The Large Circle Track (24ft) is a circular filming track used in the TV and film industry for creating smooth camera movements around a scene, enhancing dynamic shots and enabling precise tracking of subjects.",
     "Features" : [
-
+      "24ft Camera Centre"
     ],
-    "Last edited time" : "2025-09-27T20:25:49.494Z",
+    "Inside Diameter" : "21ft 6in",
+    "Last edited time" : "2025-09-27T20:38:33.009Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -5513,9 +5514,10 @@
     ],
     "DescriptionText" : "The Medium Circle Track (18ft) is a circular track used in the TV and film industry for smooth camera movements during shoots. It allows for dynamic tracking shots, enhancing production value by enabling cameras to move around subjects seamlessly.",
     "Features" : [
-
+      "18ft Camera Centre"
     ],
-    "Last edited time" : "2025-09-27T20:25:50.948Z",
+    "Inside Diameter" : "15ft 6in",
+    "Last edited time" : "2025-09-27T20:38:36.173Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -5545,7 +5547,9 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T20:25:30.737Z",
+    "Height" : "4in",
+    "Last edited time" : "2025-09-27T20:33:24.144Z",
+    "Length" : "1ft | 2ft | 3ft | 4ft | 6ft | 8ft",
     "Manufacturers" : "Dunton Cine Engineering",
     "Min. Transport Required" : [
 
@@ -5559,6 +5563,7 @@
     "Steering Mode" : [
 
     ],
+    "Width" : "30in",
     "id" : "186",
     "photoURLs" : [
       "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423050851-OLKC59OSL8FG1D0SL7OV/dolly-8ft-1.jpeg?format=750w"
@@ -5575,9 +5580,10 @@
     ],
     "DescriptionText" : "The Small Circle Track (12ft) is a compact circular track used in the TV and film industry for filming dynamic scenes, particularly for tracking shots and action sequences. Its design allows for smooth camera movement, enhancing the visual storytelling by providing a controlled environment for moving subjects.",
     "Features" : [
-
+      "12ft Camera Centre"
     ],
-    "Last edited time" : "2025-09-27T20:25:42.724Z",
+    "Inside Diameter" : "9ft 6in",
+    "Last edited time" : "2025-09-27T20:38:19.895Z",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -5592,35 +5598,6 @@
     "id" : "187",
     "photoURLs" : [
       "https://hdgear.tv/wp-content/uploads/2023/03/40743699-FB1B-45E9-9ECB-190886BC448F.jpeg"
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Track",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Grip"
-    ],
-    "DescriptionText" : "The Extra Large Circle Track is a specialized filming equipment used in the TV and film industry to create smooth, circular motion shots. It allows for dynamic camera movements, enhancing the visual storytelling by capturing action from various angles as the camera moves around the subject on the track.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T20:25:51.866Z",
-    "Min. Transport Required" : [
-      "Van"
-    ],
-    "Name" : "Extra Large Circle Track",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "id" : "188",
-    "photoURLs" : [
-      "https://images.squarespace-cdn.com/content/v1/5ff4b0c6120c6947afa66030/1619798959655-D35JO34P3WIO7KRMEOEN/45Curve.jpg"
     ],
     "videoURLs" : [
 
@@ -16267,7 +16244,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T20:28:15.535Z",
+    "Last edited time" : "2025-09-27T20:39:40.611Z",
     "Min. Transport Required" : [
 
     ],
@@ -16482,7 +16459,9 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "4in",
+    "Last edited time" : "2025-09-27T20:33:32.282Z",
+    "Length" : "1ft | 2ft | 3ft | 4ft | 6ft | 8ft",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
@@ -16496,6 +16475,7 @@
     "Steering Mode" : [
 
     ],
+    "Width" : "30in",
     "id" : "50792D0D-75C2-4C9A-BA28-EADA2D378168",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_5x_shootblue.png"
@@ -16514,7 +16494,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T20:32:33.095Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
 
