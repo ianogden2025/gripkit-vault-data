@@ -1226,7 +1226,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:05:38.719Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -1241,7 +1241,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/product/turntable-rig-set-for-modulus-x",
     "id" : "37",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_02821c1e23014615ad3dc65048f8f58f~mv2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_02821c1e23014615ad3dc65048f8f58f~mv2.jpg"
     ],
     "videoURLs" : [
 
@@ -1789,7 +1789,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:52:47.608Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1804,7 +1804,8 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/titan-x/",
     "id" : "52",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-titan-x-set-991x542-1.jpg",
+      "https://www.mrmoco.com/wp-content/uploads/2021/08/Titan-x_Spec.png"
     ],
     "videoURLs" : [
 
@@ -1820,7 +1821,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:53:24.759Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1835,10 +1836,11 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/titan/",
     "id" : "53",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-titan-creative-991x542-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2021/08/Titan_Specification.png"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/Pg0e_MohUgU"
     ]
   },
   {
@@ -1851,7 +1853,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:53:55.216Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1866,7 +1868,9 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/talos/",
     "id" : "54",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2022/04/Talos-Mobile-1-700px.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-talos-head-991x542-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2021/08/Talos_Specification.png"
     ],
     "videoURLs" : [
 
@@ -1882,7 +1886,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:54:26.767Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1897,7 +1901,11 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/modula/",
     "id" : "55",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Main-product-hero-motion-control-modula-cover-700px.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-modula-track-991x542-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-modula-lift-991x542-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/01/Mobile-motion-control-full-modula-991x542-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/04/Modula-Diagram-1.png"
     ],
     "videoURLs" : [
 
@@ -1913,7 +1921,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:54:49.905Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1928,7 +1936,8 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/milo/",
     "id" : "56",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2022/04/Milo-700px-fade.png",
+      "https://www.mrmoco.com/wp-content/uploads/2021/08/Milo_Specification.png"
     ],
     "videoURLs" : [
 
@@ -1944,7 +1953,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:55:12.237Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1959,10 +1968,10 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/super-milo/",
     "id" : "57",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2024/07/Super-Milo-2A-min-scaled.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/z9ezjYBzXWI"
     ]
   },
   {
@@ -1975,7 +1984,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:55:57.827Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -1990,10 +1999,11 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/bolt-jr-plus/",
     "id" : "58",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2024/12/Bolt-Jr-Plus-Mobile-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2021/07/Bolt-Spec-Diagram_onlight-1.png"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/Tslg-MX5P5I"
     ]
   },
   {
@@ -2006,7 +2016,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:56:21.916Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -2021,7 +2031,9 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/bolt/",
     "id" : "59",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2024/12/Bolt-Mobile-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2024/12/Bolt-Mobile.png",
+      "https://www.mrmoco.com/wp-content/uploads/2021/08/Bolt_on_Track_Specifications.png"
     ],
     "videoURLs" : [
 
@@ -2037,7 +2049,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:56:57.986Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Max. Lens Height (Overslung)" : "4.3m",
     "Min. Transport Required" : [
@@ -2054,10 +2066,12 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/bolt-x/",
     "id" : "60",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2024/12/Bolt-X-Mobile.png",
+      "https://www.mrmoco.com/wp-content/uploads/2024/12/Bolt-X-Mobile-1.png",
+      "https://www.mrmoco.com/wp-content/uploads/2022/04/BoltX_on_Track_Spec-2.png"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/jTx0qeEtIt4"
     ]
   },
   {
@@ -2070,7 +2084,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:57:32.626Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -2085,10 +2099,10 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/cinebot-max/",
     "id" : "61",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2024/03/Cinebot-Max-Web-Banner-1-1.png"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/1l-yoL3FJBQ"
     ]
   },
   {
@@ -2512,11 +2526,11 @@
     "Crew Required" : [
       "Dolly Grip (lvl 2)"
     ],
-    "DescriptionText" : "The Lightweight Rickshaw is a portable filming device used in the TV and film industry to transport equipment and crew smoothly across various terrains, enhancing mobility during shoots.",
+    "DescriptionText" : "The Lightweight Rickshaw boasts a 50% weight reduction over the Mantis, making it ideal for fast running and tracking shots. This model also has a built-in adjustable width axle, and is wide set for additional stability when taking corners at speed. The Lightweight is also expertly hand engineered for maximum quality a more premium feel.\n\nHas the option to be upgraded to a package with Balloon Wheels upon request.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:05:17.597Z",
     "Manufacturers" : "Optical Support",
     "Min. Transport Required" : [
 
@@ -2531,7 +2545,7 @@
     "WebsiteURL" : "https://opticalsupport.com/product/lightweight_rickshaw/",
     "id" : "74",
     "photoURLs" : [
-
+      "https://opticalsupport.com/wp-content/uploads/2022/04/Lightweight-Rickshaw-Thumbnail.jpg"
     ],
     "videoURLs" : [
 
@@ -2543,11 +2557,11 @@
     "Crew Required" : [
       "Dolly Grip (lvl 2)"
     ],
-    "DescriptionText" : "The Jackal Rickshaw is a specialized filmmaking vehicle used in the TV and film industry, typically operated by a dolly grip at level 2. It allows for smooth and dynamic camera movement during scenes, enhancing the visual storytelling by providing stability and flexibility in various shooting environments.",
+    "DescriptionText" : "The Jackal Rickshaw is our newest edition to our rental fleet, engineered and designed by us at OSProducts. The Jackal Rickshaw was designed to be completely tooless, modular and still fully functioning, it succeeds in all aspects. Packing down neatly into one case the jackal is very quick and easy to use and get set up. Capable of both slow moving shots using the third wheel but also faster moving shots in two wheel mode.\n\nHas the option to be upgraded to a package with Balloon Wheels upon request.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:05:06.880Z",
     "Manufacturers" : "Optical Support",
     "Min. Transport Required" : [
 
@@ -2562,7 +2576,8 @@
     "WebsiteURL" : "https://opticalsupport.com/product/jackal-rickshaw/",
     "id" : "75",
     "photoURLs" : [
-
+      "https://opticalsupport.com/wp-content/uploads/2022/04/Jackal-Rickshaw-6-scaled.jpg",
+      "https://opticalsupport.com/wp-content/uploads/2022/04/KT3C5626-scaled.jpg"
     ],
     "videoURLs" : [
 
@@ -2574,11 +2589,11 @@
     "Crew Required" : [
       "Dolly Grip (lvl 2)"
     ],
-    "DescriptionText" : "The Mantis Rickshaw is a specialized camera support system used in the TV and film industry to provide smooth and dynamic camera movements. It allows for precise control and maneuverability, making it ideal for capturing action sequences and creative shots.",
+    "DescriptionText" : "The Mantis Rickshaw is our trade mark fully equipped rickshaw, versatile and extremely robust for any terrain and use. Built and wielded by hand, it is customisable and expertly engineered. The Mantis Rickshaw has been an industry standard kit for the past 10 years.\n\nComes with Balloon Wheels and a Garfield 3-way leveller as standard.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:04:56.867Z",
     "Manufacturers" : "Optical Support",
     "Min. Transport Required" : [
 
@@ -2593,7 +2608,7 @@
     "WebsiteURL" : "https://opticalsupport.com/product/mantis-rickshaw/",
     "id" : "76",
     "photoURLs" : [
-
+      "https://opticalsupport.com/wp-content/uploads/2022/03/KT3C5724-scaled.jpg"
     ],
     "videoURLs" : [
 
@@ -3351,7 +3366,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:06:38.906Z",
     "Manufacturers" : "Snorri Bros",
     "Min. Transport Required" : [
 
@@ -3367,7 +3382,7 @@
     "WebsiteURL" : "https://www.snorricam.com/products/sc-sputnik",
     "id" : "105",
     "photoURLs" : [
-
+      "https://lirp.cdn-website.com/8309d694/dms3rep/multi/opt/SC_SPUTNIK-6afbb490-1920w.png"
     ],
     "videoURLs" : [
 
@@ -3383,7 +3398,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:06:47.290Z",
     "Manufacturers" : "Snorri Bros",
     "Min. Transport Required" : [
 
@@ -3399,7 +3414,7 @@
     "WebsiteURL" : "https://www.snorricam.com/products/sc-duo",
     "id" : "106",
     "photoURLs" : [
-
+      "https://lirp.cdn-website.com/8309d694/dms3rep/multi/opt/SC_DUO-9b307410-1920w.png"
     ],
     "videoURLs" : [
 
@@ -3415,7 +3430,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:06:53.927Z",
     "Manufacturers" : "Snorri Bros",
     "Min. Transport Required" : [
 
@@ -3431,7 +3446,7 @@
     "WebsiteURL" : "https://www.snorricam.com/products/sc-pro-premium",
     "id" : "107",
     "photoURLs" : [
-
+      "https://lirp.cdn-website.com/8309d694/dms3rep/multi/opt/Screenshot+2025-03-26+at+12.25.01-1920w.png"
     ],
     "videoURLs" : [
 
@@ -3697,7 +3712,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:07:35.603Z",
     "Manufacturers" : "The Grip Company",
     "Min. Transport Required" : [
       "Car"
@@ -3711,7 +3726,7 @@
     ],
     "id" : "116",
     "photoURLs" : [
-
+      "https://assets.super.so/c8ecefae-57de-4a58-b40a-aa72f5a10170/images/4cc4a3ed-8445-40d8-9c85-92637b20e05f/IMG_3549.jpeg"
     ],
     "videoURLs" : [
 
@@ -5999,7 +6014,7 @@
 
     ],
     "WebsiteURL" : "https://www.sunbeltrentals.co.uk/film-tv-equipment/cranes/specialist-vehicles/the-scarab-xl-2070/",
-    "id" : "199",
+    "id" : "218A7C45-C528-4D1B-888B-E02A40523DF2",
     "photoURLs" : [
       "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129082/4e807e6ef3f74416a3e966056fd29d40.jpg?format=webp&quality=99",
       "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129082/f7bf2927a95a4624bfe0e4ad7d748b27.jpg?format=webp&quality=99"
@@ -6031,7 +6046,7 @@
 
     ],
     "WebsiteURL" : "https://www.sunbeltrentals.co.uk/film-tv-equipment/cranes/specialist-vehicles/the-scarab-2071/",
-    "id" : "200",
+    "id" : "A2B199C3-6DDC-4E38-86B8-F12A51234EBA",
     "photoURLs" : [
       "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/129081/b7728fcc9b35420e9e6d70b55bf54671.jpg?format=webp&quality=99"
     ],
@@ -7088,7 +7103,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7097,7 +7112,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.326Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7119,7 +7134,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7128,7 +7143,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7150,7 +7165,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7159,7 +7174,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7181,7 +7196,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7190,7 +7205,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7212,7 +7227,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7221,7 +7236,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7243,7 +7258,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7252,7 +7267,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7274,7 +7289,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7283,7 +7298,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7305,7 +7320,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7314,7 +7329,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7336,7 +7351,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7345,7 +7360,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7367,7 +7382,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7376,7 +7391,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7398,7 +7413,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7407,7 +7422,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7429,7 +7444,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7438,7 +7453,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7460,7 +7475,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7469,7 +7484,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7491,7 +7506,7 @@
     ]
   },
   {
-    "Category" : "Stands Arms & Heads",
+    "Category" : "Lighting Stands & Equipment",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Rigger"
@@ -7500,7 +7515,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:09:02.268Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -9771,7 +9786,7 @@
     ],
     "WebsiteURL" : "https://www.arrirental.com/en/grip/cranes-and-jibs/hexatron",
     "Width" : "2.15m (3.35m with stabilisers)",
-    "id" : "314",
+    "id" : "E45A49B7-6782-42F2-B847-D3D942A06C4E",
     "photoURLs" : [
       "https://britishcinematographer.co.uk/wp-content/uploads/2016/11/Unknown-1.jpg"
     ],
@@ -9861,7 +9876,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:02:44.205Z",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
@@ -9876,7 +9891,8 @@
     "WebsiteURL" : "https://www.cwplant.co.uk/product/17-metre-telehandler/",
     "id" : "317",
     "photoURLs" : [
-
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/jcb-540-170-copy.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_Telehandlers_JCB_540-170_3.jpg"
     ],
     "videoURLs" : [
 
@@ -9892,7 +9908,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:03:00.264Z",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
@@ -9907,7 +9923,8 @@
     "WebsiteURL" : "https://www.cwplant.co.uk/product/20-metre-telehandler/",
     "id" : "318",
     "photoURLs" : [
-
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_Telehandlers_JCB_540-200_1.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_Telehandlers_JCB_540-200_3.jpg"
     ],
     "videoURLs" : [
 
@@ -9923,7 +9940,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:03:10.862Z",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
@@ -9938,7 +9955,7 @@
     "WebsiteURL" : "https://www.cwplant.co.uk/product/26-metre-telehandler/",
     "id" : "319",
     "photoURLs" : [
-
+      "https://www.cwplant.co.uk/wp-content/uploads/2022/12/JCB-555-260R-Hero-1.webp"
     ],
     "videoURLs" : [
 
@@ -9954,7 +9971,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:03:27.262Z",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
@@ -9969,7 +9986,8 @@
     "WebsiteURL" : "https://www.cwplant.co.uk/product/21-metre-360-telehandler/",
     "id" : "320",
     "photoURLs" : [
-
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JCB-555-210R.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_360_Telehandlers_JCB_555-210R_3.jpg"
     ],
     "videoURLs" : [
 
@@ -10004,7 +10022,7 @@
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/mtb-panaconda-4x4",
     "Width" : "2.29m",
-    "id" : "321",
+    "id" : "6F49BB05-2C25-4428-91A8-13DCB64B8F06",
     "photoURLs" : [
       "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/mtb_panaconda-4x4/gr_remote-systems_mobile-base_panavision_panaconda_4x4_01-png.png?sfvrsn=d8eb9845_0"
     ],
@@ -10041,7 +10059,7 @@
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/puv-panagator-4x4",
     "Width" : "1.75m",
-    "id" : "322",
+    "id" : "A967B1E1-866B-45EF-BE21-618211B3AA5B",
     "photoURLs" : [
       "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/puv_panagator-4x4/gr_remote-systems_mobile-base_panavision_panagator_4x4_01-png.png?sfvrsn=bfc5b54c_0",
       "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/puv_panagator-4x4/gr_remote-systems_mobile-base_panavision_panagator_4x4_04-png.png?sfvrsn=e092e8bb_0"
@@ -10078,7 +10096,7 @@
     ],
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/vtb-panaviper",
     "Width" : "1.98m",
-    "id" : "323",
+    "id" : "43C9B958-43B5-4C23-B021-ED4D783984C1",
     "photoURLs" : [
       "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/vtb_panaviper/gr_remote-systems_mobile-base_panavision_panaviper_02.png?sfvrsn=42410d98_3",
       "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/vtb_panaviper/gr_remote-systems_mobile-base_panavision_panaviper_01.png?sfvrsn=6f0dcb7a_3"
@@ -10321,7 +10339,7 @@
     "Fulcrum to Rear" : "7ft 5in",
     "Fulcrum to Short End" : "6ft 5in",
     "Height" : "6ft 7in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:58:54.524Z",
     "Manufacturers" : "Supertechno",
     "Max. Lens Height (Overslung)" : "24ft",
     "Max. Track Length" : "59ft",
@@ -10344,7 +10362,12 @@
     "Width" : "2ft 7in",
     "id" : "331",
     "photoURLs" : [
-
+      "https://www.supertechno.com/upload/2039-1302116027_v.jpg",
+      "https://www.supertechno.com/upload/2125-1209533917_s.png",
+      "https://www.supertechno.com/upload/2127-1209569162_s.png",
+      "https://www.supertechno.com/upload/2126-1209551272_s.png",
+      "https://www.supertechno.com/upload/1406-1303458494_s.jpg",
+      "https://www.supertechno.com/upload/1726-0907343108_s.png"
     ],
     "videoURLs" : [
 
@@ -10365,7 +10388,7 @@
     "Fulcrum to Rear" : "5ft 9in",
     "Fulcrum to Short End" : "3ft 1in",
     "Height" : "6ft 8in with Track | 6ft 2in without Track",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:00:10.090Z",
     "Length" : "19ft 5in",
     "Manufacturers" : "Supertechno",
     "Max. Lens Height (Overslung)" : "15ft",
@@ -10389,10 +10412,13 @@
     "Width" : "2ft 7in",
     "id" : "332",
     "photoURLs" : [
-
+      "https://www.supertechno.com/upload/1568-1510532501_v.jpg",
+      "https://www.supertechno.com/upload/1970-1302257437_s.jpg",
+      "https://www.supertechno.com/upload/1969-1302242853_s.jpg",
+      "https://www.supertechno.com/upload/1971-1302258776_s.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/hKfCuA2l8c8"
     ]
   },
   {
@@ -11553,7 +11579,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:00:32.199Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11568,7 +11594,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-mini-shock-absorber",
     "id" : "366",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/3e3f04_3cb6453817604af49ecc74ad50e8b5f9~mv2.png/v1/crop/x_195,y_133,w_2805,h_2242/fill/w_1374,h_1098,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-minishockabsorber.png"
     ],
     "videoURLs" : [
 
@@ -11584,7 +11610,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:00:42.448Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11599,7 +11625,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-iso-dampener",
     "id" : "367",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/0b5294_829a4ae987624b00906b930d736cd58e~mv2.png/v1/crop/x_0,y_31,w_1536,h_924/fill/w_1338,h_806,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Iso-Dampener.png"
     ],
     "videoURLs" : [
 
@@ -11615,7 +11641,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:00:53.123Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11630,7 +11656,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-vibration-isolator",
     "id" : "368",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/0b5294_e808a4eb9d2f415996760ebb57261038~mv2_d_1462_1462_s_2.png/v1/crop/x_0,y_245,w_1462,h_1083/fill/w_1152,h_854,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/vibrationisolator_teaser.png"
     ],
     "videoURLs" : [
 
@@ -11646,7 +11672,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:01:02.961Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
 
@@ -11661,7 +11687,7 @@
     "WebsiteURL" : "https://www.gripfactory.com/gf-maxi-shock-absorber",
     "id" : "369",
     "photoURLs" : [
-
+      "https://static.wixstatic.com/media/0b5294_788c02e477444f0da77673b725cd2d37~mv2.png/v1/fill/w_1516,h_754,al_c,q_90,enc_avif,quality_auto/maxishock-teaser.png"
     ],
     "videoURLs" : [
 
@@ -15407,7 +15433,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T16:58:00.787Z",
     "Manufacturers" : "Mark Roberts Motion Control",
     "Min. Transport Required" : [
 
@@ -15422,10 +15448,10 @@
     "WebsiteURL" : "https://www.mrmoco.com/motion-control/cinebot-mini/",
     "id" : "482",
     "photoURLs" : [
-
+      "https://www.mrmoco.com/wp-content/uploads/2023/08/Cinebot-Mini-Content-Block-Mobile-2.png"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/SrwmWQR1YUU"
     ]
   },
   {
@@ -15714,11 +15740,12 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:01:47.824Z",
+    "Manufacturers" : "Tilta",
     "Min. Transport Required" : [
       "Car"
     ],
-    "Name" : "Tilta Shock Absorbing Arm",
+    "Name" : "Shock Absorbing Arm",
     "Other Requirements" : [
 
     ],
@@ -15728,7 +15755,8 @@
     "WebsiteURL" : "https://tilta.uk/shop/hydra-motorized-slider-pro-kit-2/",
     "id" : "492",
     "photoURLs" : [
-
+      "https://d256l6tqjpmdbq.cloudfront.net/wp-content/uploads/2024/06/24074917/HDA-T04-A-1440x810.jpg",
+      "https://d256l6tqjpmdbq.cloudfront.net/wp-content/uploads/2024/06/24074921/HDA-T04-A-4-1440x810.jpg"
     ],
     "videoURLs" : [
 
@@ -15744,7 +15772,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:01:42.501Z",
+    "Manufacturers" : "Tilta",
     "Min. Transport Required" : [
       "Car"
     ],
@@ -15758,7 +15787,7 @@
     "WebsiteURL" : "https://tilta.uk/shop/hydra-alien-pro-car-mounting-system/",
     "id" : "493",
     "photoURLs" : [
-
+      "https://d256l6tqjpmdbq.cloudfront.net/wp-content/uploads/2024/10/30033438/HDA-T18-B-V-1-1440x810-1-1.png"
     ],
     "videoURLs" : [
 
@@ -15774,7 +15803,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-27T17:02:15.484Z",
+    "Manufacturers" : "Various",
     "Min. Transport Required" : [
 
     ],
@@ -15785,9 +15815,9 @@
     "Steering Mode" : [
 
     ],
-    "id" : "494",
+    "id" : "0FD7CD1F-4B41-4017-AA91-59E84961BF21",
     "photoURLs" : [
-
+      "https://cdn.cvp.com/images/products/altimage/17-01-20241705484432main.jpg"
     ],
     "videoURLs" : [
 
@@ -16336,35 +16366,6 @@
 
     ],
     "id" : "512",
-    "photoURLs" : [
-
-    ],
-    "videoURLs" : [
-
-    ]
-  },
-  {
-    "Category" : "Plant & Machinery",
-    "Created Date" : "April 16, 2025 7:24 PM",
-    "Crew Required" : [
-
-    ],
-    "DescriptionText" : "A scissor lift is a type of aerial work platform used in the TV and film industry to elevate crew and equipment for high-angle shots, lighting setups, and set construction. Its compact design allows for maneuverability in tight spaces, making it ideal for both indoor and outdoor shoots.",
-    "Features" : [
-
-    ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Min. Transport Required" : [
-
-    ],
-    "Name" : "Scissor Lift",
-    "Other Requirements" : [
-
-    ],
-    "Steering Mode" : [
-
-    ],
-    "id" : "513",
     "photoURLs" : [
 
     ],
