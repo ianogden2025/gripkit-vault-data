@@ -5998,7 +5998,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
@@ -6007,7 +6007,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "Porta Jib",
     "Min. Transport Required" : [
       "Car"
@@ -6829,7 +6829,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
@@ -6838,7 +6838,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "J.L. Fisher",
     "Min. Transport Required" : [
       "Car"
@@ -6983,7 +6983,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "December 29, 2024 2:08 PM",
     "Crew Required" : [
 
@@ -6992,7 +6992,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "J.L. Fisher",
     "Min. Transport Required" : [
       "Van"
@@ -7878,7 +7878,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Grip"
@@ -7887,7 +7887,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "ProAim",
     "Min. Transport Required" : [
       "Car"
@@ -13607,7 +13607,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:29:49.299Z",
     "Manufacturers" : "Servicevision",
     "Min. Transport Required" : [
       "Articulated Truck"
@@ -13618,6 +13618,7 @@
       "Stabilised Remote Head"
     ],
     "Pan Range" : "360°",
+    "Speed" : " ",
     "Steering Mode" : [
 
     ],
@@ -16681,7 +16682,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "2025-09-24T16:06:25.868Z",
     "Crew Required" : [
 
@@ -16690,7 +16691,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
@@ -17964,7 +17965,7 @@
     ]
   },
   {
-    "Category" : "Dollies",
+    "Category" : "Dolly Accessories",
     "Created Date" : "2025-09-28T06:43:58.289Z",
     "Crew Required" : [
       "Grip"
@@ -17973,7 +17974,7 @@
     "Features" : [
       "Compatible with straight and curved track"
     ],
-    "Last edited time" : "2025-09-28T06:46:54.144Z",
+    "Last edited time" : "2025-09-28T09:31:13.055Z",
     "Manufacturers" : "ProAim",
     "Min. Transport Required" : [
 
@@ -18270,6 +18271,36 @@
     "id" : "08BDADA8-CFE0-47F3-9647-66521D5868CA",
     "photoURLs" : [
       "https://taw.eu.com/cdn/shop/files/fc90_2048x2048.jpg?v=1732881296"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dolly Accessories",
+    "Created Date" : "2025-09-28T09:34:45.395Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "Features" : [
+      "Allows Fisher Dolly to go on Ice"
+    ],
+    "Last edited time" : "2025-09-28T09:35:32.234Z",
+    "Manufacturers" : "J.L. Fisher",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Fisher Ice Skates",
+    "Other Requirements" : [
+      "Fisher Dolly"
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "",
+    "id" : "F7437E30-8037-4284-9754-EBAA299EEAA2",
+    "photoURLs" : [
+      "https://thatcat.com/wp-content/uploads/2021/10/Fisher-10-Ice-Skates.jpg"
     ],
     "videoURLs" : [
 
