@@ -44,5 +44,19 @@
       "20"
     ],
     "id" : "8BCF167D-89F9-4493-AD56-ED2CAD8AE346"
+  },
+  {
+    "Address" : "Test",
+    "ContactEmail" : "Test",
+    "LogoURL" : "https://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg",
+    "Name" : "Test",
+    "PhoneNumber" : "Test",
+    "WebsiteURL" : "https://en.wikipedia.org/wiki/Test_Card_F",
+    "availableItemIDs" : [
+      "43",
+      "44",
+      "45"
+    ],
+    "id" : "18288D9C-D9D8-47DE-AFCD-8BA2C8E23B6A"
   }
 ]
