@@ -2620,11 +2620,11 @@
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The Lumi-Pod 100 is a remote head designed for the TV and film industry, allowing for smooth and precise camera movements. It can support a maximum weight of 100kg and a payload of 65kg, making it ideal for mounting cameras and achieving dynamic shots in various filming environments.",
+    "DescriptionText" : "The LUMI-POD 100 is a dedicated Remote Head for large heavy Stage lights up to 65 kg that need to be panned and tilted in real time to follow live action.\n\nThe LUMI-POD 100 uses the heavy-duty gearboxes of the POWERPOD 600 that can carry up to 100 kg with ease.\n\nIts tubular chassis with adjusting clamps make changing for different lamp size and balance simple.\n\nThe introduction of Volume Screen Technology highlighted the need to be able to Pan and Tilt large lights that can follow on set movement. These lights were not designed with remote heads in mind but usually to be mounted on a yoke assembly that would be mounted on a lighting stand or static lighting truss. Unlike fitting a camera to a remote head, large lights are often best mounted by clamping to both the top and the bottom of the lamp chassis. This is made easy by the many clamping options that the LUMI-POD 100 offers. Its easily adjusted for size chassis, gives a safe and reliable system that is both practical and versatile.\n\nThe LUMI-POD 100 travels on its own transport dolly with the lamp already fitted if needed.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:05:30.890Z",
     "Manufacturers" : "PowerPod",
     "Max. Weight" : "100kg",
     "Min. Transport Required" : [
@@ -2641,10 +2641,10 @@
     "WebsiteURL" : "https://powerpod.co.uk/products/lumi-pod-100/",
     "id" : "77",
     "photoURLs" : [
-
+      "https://assets.super.so/c8ecefae-57de-4a58-b40a-aa72f5a10170/images/c72d4949-5e8a-4d88-ab1f-66256b184143/IMG_2741.jpeg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/NWqqXuDHC8A"
     ]
   },
   {
@@ -13130,7 +13130,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:06:46.365Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
 
@@ -13145,7 +13145,7 @@
     "WebsiteURL" : "https://www.kfxtechnology.com/aurora-4-2-2-2-2/",
     "id" : "416",
     "photoURLs" : [
-
+      "https://www.kfxtechnology.com/wp-content/uploads/2020/06/Auora-Max-546x650px.jpg"
     ],
     "videoURLs" : [
 
@@ -13161,7 +13161,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:07:05.475Z",
     "Manufacturers" : "KFX Technology",
     "Min. Transport Required" : [
 
@@ -13173,9 +13173,10 @@
     "Steering Mode" : [
 
     ],
+    "WebsiteURL" : "https://www.kfxtechnology.com/kfx-aurora-mini/",
     "id" : "417",
     "photoURLs" : [
-
+      "https://www.kfxtechnology.com/wp-content/uploads/2020/06/Auora-Mini-300x447px.jpg"
     ],
     "videoURLs" : [
 
@@ -13279,7 +13280,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:07:48.248Z",
     "Manufacturers" : "Servicevision",
     "Min. Transport Required" : [
 
@@ -13294,7 +13295,7 @@
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/scorpio-heads-en-2/scorpio-heads-grips-en/mini-scorpio-head-hd/",
     "id" : "420",
     "photoURLs" : [
-
+      "https://scorpio.servicevision.es/wp-content/uploads/2019/05/scorpio-head-hd.png"
     ],
     "videoURLs" : [
 
@@ -13807,93 +13808,122 @@
     ]
   },
   {
+    "Axis" : "3",
     "Category" : "Remote Heads",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Head Tech"
     ],
-    "DescriptionText" : "The Mo-Sys G30 is a remote head designed for high-precision camera control in the TV and film industry, allowing operators to achieve smooth and accurate movements for dynamic shots.",
+    "DescriptionText" : "The next generation in gyro-stabilized remote heads, the heavy-duty G30 delivers precision in movement as well as superior image stabilization.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "643 mm ",
+    "Last edited time" : "2025-09-28T07:10:57.876Z",
+    "Length" : "484 mm ",
     "Manufacturers" : "Mo-Sys",
+    "Max. Weight" : "57kg",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "27kg",
     "Name" : "Mo-Sys G30",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "± 360º",
+    "Payload" : "30kg",
+    "Roll Range" : "± 45º",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "± 360º",
     "WebsiteURL" : "https://www.mo-sys.com/products/mo-sys-g30/",
+    "Width" : "468 mm ",
     "id" : "433",
     "photoURLs" : [
-
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/G30-side-on-with-isolator.png",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/G30-Dimention-Diagram-V1.2-for-web-product-page-v2.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/HyWLxtCWyMU?list=TLGGBXFK4M7oRhAyODA5MjAyNQ"
     ]
   },
   {
     "Category" : "Remote Heads",
+    "Controls" : "Hand-wheels, pan-bar, joystick, micro joystick ",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The Mo-Sys L40 is a remote head system used in the TV and film industry to enable precise and remote control of camera movements. It allows operators to achieve smooth, dynamic shots from a distance, enhancing production capabilities in various filming environments.",
+    "DescriptionText" : "Our precise, robust and lightweight 2-axis head for high-end digital cinematography is ideal for medium-sized camera packages, for example, ARRI Alexa with a large zoom lens.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:13:01.620Z",
     "Manufacturers" : "Mo-Sys",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "18kg",
     "Name" : "Mo-Sys L40",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "±720º",
+    "Payload" : "40kg",
+    "Speed" : "180°/sec ",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "±720º",
     "WebsiteURL" : "https://www.mo-sys.com/products/mo-sys-l40/",
+    "Wireless Distance" : "300 m ",
     "id" : "434",
     "photoURLs" : [
-
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/product-slider-big-img-1.jpg",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/Mo-Sys9.jpg"
     ],
     "videoURLs" : [
-
+      "https://youtu.be/XINm2TpBRC4?list=TLGGKtV1rRnFB7kyODA5MjAyNQ"
     ]
   },
   {
     "Category" : "Remote Heads",
+    "Controls" : "Hand-wheels, pan-bar, joystick, micro joystick ",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "Mo-Sys Lambda 2.0 is a remote head system used in the TV and film industry for precise camera movement and control, enabling seamless tracking and operation in complex shots and live broadcasts.",
+    "DescriptionText" : "Renowned for its strength, precision and versatility, the original Mo-Sys Lambda has been a leading force in Hollywood over the last ten years. With an imposing track record and long list of high-profile feature films, the next generation Lambda 2.0 has big shoes to fill.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:15:03.879Z",
     "Manufacturers" : "Mo-Sys",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "28kg",
     "Name" : "Mo-Sys Lambda 2.0",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "±720º",
+    "Payload" : "50kg",
+    "Speed" : "180°/sec ",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "±720º",
     "WebsiteURL" : "https://www.mo-sys.com/products/mo-sys-lambda-20/",
+    "Wireless Distance" : "300m",
     "id" : "435",
     "photoURLs" : [
-
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/Mo-Sys-Lambda-2.0.jpg",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/Mo-Sys-Lambda-2.0-3.jpg",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/Mo-Sys-Lambda-2.0-4.jpg",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/Mo-Sys-Lambda-2.0-5-1.jpg"
     ],
     "videoURLs" : [
 
@@ -13901,30 +13931,39 @@
   },
   {
     "Category" : "Remote Heads",
+    "Controls" : "Pan bar, Hand wheels, TV console ",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The Mo-Sys L20 is a remote head used in the TV and film industry for precise camera movement and control. It allows operators to remotely position and operate cameras, enhancing creative flexibility and precision in dynamic shooting environments.",
+    "DescriptionText" : "Delivers high-precision remote camera operation in a compact, quiet design.\n\n",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:17:06.142Z",
     "Manufacturers" : "Mo-Sys",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "8kg",
     "Name" : "Mo-Sys L20",
     "Other Requirements" : [
 
     ],
+    "Pan Range" : "+- 720° ",
+    "Payload" : "20kg",
+    "Speed" : "360°/sec ",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "+- 720° ",
     "WebsiteURL" : "https://www.mo-sys.com/products/mo-sys-l20/",
+    "Wireless Distance" : "300 meters ",
     "id" : "436",
     "photoURLs" : [
-
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/DSCF2800_ocen5VR.png",
+      "https://www.mo-sys.com/uploads/images/uploads/product/postcards/DSCF2772_Lpmb0J7.png",
+      "https://www.mo-sys.com/uploads/images/uploads/ckeditor/2025/02/L20%203H_InnbiiK.png"
     ],
     "videoURLs" : [
 
@@ -15154,7 +15193,7 @@
 
     ],
     "Height" : "35in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-09-28T07:17:27.169Z",
     "Length" : "8 1/4in",
     "Manufacturers" : "Dynamic Mounts International",
     "Min. Transport Required" : [
@@ -15175,7 +15214,7 @@
     "Width" : "33 1/2in",
     "id" : "475",
     "photoURLs" : [
-
+      "https://www.mega3.tv/images/Mega-435a.jpg"
     ],
     "videoURLs" : [
 
