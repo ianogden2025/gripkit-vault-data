@@ -1,8 +1,6 @@
 [
   {
-    "AccentColor" : "D2232A",
     "Name" : "Panavision",
-    "TextColor" : "000000",
     "availableItemIDs" : [
       "118",
       "119",
@@ -33,7 +31,9 @@
     "id" : "54A3476A-2ACD-4CCC-BC6A-E7288518AF3F"
   },
   {
+    "AccentColor" : "ffffff",
     "Name" : "Arri Rental",
+    "TextColor" : "255FA8",
     "availableItemIDs" : [
 
     ],
