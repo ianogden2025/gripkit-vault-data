@@ -70,11 +70,36 @@
     "id" : "5C80DD60-85F0-4916-B4D8-683E600F0D84"
   },
   {
-    "AccentColor" : "ffffff",
+    "AccentColor" : "262626",
+    "ContactEmail" : "info@thegripcompany.co.uk",
+    "LogoURL" : "https://thegripcompany.co.uk/wp-content/uploads/2022/08/TGC-Logo.png",
     "Name" : "The Grip Company",
+    "Notes" : "For Grips by Grips",
+    "PhoneNumber" : "01753 865566",
+    "TextColor" : "ffffff",
+    "WebsiteURL" : "https://thegripcompany.co.uk",
     "availableItemIDs" : [
+      "118",
+      "119",
+      "121",
+      "122",
       "19",
-      "20"
+      "20",
+      "214",
+      "224",
+      "227",
+      "312",
+      "335",
+      "337",
+      "356",
+      "357",
+      "361",
+      "364",
+      "378",
+      "379",
+      "380",
+      "384",
+      "385"
     ],
     "id" : "8BCF167D-89F9-4493-AD56-ED2CAD8AE346"
   },
