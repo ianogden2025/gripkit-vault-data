@@ -1,6 +1,7 @@
 [
   {
     "Name" : "Panavision",
+    "TextColor" : "000000",
     "availableItemIDs" : [
       "118",
       "119",
