@@ -89,5 +89,15 @@
       "45"
     ],
     "id" : "18288D9C-D9D8-47DE-AFCD-8BA2C8E23B6A"
+  },
+  {
+    "AccentColor" : "000000",
+    "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2lFUPOOp5GGJylfUvkux3AwOzGSS730y2IfIPE4ZcPpFsadmFslhF8j7P563EGr1bg&usqp=CAU",
+    "Name" : "Camera Revolution",
+    "TextColor" : "ffffff",
+    "availableItemIDs" : [
+
+    ],
+    "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB"
   }
 ]
