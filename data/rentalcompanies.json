@@ -113,5 +113,18 @@
       "612F1224-9134-4EE1-B34A-8AB5925DFFEC"
     ],
     "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB"
+  },
+  {
+    "AccentColor" : "7AF5F1",
+    "Address" : "Unit 26-29 & 47  Brockley Cross Business Centre 96 Endwell Road London UK SE4 2PD",
+    "ContactEmail" : "info@emmyland.com",
+    "LogoURL" : "https://static1.squarespace.com/static/5655f194e4b02fbb0a2820ea/t/5e6fe728c40c83654518f5f7/1584391981969/EMMYLAND_LOGO+streighten.png",
+    "Name" : "Emmyland",
+    "PhoneNumber" : "+44 (0) 020 3667 2613",
+    "TextColor" : "000000",
+    "availableItemIDs" : [
+
+    ],
+    "id" : "7A3ECC23-C0B1-4EE9-A5BF-542BE731AAB2"
   }
 ]
