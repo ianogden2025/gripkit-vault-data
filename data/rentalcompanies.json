@@ -19,6 +19,7 @@
     "id" : "387C33CF-FDC8-4BBB-95DE-BC1CD2B77B66"
   },
   {
+    "AccentColor" : "ffffff",
     "LogoURL" : "https://media.licdn.com/dms/image/v2/C560BAQE67MUs_JOVDw/company-logo_200_200/company-logo_200_200/0/1630585369129/optical_support_ltd_logo?e=2147483647&v=beta&t=_eUH3GACeu_qLRrcRh0kdfMqSKBITGc4PdRGtnOSdC4",
     "Name" : "Optical Support",
     "availableItemIDs" : [
@@ -69,6 +70,7 @@
     "id" : "5C80DD60-85F0-4916-B4D8-683E600F0D84"
   },
   {
+    "AccentColor" : "ffffff",
     "Name" : "The Grip Company",
     "availableItemIDs" : [
       "19",
@@ -77,6 +79,7 @@
     "id" : "8BCF167D-89F9-4493-AD56-ED2CAD8AE346"
   },
   {
+    "AccentColor" : "ffffff",
     "Address" : "Test",
     "ContactEmail" : "Test",
     "LogoURL" : "https://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg",
