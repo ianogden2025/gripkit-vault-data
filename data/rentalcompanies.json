@@ -95,14 +95,23 @@
     "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2lFUPOOp5GGJylfUvkux3AwOzGSS730y2IfIPE4ZcPpFsadmFslhF8j7P563EGr1bg&usqp=CAU",
     "Name" : "Camera Revolution",
     "TextColor" : "ffffff",
+    "WebsiteURL" : "https://www.camerarevolution.com",
     "availableItemIDs" : [
       "251",
       "252",
       "253",
       "312",
       "313",
+      "331",
+      "422",
+      "423",
+      "424",
+      "431",
+      "453",
+      "474",
       "4902B275-1341-4DE3-95EC-A123E93AB216",
-      "514"
+      "514",
+      "612F1224-9134-4EE1-B34A-8AB5925DFFEC"
     ],
     "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB"
   }
