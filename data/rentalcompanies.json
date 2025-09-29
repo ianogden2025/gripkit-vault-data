@@ -14,7 +14,16 @@
       "123",
       "124",
       "224",
-      "227"
+      "225",
+      "227",
+      "228",
+      "335",
+      "336",
+      "337",
+      "364",
+      "384",
+      "505",
+      "771F31A3-F5DA-42DC-B955-BD599D8FC807"
     ],
     "id" : "387C33CF-FDC8-4BBB-95DE-BC1CD2B77B66"
   },
@@ -48,6 +57,7 @@
       "380",
       "381",
       "382",
+      "384",
       "424",
       "426",
       "427",
@@ -65,7 +75,13 @@
     "Name" : "Arri Rental",
     "TextColor" : "255FA8",
     "availableItemIDs" : [
-
+      "219",
+      "335",
+      "384",
+      "426",
+      "505",
+      "98FD1D40-ABBD-47D7-B8C7-7D23E6F4618F",
+      "E45A49B7-6782-42F2-B847-D3D942A06C4E"
     ],
     "id" : "5C80DD60-85F0-4916-B4D8-683E600F0D84"
   },
@@ -133,10 +149,11 @@
     "ContactEmail" : "info@emmyland.com",
     "LogoURL" : "https://static1.squarespace.com/static/5655f194e4b02fbb0a2820ea/t/5e6fe728c40c83654518f5f7/1584391981969/EMMYLAND_LOGO+streighten.png",
     "Name" : "Emmyland",
+    "Notes" : "Boutique rental company.",
     "PhoneNumber" : "+44 (0) 020 3667 2613",
     "TextColor" : "000000",
     "availableItemIDs" : [
-
+      "119"
     ],
     "id" : "7A3ECC23-C0B1-4EE9-A5BF-542BE731AAB2"
   }
