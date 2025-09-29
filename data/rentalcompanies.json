@@ -96,7 +96,13 @@
     "Name" : "Camera Revolution",
     "TextColor" : "ffffff",
     "availableItemIDs" : [
-
+      "251",
+      "252",
+      "253",
+      "312",
+      "313",
+      "4902B275-1341-4DE3-95EC-A123E93AB216",
+      "514"
     ],
     "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB"
   }
