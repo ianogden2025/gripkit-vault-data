@@ -1,6 +1,11 @@
 [
   {
+    "AccentColor" : "D2232A",
+    "ContactEmail" : "info@panavision.co.uk",
+    "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Kfyu7bl2xENZPU6VshW18XAfebnAZvv6dg&s",
     "Name" : "Panavision",
+    "TextColor" : "000000",
+    "WebsiteURL" : "www.panavision.co.uk",
     "availableItemIDs" : [
       "118",
       "119",
