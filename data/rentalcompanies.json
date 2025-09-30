@@ -402,5 +402,52 @@
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
     "id" : "9E101371-2773-409C-853A-AFFB65E04993"
+  },
+  {
+    "Address" : "11 Fairley Street Glasgow, Scotland G51 2SN",
+    "ContactEmail" : "info@progressivebroadcast.com",
+    "LogoURL" : "https://progressivebroadcast.com/wp-content/uploads/2020/06/Screenshot-2020-06-11-at-16.01.15.png",
+    "Name" : "Progressive Broadcast",
+    "PhoneNumber" : "01414202053",
+    "WebsiteURL" : "https://progressivebroadcast.com",
+    "availableItemIDs" : [
+      "119",
+      "190",
+      "476",
+      "50792D0D-75C2-4C9A-BA28-EADA2D378168"
+    ],
+    "id" : "FA1B5E32-52E9-47F4-B386-588E4162EBB7"
+  },
+  {
+    "AccentColor" : "176F91",
+    "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4oMmMWww0NYobSN1qdAe47uYCLgBGP4-y1A&s",
+    "Name" : "Shoot Blue",
+    "TextColor" : "ffffff",
+    "availableItemIDs" : [
+      "114",
+      "121",
+      "156",
+      "157",
+      "158",
+      "161",
+      "162",
+      "167",
+      "222",
+      "312",
+      "389",
+      "395",
+      "396",
+      "397",
+      "398",
+      "442",
+      "448",
+      "486",
+      "50792D0D-75C2-4C9A-BA28-EADA2D378168",
+      "73",
+      "B780428A-B012-43BC-A798-27623FFDD9CD",
+      "CD583899-DD39-4856-B102-0324767D6B43",
+      "F3562AAC-BBB1-4210-9F36-5BF617352DCC"
+    ],
+    "id" : "1D6CF115-599D-4B06-AAAC-7C615B83498D"
   }
 ]
