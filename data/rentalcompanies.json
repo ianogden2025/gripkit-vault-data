@@ -72,9 +72,14 @@
   },
   {
     "AccentColor" : "ffffff",
+    "LogoURL" : "https://images.productionhub.com/classifieds/logos/48971_y5mzmwmdaw.png",
     "Name" : "Arri Rental",
     "TextColor" : "255FA8",
+    "WebsiteURL" : "https://www.arrirental.com/en/grip",
     "availableItemIDs" : [
+      "119",
+      "121",
+      "124",
       "219",
       "335",
       "384",
