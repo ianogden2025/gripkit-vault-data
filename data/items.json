@@ -18547,5 +18547,111 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-09-30T19:35:25.564Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The P+S Skater Skater Mini is a great miniature compact and lightweight camera dolly, designed to work with smaller cameras such as the RED dragon and ARRI Alexa.\n\nThis dolly allows for an incredibly low-level shooting perspective with precise tracking, in any direction.",
+    "Features" : [
+      "Built and ready to use out of the box",
+      "Heavy duty designed for smaller cameras",
+      "Precise straight or curved tracking shots",
+      "Very quick set up",
+      "Useable on any flat surface and in any location with a mounted board"
+    ],
+    "Height" : "55 mm ",
+    "Last edited time" : "2025-09-30T19:37:38.354Z",
+    "Length" : "290 mm ",
+    "Manufacturers" : "P+S",
+    "Max. Weight" : "33kg",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "3kg ",
+    "Name" : "P+S Technik Skater Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "30kg ",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.pstechnik.de/tpl/download/Brochure_Skater_products_0903_web.pdf",
+    "Width" : "230 mm ",
+    "id" : "F3562AAC-BBB1-4210-9F36-5BF617352DCC",
+    "photoURLs" : [
+      "https://www.sunbeltrentals.co.uk/remote.axd?https://SunbeltRentalsUK-Media.azureedge.net/media/ProductMedia/132125/ddd4373c482c4c818a5a43fb5fe20b78.jpg?format=webp&quality=99"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-09-30T19:38:18.629Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Creeper Butt-Dolly was invented by I.A.T.S.E local 80 key grip, Carlos Boiles for low-angle handheld camera work.\nIt is height adjustable, using a simple system of various length riser rods which are variably adjustable in seconds.\nIt's effortless, ultra-smooth,\nsilent operation is the result of years of research and development during his time spent as a dolly grip on major television shows.\n​\nEach Creeper is built by hand in Los Angeles, California. There are currently hundreds of units in use around the globe.",
+    "Features" : [
+      "Height adjustable"
+    ],
+    "Last edited time" : "2025-09-30T19:41:17.458Z",
+    "Manufacturers" : "Carlos Boiles",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Creeper Butt Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://creeperbuttdolly.com",
+    "id" : "CD76DCB7-9886-42B8-B516-FA9308C1232F",
+    "photoURLs" : [
+      "https://img1.wsimg.com/isteam/ip/7043419d-d131-4332-afa2-ece2bcfb4c25/113d3a916a215951d8f7f7fff8d452c2.JPG/:/rs=w:1968",
+      "https://img1.wsimg.com/isteam/ip/7043419d-d131-4332-afa2-ece2bcfb4c25/1ce9649c1228f41e4b6a8255e872f25b.jpg/:/rs=w:1968",
+      "https://img1.wsimg.com/isteam/ip/7043419d-d131-4332-afa2-ece2bcfb4c25/e9c1e15830f81868cc9540ede294146c/:/rs=w:1968",
+      "https://img1.wsimg.com/isteam/ip/7043419d-d131-4332-afa2-ece2bcfb4c25/c061b4f775a61d3f566ed173ca46ef6e.jpg/:/rs=w:1968"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-30T19:43:22.245Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "A low hat is a camera support used in the TV and film industry to provide stability for cameras at low angles. It consists of a flat platform with adjustable legs, allowing for precise positioning and movement during shooting.",
+    "Features" : [
+
+    ],
+    "Height" : "2in",
+    "Last edited time" : "2025-09-30T19:43:55.828Z",
+    "Manufacturers" : "Ronford Baker Engineering",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Low Hat",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "0D8B4B00-763B-468B-88AE-6FD500F796F6",
+    "photoURLs" : [
+      "https://vmi.tv/wp-content/uploads/sites/3/2021/03/Ronford-Baker-Low-Hat.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
