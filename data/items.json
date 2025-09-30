@@ -5390,11 +5390,13 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : "Section heights:  7 inches / 18 cm  10 inches / 25 cm  12 inches / 30 cm  14 inches / 35 cm  ",
+    "Last edited time" : "2025-09-30T19:57:16.437Z",
     "Manufacturers" : "Dunton Cine Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
+    "Min. Weight" : "42kg",
     "Name" : "Moy Bazooka (Euro)",
     "Other Requirements" : [
 
@@ -5403,24 +5405,35 @@
 
     ],
     "WebsiteURL" : "https://www.duntoncineengineering.com/bazooka/moy-bazooka-full-package",
+    "Width" : "Footprint: 28in / 68cm",
     "id" : "181",
     "photoURLs" : [
-      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/e3e63831-6f78-4447-90f6-657a930bf8a0/bazooka-full1+%281%29.jpg?format=1500w"
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/e3e63831-6f78-4447-90f6-657a930bf8a0/bazooka-full1+%281%29.jpg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/2d55fb5b-89ae-4237-859d-2378e38fa21c/bazooka-full2+%281%29.jpg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/cc544acd-210c-49ed-84ca-1dcdaaa8aadf/base4+%281%29.jpg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/6f819c64-ed79-4a13-a1f1-a5c41f33bb37/base1+%281%29.jpg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/fb6b04b4-8aac-4c58-8d88-46aff15de322/base6+%281%29.jpg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574686748018-O3BYK7KTMMQJUV53XI07/bazooka-section2-1.jpeg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574686766978-K1K8HHSAKKPQDJ5ZK1T5/bazooka-section3-2.jpeg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574686772595-A5CJH8L2UIPE552G0M8D/bazooka-section4-3.jpeg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574686779525-57ODEOY3830DL63QHOLK/bazooka-section5-1.jpeg?format=300w"
     ],
     "videoURLs" : [
 
     ]
   },
   {
+    "Category" : "Camera Support",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The 3M Ladderpod is a portable ladder system used in the TV and film industry to achieve elevated camera angles, allowing crews to securely position cameras at heights ranging from 12 to 20 feet. It requires a van for transport and includes leveling equipment to ensure stability during shoots.",
+    "DescriptionText" : "The Ladderpod is the industry-standard premium solution for rapid deployment of a camera at height without use of a crane. Custom ladder specification gives rigidity and strength for two people and accommodates most normal types of terrain. Drop-on step allows ready access for working on camera.\n\nMade to rigorous EF MOY standards, engineered to survive any conditions.\n\nFor more information about Ladderpod use & safety please visit:\n\nhttps://www.bbc.co.uk/safety/resources/aztopics/ladder-pods",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : " • Ladder extendable length: 12 feet / 3.6 m - 20 feet / 6 m ",
+    "Last edited time" : "2025-09-30T19:53:54.314Z",
     "Manufacturers" : "Dunton Cine Engineering",
     "Max. Lens Height (Overslung)" : "20ft",
     "Min. Lens Height" : "12ft",
@@ -5435,24 +5448,28 @@
 
     ],
     "WebsiteURL" : "https://www.duntoncineengineering.com/ladderpod/tall-ladderpod-12-20-ft",
+    "Width" : "Ladder width:: 18 inches / 45 cm",
     "id" : "182",
     "photoURLs" : [
-
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1604320025189-F5BBV840HU0MD8K0BA7E/ladderpod-full-1-1.JPG?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1576077015472-32PCNWJ1OF85SK0YG5LV/top5.JPG?format=750w"
     ],
     "videoURLs" : [
 
     ]
   },
   {
+    "Category" : "Camera Support",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The 2M Ladderpod is a versatile equipment platform used in the TV and film industry, designed to elevate cameras and lighting fixtures to heights between 8 to 14 feet. It requires a van for transport and features a three or four-way leveler for stability, making it essential for achieving optimal shooting angles and lighting setups.",
+    "DescriptionText" : "The Ladderpod is the industry-standard premium solution for rapid deployment of a camera at height without use of a crane. Custom ladder specification gives rigidity and strength for two people and accommodates most normal types of terrain. Drop-on step allows ready access for working on camera.\n\nMade to rigorous EF MOY standards, engineered to survive any conditions.\n\nFor more information about Ladderpod use & safety please visit:\n\nhttps://www.bbc.co.uk/safety/resources/aztopics/ladder-pods",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Height" : " Ladder extendable length: 8 feet / 2.4 m - 14 feet / 4.3 m ",
+    "Last edited time" : "2025-09-30T19:54:21.190Z",
     "Manufacturers" : "Dunton Cine Engineering",
     "Max. Lens Height (Overslung)" : "14ft",
     "Min. Lens Height" : "8ft",
@@ -5467,9 +5484,11 @@
 
     ],
     "WebsiteURL" : "https://www.duntoncineengineering.com/ladderpod/standard-ladderpod-8-14-ft",
+    "Width" : "Ladder width: 18 inches / 45 cm",
     "id" : "183",
     "photoURLs" : [
-
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1576670585609-3HYZ0LIEYI1JFP4RT50K/ladderpod1-2.jpeg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1576077015472-32PCNWJ1OF85SK0YG5LV/top5.JPG?format=750w"
     ],
     "videoURLs" : [
 
@@ -5548,13 +5567,13 @@
 
     ],
     "Height" : "4in",
-    "Last edited time" : "2025-09-27T20:33:24.144Z",
+    "Last edited time" : "2025-09-30T20:03:08.228Z",
     "Length" : "1ft | 2ft | 3ft | 4ft | 6ft | 8ft",
     "Manufacturers" : "Dunton Cine Engineering",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Dolly Track",
+    "Name" : "MOY Dolly Track",
     "Other Requirements" : [
       "Paganinis",
       "Track Joiners",
@@ -5566,7 +5585,13 @@
     "Width" : "30in",
     "id" : "186",
     "photoURLs" : [
-      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423050851-OLKC59OSL8FG1D0SL7OV/dolly-8ft-1.jpeg?format=750w"
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423050851-OLKC59OSL8FG1D0SL7OV/dolly-8ft-1.jpeg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423096246-YTARXAA59OXR1Q21GXGL/dolly-6ft-2.jpeg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423137078-K5P1VVTHG6P8RUP6LNPP/dolly-4ft--1.jpeg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1575884488245-9VFLZ9RIPNI9NZSQQN8G/dolly-3ft-1.jpeg?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574423221001-KRQ31HLHTVNLNHDRFTOG/dolly-2ft-2.jpeg?format=1000w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574168786481-L5IP5E41M1HMD6Y8613Q/dolly-2ft-1.jpeg?format=750w",
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574354549709-APF13CCJ795JXGP56C6D/dolly-track4.jpeg?format=750w"
     ],
     "videoURLs" : [
 
@@ -18718,6 +18743,146 @@
     "id" : "813F1638-6868-4F11-93B9-F0EBA99BED45",
     "photoURLs" : [
       "https://vmi.tv/wp-content/uploads/sites/3/2015/08/Paginini-Set-e1607088878864.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-30T19:54:46.920Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "A device for fine-tuning the three-way rotation angle of the camera. Designed to accept all standard Mitchell-fitting geared / fluid / remote heads.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-30T19:55:14.569Z",
+    "Manufacturers" : "Dunton Cine Engineering",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Three-Way Leveller",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "07F00D8E-97C9-48C4-992D-8F7259F13BA9",
+    "photoURLs" : [
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1576672871006-B4K56KSODF4W6R8YLTDW/Three-way-leveller3.jpg?format=750w"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-09-30T19:57:57.034Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "A scaffold tube cross-bore holder, with a 3/8” threaded hole in the centre for attachment of support / accessories.\n\nAs with all Moy products it is made of premium quality materials – an aluminium polished body, chrome-plated steel socket with stainless steel clamp, and easy to access large Kipp locking handles for socket.",
+    "Features" : [
+
+    ],
+    "Height" : "5in",
+    "Last edited time" : "2025-09-30T19:59:12.509Z",
+    "Manufacturers" : "Dunton Cine Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "3.5kg",
+    "Name" : "MOY Bazooka - Scaffold Tube Holder",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.duntoncineengineering.com/bazooka/moy-bazooka-st-holder",
+    "id" : "B94F12E1-D829-4B21-BB62-8B130968DA7B",
+    "photoURLs" : [
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574687224137-1DCQ00M4AH6SHLC2EOI7/bazooka-top1.JPG?format=750w"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Track",
+    "Created Date" : "2025-09-30T19:59:45.816Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "A joiner designed to connect dolly track sleepers together.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-30T20:00:25.054Z",
+    "Manufacturers" : "Dunton Cine Engineering",
+    "Min. Transport Required" : [
+      "Car"
+    ],
+    "Name" : "Track Joiner",
+    "Other Requirements" : [
+      "Track"
+    ],
+    "Payload" : "320kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.duntoncineengineering.com/moy-steel-track/9zftqkv7x0gd8bc30px8r7x9bady6t",
+    "id" : "E94BE0B5-E3E7-4A41-BF89-DF39F7401635",
+    "photoURLs" : [
+      "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574180494831-R3OQ56H7JNC8D8WQE2CL/dolly-joiner-1.jpeg?format=750w"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Stabilised Heads",
+    "Created Date" : "2025-09-30T20:04:56.279Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Uncompromised design, built for raw performance at the limits of cinema.  \n\nTITAN was built from the ground up with unwavering commitment to performance and robustness in its DNA.  From a unified 6061-T6 billet aluminum mechanical structure to IP65-rated electronics and patented high torque slotless motors- every aspect of TITAN represents the bleeding edge of gyro stabilization.  ",
+    "Features" : [
+      "Water Resistant"
+    ],
+    "Height" : "630mm",
+    "Last edited time" : "2025-09-30T20:09:56.983Z",
+    "Length" : "668mm",
+    "Manufacturers" : "MotoCrane",
+    "Max. Weight" : "62kg",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "21kg",
+    "Name" : "Titan",
+    "Operating Temperature" : " -30ºF - 120ºF ",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "Unlimited",
+    "Payload" : "41kg",
+    "Roll Range" : "Unlimited",
+    "Speed" : "270º/sec",
+    "Steering Mode" : [
+
+    ],
+    "Tilt Range" : "Unlimited",
+    "Width" : "520mm",
+    "id" : "A5CD2587-AF50-4BCE-974D-E79A71633102",
+    "photoURLs" : [
+      "https://motocrane.shop/cdn/shop/files/TITANFrontHeroactive_bd136ba6-5597-4de0-9bbf-51560f975f6f.jpg?v=1712676313&width=1100",
+      "https://motocrane.shop/cdn/shop/files/TITANFront.jpg?v=1712676312&width=1100",
+      "https://motocrane.shop/cdn/shop/files/TITANRear.jpg?v=1712676313&width=1100",
+      "https://motocrane.shop/cdn/shop/files/TITANRear3_4Passive.jpg?v=1712676313&width=1100",
+      "https://motocrane.shop/cdn/shop/files/TITANRear3_4Active.jpg?v=1712676312&width=1100"
     ],
     "videoURLs" : [
 
