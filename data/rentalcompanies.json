@@ -186,5 +186,16 @@
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB"
     ],
     "id" : "7A3ECC23-C0B1-4EE9-A5BF-542BE731AAB2"
+  },
+  {
+    "AccentColor" : "000000",
+    "LogoURL" : "https://www.onestopfilms.co.uk/wp-content/uploads/2024/10/One-Stop-Films_Camera-Lens-Rental-London-Contact-Details.jpg",
+    "Name" : "One Stop Films",
+    "TextColor" : "05D9FF",
+    "WebsiteURL" : "https://www.onestopfilms.co.uk",
+    "availableItemIDs" : [
+
+    ],
+    "id" : "FF73D51D-FCD3-4EB1-99A2-45B301FC5C19"
   }
 ]
