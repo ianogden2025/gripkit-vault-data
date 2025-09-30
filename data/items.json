@@ -18887,5 +18887,37 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-09-30T22:11:33.832Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Manfrotto suction cup fitted with Avenger ball-joint & 16mm spigot. This enables fast and secure rigging of lightweight cameras & lighting to vehicles, windows and other flat/non-porous surfaces. We can also supply a set of three Manfrotto F1000 suction cups which can be combined with a rigging kit to form a secure car mount for larger cameras.",
+    "Features" : [
+      "16mm spiggot"
+    ],
+    "Last edited time" : "2025-09-30T22:12:30.249Z",
+    "Manufacturers" : "Manfrotto",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "1.7kg",
+    "Name" : "F1000 Suction Mount ",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "2kg",
+    "Steering Mode" : [
+
+    ],
+    "id" : "7D5B65EF-C795-4A16-9544-D39D746D121D",
+    "photoURLs" : [
+      "https://shootblue.tv/wp-content/uploads/2013/10/manfrotto_f1000.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
