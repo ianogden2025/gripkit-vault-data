@@ -18341,5 +18341,102 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-09-30T14:32:50.721Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Multi Head it is designed for all 5/8\" rigging needs. Lighting, grips and props will all be able to find tons of uses for this great new tool.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-30T14:33:53.841Z",
+    "Manufacturers" : "Mayberry Studio Products",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Multihead",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "EE3F0F77-48FC-456C-BC3B-0356BC31118F",
+    "photoURLs" : [
+      "https://thegripstore.com/cdn/shop/products/mayberry-studio-products-grip-heads-default-title-mayberry-grip-multi-head-29047567777815.jpg?v=1748388516"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-09-30T14:34:33.769Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Multi-Facet is an item that's usefulness is only limited by your imagination. We originally intended it to attach to the top of camera to provide many different mounting spots for any accessories you may have, on board monitors, eyelights, focusing devices or as spot for the grips to use to lock down the camera for locked off shots.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-09-30T14:35:03.283Z",
+    "Manufacturers" : "Mayberry Studio Products",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Multi-facet",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "B5A1D8A7-0A2D-4815-B550-6BC241F6F630",
+    "photoURLs" : [
+      "https://thegripstore.com/cdn/shop/files/mayberry-studio-products-3-8-adapters-default-title-mayberry-multi-facet-31078065307671.png?v=1748390535"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sepcialist Rigging",
+    "Created Date" : "2025-09-30T14:35:22.769Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Dado is a revolutionary junction that allows a number of attachments to be compatible with our entire range of Manfrotto Lighting clamps and stands. Dado is simple to use, and features an innovative design. Dado comes in two kits: one with 3 tubes, 3 threaded pins and 1 sphere and another one with 6 tubes, 6 threaded pins and 1 sphere.",
+    "Features" : [
+      "Cheese Plate Style Connector with 3/8'' Female Receivers",
+      "Versatile tool to attach different connectors at one location",
+      "Compatible with Manfrotto clamps and stands",
+      "Includes 6xTubes and 6x Threaded pins"
+    ],
+    "Last edited time" : "2025-09-30T14:38:17.410Z",
+    "Length" : "12.5 cm ",
+    "Manufacturers" : "Manfrotto",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "0.347 kg ",
+    "Name" : "Dado Universal Junction Kit",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/uk-en/dado-kit-6-rods-msy0580a/",
+    "id" : "01F0FF6B-F0D7-4154-86A2-63D4B5115E79",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/a/r/arms-manfrotto-dado-kit-6-rods-msy0580a-01.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/a/r/arms-manfrotto-dado-kit-6-rods-msy0580a.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
