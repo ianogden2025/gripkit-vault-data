@@ -23,6 +23,7 @@
       "364",
       "384",
       "505",
+      "51",
       "771F31A3-F5DA-42DC-B955-BD599D8FC807",
       "813F1638-6868-4F11-93B9-F0EBA99BED45",
       "A0672819-85B0-4007-A863-B26496F84CB5"
@@ -34,6 +35,7 @@
     "LogoURL" : "https://media.licdn.com/dms/image/v2/C560BAQE67MUs_JOVDw/company-logo_200_200/company-logo_200_200/0/1630585369129/optical_support_ltd_logo?e=2147483647&v=beta&t=_eUH3GACeu_qLRrcRh0kdfMqSKBITGc4PdRGtnOSdC4",
     "Name" : "Optical Support",
     "availableItemIDs" : [
+      "11",
       "74",
       "75",
       "76",
@@ -83,6 +85,7 @@
     "TextColor" : "255FA8",
     "WebsiteURL" : "https://www.arrirental.com/en/grip",
     "availableItemIDs" : [
+      "11",
       "119",
       "121",
       "124",
@@ -91,6 +94,7 @@
       "384",
       "426",
       "505",
+      "51",
       "813F1638-6868-4F11-93B9-F0EBA99BED45",
       "98FD1D40-ABBD-47D7-B8C7-7D23E6F4618F",
       "A0672819-85B0-4007-A863-B26496F84CB5",
@@ -252,5 +256,48 @@
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB"
     ],
     "id" : "FF73D51D-FCD3-4EB1-99A2-45B301FC5C19"
+  },
+  {
+    "AccentColor" : "000000",
+    "ContactEmail" : "enquiries@chapmanleonard.com",
+    "LogoURL" : "https://www.chapmanleonard.com/wp-content/uploads/Group-1.png",
+    "Name" : "Chapman UK",
+    "Notes" : "Chapman Leonard Equipment has been the choice of Movie and TV professionals for over seven decades, designed to capture every shot.",
+    "PhoneNumber" : "+44 (0)1727 838424",
+    "TextColor" : "ffffff",
+    "WebsiteURL" : "https://www.chapmanleonard.com",
+    "availableItemIDs" : [
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146",
+      "147",
+      "195",
+      "3073012C-A4BE-4162-87A7-26962CFAE713",
+      "426",
+      "430",
+      "474"
+    ],
+    "id" : "DF8C74B1-AAFC-49F2-89AC-E7CDD6F44C09"
   }
 ]
