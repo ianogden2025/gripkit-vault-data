@@ -805,5 +805,19 @@
       "431"
     ],
     "id" : "6D65957C-812D-4EBC-A47F-B8381035ADC3"
+  },
+  {
+    "AccentColor" : "000000",
+    "ContactEmail" : "info@motionremote.co.uk",
+    "LogoURL" : "https://images.squarespace-cdn.com/content/v1/58b57c42893fc04cbaf9eb5b/1547225815834-RQESVH9V4VP0YNBYTBN9/Motion+Remote+gyroscope+LIGHT+GREY.png",
+    "Name" : "Motion Remote",
+    "PhoneNumber" : "+44 (0)20 8895 2047",
+    "TextColor" : "ffffff",
+    "WebsiteURL" : "https://www.motionremote.co.uk",
+    "availableItemIDs" : [
+      "338",
+      "339"
+    ],
+    "id" : "2B48245D-CABA-4725-A99E-F9986C95FFC4"
   }
 ]
