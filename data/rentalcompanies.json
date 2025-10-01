@@ -819,5 +819,22 @@
       "339"
     ],
     "id" : "2B48245D-CABA-4725-A99E-F9986C95FFC4"
+  },
+  {
+    "AccentColor" : "000000",
+    "LogoURL" : "https://www.lunaremote.com/wp-content/uploads/2024/05/luna-remote-new-logo.png",
+    "Name" : "Luna Remote Systems",
+    "PhoneNumber" : "07595673190",
+    "TextColor" : "ffffff",
+    "WebsiteURL" : "https://www.lunaremote.com/home/",
+    "availableItemIDs" : [
+      "265",
+      "330",
+      "434",
+      "62",
+      "63",
+      "64"
+    ],
+    "id" : "C6B659E4-8B77-4B20-A450-CC4809C27750"
   }
 ]
