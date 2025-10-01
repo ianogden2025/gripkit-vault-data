@@ -19573,26 +19573,286 @@
     ]
   },
   {
+    "Category" : "Scissor Lifts",
     "Created Date" : "2025-10-01T15:16:39.394Z",
     "Crew Required" : [
 
     ],
+    "DescriptionText" : "The Genie GS4390 rough terrain 14.74 metre scissor lift features four-wheel drive and positive traction control — giving it up to 50% gradeability when driving on slopes. This tough, construction-oriented machine is built to tackle the most rigorous jobsite conditions.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-01T15:16:41.138Z",
+    "Height" : "Working Height: 14.74 m ",
+    "Last edited time" : "2025-10-01T15:21:13.926Z",
+    "Manufacturers" : "Genie",
     "Min. Transport Required" : [
 
     ],
+    "Name" : "15m Scissor Lift (GS4290 RT)",
     "Other Requirements" : [
 
     ],
+    "Payload" : "680 kg",
     "Steering Mode" : [
 
     ],
     "id" : "67FCEB41-1BA6-4879-9801-8DAD7F902004",
     "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-GS4290-RT.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-GS4290-RT_2.jpg"
+    ],
+    "videoURLs" : [
 
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:21:42.929Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli 1612AC is a compact electric scissor lift that reaches 15.7 m, making it a practical choice for indoor access hire where extra reach is needed. With a 250 kg capacity and slim 1.25 m width, it’s well suited to working in tighter areas while still accommodating two workers and their equipment. Its battery-powered performance delivers quiet, clean and efficient operation.",
+    "Features" : [
+
+    ],
+    "Height" : "Max Working Height: 15.7 m | Max Platform Height: 13.7 m ",
+    "Last edited time" : "2025-10-01T15:23:12.389Z",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "3420kg",
+    "Name" : "16m Scissor Lift (JCPT1612AC)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "250 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/dingli-16m-scissor-lift/",
+    "id" : "EC9FC8BA-CC94-4058-9B11-66A7AE4CE6B0",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1612AC-hero.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1612AC-1.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1612AC-2.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/JCPT1612AC-lift-chart.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:23:33.536Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie GS-4655 scissor lift combines a 15.95 m indoor working height with an eco-friendly electric drive, making it one of the most versatile hire options available. With a 350 kg capacity and space for three occupants indoors or two outdoors, it’s suitable for both construction and maintenance projects. Compact at 1.40 m wide and fitted with non-marking tyres, it works equally well indoors and outdoors where high reach and reliable performance are needed.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.95 m | Max Platform Height: 13.95 m ",
+    "Last edited time" : "2025-10-01T15:25:14.550Z",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "3,701 kg",
+    "Name" : "16m Scissor Lift (GS4655 E-Drive)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "350 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/genie-16m-scissor-lift/",
+    "Width" : "1.40 m",
+    "id" : "69583598-9CE6-45CA-B0F0-6A1DFA8F5738",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/GS-4655-Hero.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/GS4655-lift-chart.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:25:19.368Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli JCPT1612DC 16 metre electric scissor lift is a low noise versatile machine. This machine is ideal for a variety of indoor applications, for example, installation and maintenance tasks (electrical fixtures, cabling, ductwork and overhead sprinklers) and construction.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.7 m ",
+    "Last edited time" : "2025-10-01T15:26:24.794Z",
+    "Manufacturers" : "Dingl",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "16m Scissor Lift (JCPT1612DC Electric)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "250 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-jcpt1612dc/",
+    "id" : "C2FF0370-5F0C-4673-80D5-4D94FEE027A2",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Dingli-JCPT1612DC-Electric.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:27:43.182Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Skyjack SJ9250RT is the largest Skyjack diesel scissor lift with a working height of 17.1m. It has a 1.5m powered extension deck delivers a huge work platform area (7.2m) for heavy duty capacities. This machine is ideal for general construction, cladding and general building maintenance.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 17.07 m ",
+    "Last edited time" : "2025-10-01T15:28:42.491Z",
+    "Manufacturers" : "Skyjack",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "17m Scissor Lift (SJ9250RT)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "680 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-sj9250rt/",
+    "id" : "9406103A-D116-45A3-BBE9-8517EFCA8FB1",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Skyjack-SJ9250RT.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Skyjack-SJ9250RT_2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:28:57.375Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie GS-5390 rough terrain 17.95 metre scissor lift is built for extra-rugged performance and is able to traverse through uneven rough terrain environments. Built to last, with 40% gradeability, it's ideal on demanding outdoor worksites.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 17.95 m ",
+    "Last edited time" : "2025-10-01T15:30:04.382Z",
+    "Length" : "4.88 m",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "7,515 kg",
+    "Name" : "18m Scissor Lift (GS-5390 RT)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "680 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-gs5390rt/",
+    "Width" : "2.29 m",
+    "id" : "0C33BF12-1C12-417A-B346-AB1DDC2ED3AB",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-GS-5390-RT.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-GS-5390-RT_2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:30:19.949Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Offering a maximum working height of 18 m, the Dingli 1823HRT2 rough terrain scissor lift is built for outdoor hire on demanding job sites. With four-wheel drive and large platform dimensions, it provides stability and space for up to four people plus equipment. A safe working load of 680 kg ensures heavy tools and materials can be lifted with ease, making it a popular choice for construction, building maintenance and installation work.",
+    "Features" : [
+
+    ],
+    "Height" : "Max Working Height: 18 m | Max Platform Height: 16 m ",
+    "Last edited time" : "2025-10-01T15:31:52.420Z",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "8,980 kg",
+    "Name" : "18m Scissor Lift (1823HRT2)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "680 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/dingli-18m-scissor-lift/",
+    "Width" : "2.33 m",
+    "id" : "1C60BBCD-0063-4ED0-A28A-1A9A5FD35CDE",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1823HRT-hero.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1823HRT-1.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1823HRT-2.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/JCPT1823HRT2-lift-chart.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:32:13.415Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli 1923DCL is an all-electric scissor lift available for hire, combining an impressive 19 m working height with a robust 680 kg platform capacity. Emission-free operation makes it suitable for indoor use, while its four-wheel drive and high stability allow for outdoor work as well. With room for multiple occupants, it’s an excellent choice for large-scale access projects where safety and reach are essential.",
+    "Features" : [
+
+    ],
+    "Height" : "Max Working Height: 19 m | Max Platform Height: 17 m ",
+    "Last edited time" : "2025-10-01T15:34:16.656Z",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "10,870 kg",
+    "Name" : "19m Scissor Lift (JCPT1923DCL)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "680 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/dingli-19m-scissor-lift/",
+    "Width" : "2.29 m",
+    "id" : "5CA76E23-8AEA-44DE-9154-E202346815D0",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1923DCL-hero.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1923DCL-1.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1923DCL-2.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2025/09/JCPT1923DCL-lift-chart.webp"
     ],
     "videoURLs" : [
 
