@@ -9906,26 +9906,32 @@
     "Crew Required" : [
       "Stagehand"
     ],
-    "DescriptionText" : "The 26 Metre 360 Telehandler is a versatile piece of machinery used in the TV and film industry for lifting and moving heavy equipment and props. Its 360-degree rotation allows for precise positioning in tight spaces on set, making it essential for stagehands to efficiently manage logistics during productions.",
+    "DescriptionText" : "The JCB 555-210R is a 21 metre 360 telehandler. It is simple to operate and offers all-round productivity, versatility, efficiency and safety. The separate load monitoring and machine screens provide simple, clear information for the operator. Plus JCB’s ‘hydraulics to go’ is easy to use and helps reduce operator fatigue.",
     "Features" : [
-
+      "Remote control"
     ],
-    "Last edited time" : "2025-10-01T15:04:57.289Z",
+    "Height" : "Lift Height: 20.5m ",
+    "Last edited time" : "2025-10-01T16:28:31.294Z",
+    "Length" : "Max Reach: 17.8m ",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "26 Metre 360 Telehandler",
+    "Name" : "21 Metre 360 Telehandler",
     "Other Requirements" : [
 
     ],
+    "Payload" : "5,500kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.cwplant.co.uk/product/26-metre-telehandler/",
     "id" : "319",
     "photoURLs" : [
-      "https://www.cwplant.co.uk/wp-content/uploads/2022/12/JCB-555-260R-Hero-1.webp"
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JCB-555-210R.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_360_Telehandlers_JCB_555-210R_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_360_Telehandlers_JCB_555-210R_1.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_360_Telehandlers_JCB_555-210R_3.jpg"
     ],
     "videoURLs" : [
 
@@ -9937,27 +9943,31 @@
     "Crew Required" : [
       "Stagehand"
     ],
-    "DescriptionText" : "The 21 Metre 360 Telehandler is a versatile piece of machinery used in the TV and film industry for lifting and moving heavy equipment, set pieces, and props on set. Its 360-degree rotation capability allows for efficient positioning and access in tight spaces, making it ideal for complex production environments.",
+    "DescriptionText" : "The JCB 555-260R  26 metre 360 telehandler is a top-of-the-line machine designed for the most demanding lifting and loading tasks. With its massive 26 metre reach and impressive lift capacity of 5.5 tonnes, this telehandler is capable of handling even the largest and heaviest loads. The machine also comes equipped with a range of features for improved performance and safety, such as a spacious and comfortable cab with excellent visibility,  a 360° rotating boom and a range of advanced control systems for precise and efficient operation.  ",
     "Features" : [
-
+      "Remote Control"
     ],
-    "Last edited time" : "2025-10-01T15:05:02.584Z",
+    "Height" : "Lift Height: 25.5m ",
+    "Last edited time" : "2025-10-01T16:29:51.951Z",
+    "Length" : "Max Reach: 21.4m ",
     "Manufacturers" : "JCB",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "21 Metre 360 Telehandler",
+    "Name" : "26 Metre 360 Telehandler",
     "Other Requirements" : [
 
     ],
+    "Payload" : "5,500kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.cwplant.co.uk/product/21-metre-360-telehandler/",
     "id" : "320",
     "photoURLs" : [
-      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JCB-555-210R.webp",
-      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Telehandlers-and-Forklifts_360_Telehandlers_JCB_555-210R_3.jpg"
+      "https://www.cwplant.co.uk/wp-content/uploads/2022/12/JCB-555-260R-Hero-1.webp",
+      "https://www.cwplant.co.uk/wp-content/uploads/2022/11/jcb-555-260r_2-working.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2022/11/JCB-555-260R_1-working.jpg"
     ],
     "videoURLs" : [
 
@@ -19853,6 +19863,989 @@
       "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1923DCL-1.webp",
       "https://www.cwplant.co.uk/wp-content/uploads/2025/09/1923DCL-2.webp",
       "https://www.cwplant.co.uk/wp-content/uploads/2025/09/JCPT1923DCL-lift-chart.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:34:35.611Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli JCPT 2223 RTA electric 22m scissor lift is a high capacity rough terrain aerial platform that is ideal for a wide range of construction tasks. It has a maximum platform capacity of 750kg and its 8m2 platform area increases to 11.7m2 with a 2m extension.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 22 m",
+    "Last edited time" : "2025-10-01T15:35:43.210Z",
+    "Length" : "4.90 m",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "22m Scissor Lift (JCPT2223DC Electric)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "750 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-2223dc/",
+    "Width" : "2.35 m",
+    "id" : "107FDCB4-6385-4B09-9DF1-487E29F6967C",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Dingli-2223DC-Electric.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:35:49.972Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli JCPT2212DC (N) electric 22m scissor lift is only 1.25m wide meaning it can access extremely narrow areas easily. It features a 600kg platform capacity, with 1.8m platform extension and 25% gradeability. It is ideal for either indoor or outdoor working.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 22 m ",
+    "Last edited time" : "2025-10-01T15:37:13.836Z",
+    "Length" : "4.72 m",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "12,350 kg",
+    "Name" : "Narrow 22m Scissor Lift (JCPT2212DC (N))",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "600 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-jcpt2212dc-n/",
+    "Width" : "1.25 m",
+    "id" : "3F6EFDE5-7708-47CF-B984-1FE19C2F7800",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Dingli-JCPT2212DC.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Scissor Lifts",
+    "Created Date" : "2025-10-01T15:37:28.886Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Dingli JCPT 2223 RTA diesel 22m scissor lift is a high-capacity rough terrain aerial platform that is ideal for a wide range of construction tasks. It features a large working platform and with its four-wheel-drive can work on a 30% gradient.\n",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 22 m ",
+    "Last edited time" : "2025-10-01T15:38:39.452Z",
+    "Length" : "4.90 m",
+    "Manufacturers" : "Dingli",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "22m Scissor Lift (JCPT2223 RT Diesel)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "750 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/scissor-lifts-jcpt2223/",
+    "Width" : "2.35 m",
+    "id" : "16FDF534-9579-43AC-8305-30ED269F7EAD",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Dingli-JCPT2223-RT-Diesel.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:39:19.669Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-33/18 articulating electric boom lift with 12m working height and zero emissions. It can drive through standard doorways, around obstacles and access overhead work from aisles even in areas where weight is limited. This boom lift is ideal for multiple indoor and outdoor jobs on sensitive grass or paved surfaces and flooring such as airports, shopping centres, theatres, etc.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 12 m ",
+    "Last edited time" : "2025-10-01T15:40:31.373Z",
+    "Length" : "Horizontal Reach: 5.57 m | Up and Over Clearance: 4.28 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "12m Boom Lift (Z33/18)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "200 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z33-18/",
+    "id" : "EC39CC43-7296-4C7B-9363-DC41DC9F1318",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z33-18.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z33-18_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z33-18_Articulating-Boom_range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:40:51.690Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Nifty HR12N Bi-Energy boom lift is one of the most complete 12m self-propelled boom lifts available. Its telescopic upper boom provides increased accuracy when positioning the platform and 6.10m outreach make the HR12 4x4 self-propelled boom lift perfect for reaching up and over all kinds of obstacles. The boom lift's deep tread rough terrain tyres provide extra grip even on soft ground.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 12.2 m ",
+    "Last edited time" : "2025-10-01T15:42:12.240Z",
+    "Length" : "Horizontal Reach: 6.1 m ",
+    "Manufacturers" : "Nifty",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "3,740kg",
+    "Name" : "12.2m Boom Lift (HR12N)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "200 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-hr12n/",
+    "id" : "BEE34866-89E2-44EF-B506-C526FA896FC4",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR12NDE.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR12NDE_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Nifty-HR12NDE-Bi-Energy-Boom.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:42:26.879Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie TZ-34/20 trailer-mounted boom lift has an outstanding working envelope and intuitive controls, allowing operators to efﬁciently reach where they need to be. Its lightweight design means it is possible to use this machine on lawns, slate and gymnasium floors, as well as other sensitive surfaces.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 12.36 m ",
+    "Last edited time" : "2025-10-01T15:43:33.585Z",
+    "Length" : "Horizontal Reach: 5.59 m | Up and Over Clearance: 4.90 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "1,431kg",
+    "Name" : "12.4 Boom Lift (TZ34/20)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "id" : "C993C644-EE08-4EF8-8F7F-5615542E24AA",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-TZ34-20.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-TZ34-20_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-TZ-34-20_Range_of_motion-1.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:43:47.868Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie S45 diesel boom lift is a self-propelled access platform with 15.72m working height. Ideal for working in confined areas, this machine features a 360-degree turntable. This machine is ideal for steel contractors, working in factories, aircraft maintenance and other industrial applications.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.72 m | Platform Height: 13.72 m ",
+    "Last edited time" : "2025-10-01T15:45:06.564Z",
+    "Length" : "Horizontal Reach: 11.12 m | ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6,926kg",
+    "Name" : "15.7m Boom Lift (S45)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-s45/",
+    "id" : "DAB5CA4B-CA9B-4A48-B367-AA2A129C9ED4",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S45.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S45_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie_s45_boom_lift_range_of_motion_chart.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:45:29.269Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The JLG 450AJ diesel boom lift has a working height of 15.77m with a horizontal outreach of 7.62m. It features variable speed engine control for improved fuel efficiency reducing operating costs. Plus with 250 kg platform capacity, you to carry more tools or materials to stay on a job longer.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.77 m",
+    "Last edited time" : "2025-10-01T15:46:46.404Z",
+    "Length" : "Horizontal Reach: 7.62 m | Up and Over Clearance: 6.09 m ",
+    "Manufacturers" : "JLG",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6,495kg",
+    "Name" : "15.8m Boom Lift (450AJ)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "249.5 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-jlg450aj/",
+    "id" : "560612ED-87F3-4179-8A51-980BC05AB2F5",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-450AJ.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JLG-450AJ-Diesel-Boom-Lift.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:47:25.621Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-45 XC articulating boom lift is the redesigned Xtra Capacity version of the popular rough-terrain Genie Z-45/25J RT diesel powered articulating boom. It can perform a wider range of heavier lift tasks on construction and industrial jobsites thanks to its dual lift capacity. It features 4WD and 45% gradeability for superior terrain ability.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.87 m ",
+    "Last edited time" : "2025-10-01T15:49:22.997Z",
+    "Length" : "Horizontal Reach: 7.55 m | Up and Over Clearance: 7.44 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "15.9m Boom Lift (Z45-XC)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "300kg (restricted) | 454kg (unrestricted)",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z45-xc/",
+    "id" : "B83B86F1-862D-484C-827D-ACF95DC26D01",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z45-XC.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z45-XC_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z45-XC-Boom-Lift_range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:49:53.344Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-45/25J BE (Bi-energy) articulating boom lift is equipped with an on-board diesel-powered generator acting as a 100-amp battery charger to provide additional power for the most demanding jobsites. It is ideal for working on shift patterns and to drive long distances.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.94 m ",
+    "Last edited time" : "2025-10-01T15:51:07.620Z",
+    "Length" : "Horizontal Reach: 7.65 m | Up and Over Clearance: 7.24 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "16m Boom Lift (Z-45/25J BE)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z45-25/",
+    "id" : "D880C1B4-5868-4671-96B7-5ECB683D3862",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/GenieZ45-25J-BE.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z45-25J-BE_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z45-25-Bi-Energy-Boom_lift_range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:51:21.223Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-45/25J DC electric articulating boom lift offers quiet, emission-free operation with a working height of 15.94m. Its zero tail-swing and tight turning makes manoeuvring in confined jobsites easy. With this electric boom lift, operators can easily work close to buildings or around obstacles, and access overhead work from aisles and other congested areas.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.94 m ",
+    "Last edited time" : "2025-10-01T15:52:33.818Z",
+    "Length" : "Horizontal Reach: 6.75 m | Up and Over Clearance: 7.24 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "16m Boom Lift (Z45/25JE Electric)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z45-25je/",
+    "id" : "FA16692E-919E-4E8F-B0FB-1BC9B85288CB",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z-45-25JE-Electric.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z45-25-Bi-Energy-Boom_lift_range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:52:40.242Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z45/25J RT diesel boom lift has a maximum working height of 16m. It features rough terrain performance and with a platform capacity of 227kg can accommodate up to 2 people and their tools. With this boom lift, operators can easily work close to buildings or around obstacles.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 15.9 m ",
+    "Last edited time" : "2025-10-01T15:54:16.463Z",
+    "Length" : "6.65 m",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6,460 kg",
+    "Name" : "16m Boom Lift (Z45/25JRT)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z45-25-2/",
+    "Width" : "2.29 m",
+    "id" : "CACE2DB4-F3BD-498A-B8DD-BDB81F92970D",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z-45-25.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z-45-25_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z45-25-Bi-Energy-Boom_lift_range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:54:58.775Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Nifty HR17N Bi-Energy Boom Lift is a hybrid AWD, self-propelled cherry picker that will lift 2 people and their tools to a working height of 17m or a working outreach of 9.7m. Its compact dimensions enable it to travel through and work in restricted spaces, while its non-marking tyres mean it can work both inside and out, making it ideal for maintenance or industrial work.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 17 m ",
+    "Last edited time" : "2025-10-01T15:56:30.599Z",
+    "Length" : "Horizontal Reach: 9.7 m ",
+    "Manufacturers" : "Nifty",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "7,780kg",
+    "Name" : "17m Boom Lift (HR17N)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "225 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-hr17n/",
+    "id" : "7B0C31EB-F681-4211-B45C-EF1DA8FE4B8C",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR17N.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/HR17N-Bi-Energy-Boom-Lift.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:57:13.933Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Hinowa 17.75 diesel tracked boom lift has a working height of up to 17m and maximum outreach of 7.5m. Its dual lifting mechanism enables the operator to use the lift when it is flush against a wall, and it has an impressive platform load capacity of 230kg without restriction throughout its entire working envelope.\n",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 17.06 m ",
+    "Last edited time" : "2025-10-01T15:58:38.278Z",
+    "Length" : "Horizontal Reach: 7.5 m ",
+    "Manufacturers" : "Hinowa",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : " 2,230kg",
+    "Name" : "17m Boom Lift (Lightlift 17.75)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "230 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-lightlift-17-75/",
+    "Width" : "0.79m (folded)",
+    "id" : "D876340A-A306-49F7-90D8-8D48081C3FBE",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Hinowa-Lightlift-17-75.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Hinowa-Lightlift-17-75_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Hinowa-17.75-Diesel110V-Tracked-Boom-Platform-.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T15:59:05.760Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-60 FE hybrid articulating boom lift is like two machines in one. It is the ideal, environment-friendly solution for increased efficiency with a low cost of operation. In ‘all-electric’ mode it offers a full workday of emissions-free run time on a single battery charge. In ‘hybrid’ mode, it offers one week of run time with a single tank of diesel.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 20.16 m ",
+    "Last edited time" : "2025-10-01T16:00:22.690Z",
+    "Length" : "Horizontal Reach: 11.15 m | Up and Over Clearance: 7.39 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "7756 kg",
+    "Name" : "20.2m Boom Lift (Z60/37FE)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z60-37/",
+    "id" : "0ED16789-1F41-440F-9E91-07EA28C8D5EE",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z60-37.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z60-37_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z60-37-Hybrid-Boom-Lift-.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:00:32.743Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Nifty HR21 Hybrid AWD 4x4 boom lift is a  self-propelled cherry picker will lift 2 persons and their tools to a working height of 20.8m. Proportional controls deliver smooth, measured operation while 160-degree and a 150-degree fly-boom allow precise positioning anywhere in its vast working envelope. This hybrid option incorporates a smaller, power-optimised EU Stage V compliant engine supported by the machine's battery pack for when extra power is needed.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 20.8 m ",
+    "Last edited time" : "2025-10-01T16:01:30.650Z",
+    "Length" : "Horizontal Reach: 12.8 m ",
+    "Manufacturers" : "Nifty",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6,660kg",
+    "Name" : "20.8m Boom Lift (HR21 Hybrid AWD)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "225 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-hr21-hybrid-awd/",
+    "Width" : "2.27 m",
+    "id" : "73DAAADF-88B0-46AD-BB45-3124649C7B79",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR21-Hybrid-AWD.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:01:37.080Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-62/40 articulating boom lift is ideal for outdoor construction and industrial applications with its rough terrain capabilities provide lifting versatility with a combination of up, out and over positioning capabilities with outreach that’s second to none.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 20.87 m ",
+    "Last edited time" : "2025-10-01T16:02:54.136Z",
+    "Length" : "Horizontal Reach: 12.42 m | Up and Over Clearance: 7.8 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "10281 kg",
+    "Name" : "20.9m Boom Lift (Z-62/40)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z62-40/",
+    "id" : "2E273B4C-BAE0-4040-BC22-1ECB4F6F05F0",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z62-40.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z62-40_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z62-40-Articulating-Boom-Lift-Range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:05:56.735Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie S-65 telescopic boom lift has a massive horizontal outreach of 17.1m and working height of 21.8m. With this Genie boom lift, operators can easily work close to buildings or around obstacles, and easily access overhead work from congested areas.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 21.8 m ",
+    "Last edited time" : "2025-10-01T16:07:05.001Z",
+    "Length" : "Horizontal Reach: 17.1 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "10,449 kg",
+    "Name" : "21.8m Boom Lift (S65)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-s65/",
+    "Width" : "2.49 m",
+    "id" : "E1DD8F5E-D4D4-4DBC-8275-8A3D9E9D5E23",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S65.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S65_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie_S65_Boom_Lift_Rage_of_Motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:07:44.975Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The JLG 660SJ diesel boom lift has a working height of 22.02m and a horizontal outreach of 17.40m. This latest design has extra platform capacity – 250kg. It also has a faster ascent – reaching full height quicker for increased productivity on site.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 22.02 m | Platform Height: 20.02 m ",
+    "Last edited time" : "2025-10-01T16:09:02.753Z",
+    "Length" : "Horizontal Reach: 17.40 m ",
+    "Manufacturers" : "JLG",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "12,528kg",
+    "Name" : "22m Boom Lift (660SJ Diesel)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "250 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-jlg660sj/",
+    "id" : "88D2C79B-68F2-421C-8170-26E9FFC7D8FE",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-660SJ-Diesel.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-660SJ-Diesel_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JLG-660SJ-Diesel-Boom-Lift.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:10:06.558Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The JLG 800AJ diesel articulating boom lift has a working height of 24.46m with a horizontal outreach of 15.74m. Its platform capacity of 230kg will allow carry two people and their tools. It features JLG’s patented QuikStick boom design significantly reduces lift/lower cycle times.\n",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 24.46 m ",
+    "Last edited time" : "2025-10-01T16:11:25.448Z",
+    "Length" : "Horizontal Reach: 15.74 m ",
+    "Manufacturers" : "JLG",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "24.5m Boom Lift (800AJ)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "230 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-jlg800aj/",
+    "id" : "78682EB0-C19A-46EC-A8FD-3855273968DB",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-800AJ.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-800AJ_2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:11:30.781Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie Z-80/60 diesel articulating boom lift delivers outstanding lifting versatility with up, out and over positioning capabilities — ideal for outdoor construction and industrial applications.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 25.77 m ",
+    "Last edited time" : "2025-10-01T16:12:47.087Z",
+    "Length" : "Horizontal Reach: 18.29 m | Up and Over Clearance: 8.83 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "25.8m Boom Lift (Z-80/60)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-z80-60/",
+    "id" : "C78CD368-895D-4536-8831-94AFF0988420",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z80-60.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-Z80-60_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-Z80-60-Diesel-Boom-Lift-range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:13:06.775Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie S-85 diesel telescopic boom lift offers greater horizontal outreach than any other type of aerial platform – 23.3 metres, making this machine the perfect choice for work in construction and industrial applications with limited access. It has 360˚continuous rotation turntable for quick positioning and smooth boom functions for finer control.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 27.7 m ",
+    "Last edited time" : "2025-10-01T16:14:12.629Z",
+    "Length" : "Horizontal Reach: 23.3 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "17,236kg",
+    "Name" : "27.7m Boom Lift (S-85 Diesel)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-s85/",
+    "id" : "F3CA0BB7-28D3-463D-8B1B-547E0A8E37F5",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S-85-Diesel.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-S-85-Diesel_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-S85-Diesel-Boom-Lift-.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:14:31.035Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Nifty HR28 Hybrid 4x4 Boom Lift combines advanced power-source technology with efficient four-wheel-drive, it delivers outstanding performance from a compact and low-weight design. Its revolutionary hybrid power system incorporates a smaller, power-optimised Stage V compliant diesel engine, supported by the machine's electric motor when extra power is needed. An electric-only mode allows zero-emission operation, making it ideal for indoor use, or for quiet, clean operation.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 28 m ",
+    "Last edited time" : "2025-10-01T16:15:49.791Z",
+    "Length" : "Horizontal Reach: 19 m ",
+    "Manufacturers" : "Nifty",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "14,650 kg",
+    "Name" : "28m Boom Lift (HR28 Hybrid)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "280kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-hr28-hybrid/",
+    "id" : "B13EA07D-16EB-45E0-81B4-1917513B2080",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR28-Hybrid.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Nifty-HR28-Hybrid_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/HR28-Hybrid-4X4-Boom-Lift.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:16:05.323Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie SX-125 telescopic boom lift works in more applications that require higher capacities thanks to its industry-leading dual lift capacity. It is perfect for heavy lifting in construction, bridge inspections and maintenance, stadium and sports arena, oil and gas, industrial, telecommunications and utility applications.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 40.10 m ",
+    "Last edited time" : "2025-10-01T16:17:41.706Z",
+    "Length" : "Horizontal Reach: 24.38 m ",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "40.1m Boom Lift (SX125)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "300 kg Unrestricted | 454 kg Restricted",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-s125/",
+    "Width" : "3.94 m",
+    "id" : "4E5B36F7-FC49-4FF7-BEFB-AFC1C3227C8C",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-SX125.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-SX125_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/sx-125xc_range_of_motion.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:18:02.637Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The JLG 1250AJP diesel articulating boom lift has a massive working height of 40.3m with a horizontal outreach of 19.25m. Four-wheel drive and four-wheel steer with oscillating axle give this machine superb mobility on site.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 40.30 m ",
+    "Last edited time" : "2025-10-01T16:19:24.520Z",
+    "Length" : "Horizontal Reach: 19.25 m | Up and Over Clearance: 18.44 m ",
+    "Manufacturers" : "JLG",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "40.3m Boom Lift (1250AJP)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "230 kg Unrestricted | 450 kg Restricted",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-jlg1250ajp/",
+    "id" : "C8AE2D3B-BEC2-46F9-9F49-401D8DDED198",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-1250AJP.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-1250AJP_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JLG-1250AJP-Diesel-Boom-Lift.pdf.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:19:37.195Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Genie ZX-135-70 articulating boom lift is ideal for outdoor construction and industrial applications. This boom lift delivers access to up, over and out applications inaccessible by a traditional jib. Four-wheel drive and steer means that this product can handle rough jobsite ground conditions with ease.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 43.15 m ",
+    "Last edited time" : "2025-10-01T16:21:12.460Z",
+    "Length" : "Horizontal Reach: 21.26 m | Up and Over Clearance: 23.01m",
+    "Manufacturers" : "Genie",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "43.2m Boom Lift (ZX135)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "272 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-zx135v1/",
+    "id" : "3338ABA7-500F-42BD-AAA8-DF165D2B0579",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-ZX135.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/Genie-ZX135_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/Genie-ZX135-Articulating-Boom-Lift-range-of-motion.jpeg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Boom Lifts",
+    "Created Date" : "2025-10-01T16:21:20.074Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The JLG 1350SJP diesel boom lift has a maximum working height of 43.3m and an outreach of 25.03m. It features four wheel drive and four wheel steer, plus oscillating axle for superb jobsite mobility. Drive-out extending axels mean that this machine is quick to set up in applications ranging from construction to civil engineering through and industrial.",
+    "Features" : [
+
+    ],
+    "Height" : "Working Height: 43.30 m ",
+    "Last edited time" : "2025-10-01T16:22:42.255Z",
+    "Length" : "Horizontal Reach: 24.38 m ",
+    "Manufacturers" : "JLG",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "20,400 kg",
+    "Name" : "43.3m Boom Lift (1350SJP Diesel)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "227 - 450 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.cwplant.co.uk/product/boom-lifts-jlg1350sjp/",
+    "id" : "F37053E4-7645-407D-B4BB-DFB259550BCF",
+    "photoURLs" : [
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-1350SJP-Diesel-Boom-Lift.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/12/JLG-1350SJP-Diesel-Boom-Lift_2.jpg",
+      "https://www.cwplant.co.uk/wp-content/uploads/2021/11/JLG-1350SJP-Diesel-Boom-Lift-.png"
     ],
     "videoURLs" : [
 
