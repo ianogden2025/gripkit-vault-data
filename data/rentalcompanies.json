@@ -783,5 +783,27 @@
       "61"
     ],
     "id" : "3AC4BB77-8561-47AC-8FCE-AD1CC6287A28"
+  },
+  {
+    "AccentColor" : "12181F",
+    "LogoURL" : "https://scopics.uk/wp-content/uploads/2025/08/2025-SCOPICS-LOGO.png",
+    "Name" : "Scopics",
+    "PhoneNumber" : "Manchester : 0161 399 0453  | Glasgow : 0141 459 1695",
+    "TextColor" : "FF8200",
+    "WebsiteURL" : "https://scopics.uk",
+    "availableItemIDs" : [
+      "327",
+      "328",
+      "329",
+      "338",
+      "339",
+      "381",
+      "418",
+      "424",
+      "427",
+      "429",
+      "431"
+    ],
+    "id" : "6D65957C-812D-4EBC-A47F-B8381035ADC3"
   }
 ]
