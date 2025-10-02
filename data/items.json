@@ -20880,7 +20880,9 @@
       "Vehicle status screen",
       "LED lights"
     ],
-    "Last edited time" : "2025-10-02T13:59:05.590Z",
+    "Height" : "2.55 m ",
+    "Last edited time" : "2025-10-02T14:01:25.514Z",
+    "Length" : "6.3 m ",
     "Manufacturers" : "Servicevision",
     "Min. Transport Required" : [
 
@@ -20893,6 +20895,7 @@
 
     ],
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/vehicles-for-telescopic-cranes/escorpion/",
+    "Width" : "1.78 m ",
     "id" : "32BDFF50-C7F0-461E-8B95-9287C7575783",
     "photoURLs" : [
       "https://scorpio.servicevision.es/wp-content/uploads/2022/05/SVS_2110.jpg",
