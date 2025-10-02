@@ -20850,5 +20850,60 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Mobile Bases",
+    "Created Date" : "2025-10-02T13:55:12.369Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The e-Scorpion is a compact all-terrain electric vehicle designed to carry the Scorpio 45’ or the Scorpio 38’ to hard-access locations or any other location where the noise and the smoke emissions are not allowed. It has been designed considering the compatibility with the Scorpio equipment and the comfort of the technician, the operator and the driver.\n\nThe Vehicle\nBased on a CARON vehicle, it has been modified to be 100% electric keeping the original gearbox to offer a wide range of low gears to reach unthinkable positions for telescopic cranes. The cabin of the e-Scorpion is articulated up to 20º respect the main body, facilitating the driving through rough terrain. Power steering, LED driving lights, 4WD and a status panel with all the information of the vehicle (batteries level, current consumption…) also eases the driving experience. For the rainy days, the connections of the car are IP67 certified, and the whole vehicle can be sunken in water bodies up to the wheel axes. Equipped with two winches (one in the front part, one in the rear part of the vehicle), there is no way to get stuck, and with a build-in hitch ball, it can tow all the accessories needed for the production. Although the e-Scorpion is not homologated to drive through open traffic, the design allows it to be transport inside a truck, even with the crane mounted on it.\n\nThe base platform:\nThe e-Scorpion base design allows to operate the arm from the ground allowing the arm to spin 270º at the maximum inclination of the telescopic arm. The base also has specific compartments for the arm weights or other accessories required for the arm operation. It has support points for the arm respect the column and locking points from the arm to the vehicle for safely transporting the arm to the required position.\n\nHydraulic system:\nOnce the e-Scorpion is on position, four telescopic levelling jacks operated by an independent hydraulic system can be used to stabilize the base to the ground. Four different hydraulic pistons level the telescopic column up to 12º respect the base. All the hydraulic system to stabilize and level the base is build in a modular compartment completely independent from the motion of the vehicle and the valves for the pistons can be either manually or automatically used with an external console. One hydraulic piston extends the three section column up to 766cm from the base platform even with the arm fully loaded up to 2000kg.",
+    "Features" : [
+      "100% electric",
+      "Build-in charger (can be charged while operating the hydraulics or the arm).",
+      "4 gears forward, 4 gear backwards",
+      "16 reduction gears",
+      "4WD /RWD options",
+      "Articulated cabin up to 20º",
+      "Different wheels available",
+      "4 Removable 50V 100A Li-ion 4 batteries",
+      "Independent working modes: driving mode, hydraulic mode",
+      "4 hydraulic leveling jacks",
+      "4 hydraulic column leveling pistons",
+      "3 sections hydraulic column with 700mm of telescope.",
+      "Automatic or manual level operated by an external control",
+      "Independent leveling systems for the column and the base",
+      "48mm supports for platforms",
+      "Specific place for crane counterweights",
+      "Front and rear winch",
+      "Hitch ball build-in",
+      "Vehicle status screen",
+      "LED lights"
+    ],
+    "Last edited time" : "2025-10-02T13:59:05.590Z",
+    "Manufacturers" : "Servicevision",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "e-Scorpion",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/vehicles-for-telescopic-cranes/escorpion/",
+    "id" : "32BDFF50-C7F0-461E-8B95-9287C7575783",
+    "photoURLs" : [
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/SVS_2110.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/SVS_2158-copia.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/SVS_2153.jpg",
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/cerrada.bmp",
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/extendida.bmp",
+      "https://scorpio.servicevision.es/wp-content/uploads/2022/05/grados.bmp"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
