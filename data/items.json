@@ -21225,5 +21225,38 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Lighting Stands & Equipment",
+    "Created Date" : "2025-10-04T10:50:39.243Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Avenger E200 STAND ADAPTER (Converts a Junior Female 28 mm/ 1 1/8 inch Receiver to a 16 mm/ 5/8 inch baby male spigot/stud). This versatile adapter is ideal for use on any light stand, clamp or roller stand that has a universal head or combo mount. The small hole on the junior side of the adapter allows for safety pins to be engaged when needed for additional safety especially when suspending fixtures from clamps like the C150. ",
+    "Features" : [
+      "28mm/1 1/8in to Baby 16mm/5/8in"
+    ],
+    "Height" : "19 cm",
+    "Last edited time" : "2025-10-04T10:51:48.644Z",
+    "Manufacturers" : "Avenger/Manfrotto",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : " 0.62 kg",
+    "Name" : "Stand Adapter Junior",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/stand-adapter-e200/",
+    "id" : "78D8A624-F3A4-48DC-9926-B6687C0535E3",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/a/d/adapter-avenger--stand-adapter-e200.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
