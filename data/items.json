@@ -7266,28 +7266,32 @@
     "Crew Required" : [
       "Rigger"
     ],
-    "DescriptionText" : "The Long John Silver Stand is a type of support equipment used in the TV and film industry to hold and stabilize lights or cameras, often featuring foam-filled wheels for easy mobility and a sturdy design ideal for various shooting environments.",
+    "DescriptionText" : "The Avenger B7057FF Long John Silver Stand is the largest stand in the Avenger offering! A heavy-duty stand used primarily for cine applications capable of supporting maximum payloads up to 120 kg/264 lbs up to a height of 570 cm/224.4 in. The winch driven hoisting system allows for easy lifting and lowering of large panel lights and HMI's. The stand includes foam filled braked wheels, 3 built-in levelling legs and swift-lift gas pistons providing the ultimate ease of set-up and take down. The stand is made of steel and aluminium and features 5 sections, 4 risers and can perform perfectly on set, in studio or in any location!",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:13:20.969Z",
+    "Height" : "Min Height: 177 cm | Maximum Height: 570 cm",
+    "Last edited time" : "2025-10-04T10:42:57.760Z",
+    "Length" : "Closed Length 224 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "85 kg",
     "Name" : "Long John Silver Stand",
     "Other Requirements" : [
 
     ],
+    "Payload" : " 120 kg",
     "Steering Mode" : [
 
     ],
-    "WebsiteURL" : "https://www.manfrotto.com/uk-en/long-john-silver-stand-with-foam-fill-wheels-b7057ff/?___store=manfrotto_uk_en",
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/long-john-silver-stand-with-foam-fill-wheels-b7057ff/",
     "id" : "237",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/b/7/b7057.jpg",
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/h/e/heavy-duty-stands-avenger-long-john-silver-stand-with-foam-fill-wheels-b7057ff.jpg",
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/s/t/stand-avenger--long-john-silver-b7057ff-2.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/h/e/heavy-duty-stands-avenger-long-john-silver-stand-with-foam-fill-wheels-b7057ff.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/b/7/b7057.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/s/t/stand-avenger--long-john-silver-b7057ff-2.jpg"
     ],
     "videoURLs" : [
 
@@ -21169,6 +21173,43 @@
     "photoURLs" : [
       "https://cdn.manfrotto.com/media/catalog/product/f/e/feet-and-wheels-avenger-wheel-set-w-brakes-a9000n.jpg",
       "https://cdn.manfrotto.com/media/catalog/product/f/e/feet-and-wheels-avenger-wheel-set-w-brakes-a9000n-01.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Lighting Stands & Equipment",
+    "Created Date" : "2025-10-04T10:43:28.224Z",
+    "Crew Required" : [
+      "Rigger"
+    ],
+    "DescriptionText" : "The Avenger B7034FF Long John Silver Junior (Jr.) Stand is a heavy-duty stand used primarily for cine applications capable of supporting maximum payloads up to 120 kg/264 lbs up to a height of 340 cm/133.9 in. The winch driven hoisting system allows for easy lifting and lowering of large panel lights and HMI's. The B7034FF has a one of the lowest loading heights of 127 cm/50 inches in the industry! The stand includes foam filled braked wheels, 1 built-in levelling leg and swift-lift gas pistons providing the ultimate ease of set-up and take down. The stand is made of steel and aluminium and features 4 sections, 3 risers and can perform perfectly on set, in studio or in any location!",
+    "Features" : [
+
+    ],
+    "Height" : "Min Height: 127 cm | Maximum Height: 340 cm",
+    "Last edited time" : "2025-10-04T10:44:38.055Z",
+    "Length" : "Closed Length 155 cm",
+    "Manufacturers" : "Manfrotto/Avenger",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : " 70 kg",
+    "Name" : "Long John Silver Junior Stand",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : " 120 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/long-john-silver-stand-with-foam-fill-wheels-b7057ff/",
+    "id" : "C78D1A8F-F918-4B07-9AB3-3E0F6D388B69",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/s/t/stand-avenger-long-john-silver-j-stand-foamfill-wheels-b7034ff.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/b/7/b7034ff-closed.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/b/7/b7034ff-wheels.jpg"
     ],
     "videoURLs" : [
 
