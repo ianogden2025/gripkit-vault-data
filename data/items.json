@@ -7303,22 +7303,26 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:13:30.711Z",
+    "Height" : "Min Height: 199 cm | Maximum Height: 557 cm",
+    "Last edited time" : "2025-10-04T10:40:41.805Z",
+    "Length" : "Closed Length 195 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : " 16.8 kg",
     "Name" : "Overhead Steel 56 CS Large Wide Base 3R 560cm/18.3'",
     "Other Requirements" : [
 
     ],
+    "Payload" : "40 kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/overhead-steel-stand-56-steel-with-wide-base-a3056cs/",
     "id" : "238",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/o/v/overhead-stand-avenger-overhead-steel-56-a3056cs.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/o/v/overhead-stand-avenger-overhead-steel-56-a3056cs.jpg"
     ],
     "videoURLs" : [
 
@@ -7334,22 +7338,26 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:13:52.859Z",
+    "Height" : "Min Height: 168 cm | Maximum Height: 350 cm",
+    "Last edited time" : "2025-10-04T10:38:25.804Z",
+    "Length" : "Closed Length 142 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : " 11.5 kg",
     "Name" : "Combo Stand 35 Silver 350cm/138in Steel Double Riser",
     "Other Requirements" : [
 
     ],
+    "Payload" : "40 kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/combo-stand-35-steel-a1035cs/",
     "id" : "239",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/c/o/combo-stand-avenger-combo-steel-stand-35-a1035cs.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/c/o/combo-stand-avenger-combo-steel-stand-35-a1035cs.jpg"
     ],
     "videoURLs" : [
 
@@ -7365,15 +7373,19 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-02T17:13:56.160Z",
+    "Height" : "Min Height: 190 cm | Maximum Height: 610 cm",
+    "Last edited time" : "2025-10-04T10:36:42.326Z",
+    "Length" : "Closed Length 225 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : " 76 kg",
     "Name" : "B150-1 Strato Safe Stand 4 Riser Hard Wheels",
     "Other Requirements" : [
 
     ],
+    "Payload" : "70 kg",
     "Steering Mode" : [
 
     ],
@@ -7396,15 +7408,19 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-02T17:13:44.081Z",
+    "Height" : "Min Height: 153 cm | Maximum Height: 296 cm",
+    "Last edited time" : "2025-10-04T10:35:53.151Z",
+    "Length" : "Closed Length 175 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "21.6 kg",
     "Name" : "Wind Up Stand CS 3.0m/9.8ft 2 Riser",
     "Other Requirements" : [
 
     ],
+    "Payload" : "30 kg ",
     "Steering Mode" : [
 
     ],
@@ -21123,6 +21139,39 @@
     ],
     "videoURLs" : [
       "https://ratworksengineering.com/wp-content/uploads/2024/08/IMG_6420-1-scaled.jpg"
+    ]
+  },
+  {
+    "Category" : "Lighting Stands & Equipment",
+    "Created Date" : "2025-10-04T10:38:37.489Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Avenger A9000N 100 mm Ø braked wheels are designed to fit chrome steel and chrome aluminium stands with square legs which are 20 mm x 20 mm (0.8 inch x 0.8 inch) or 25 mm x 25 mm (0.98 inch x 0.98 inch). This set of 3 braked wheels comes complete with the mounting hardware and the locking screw and nut. These wheels fit many stands such as Avenger combo stands and Combi Boom stands.",
+    "Features" : [
+      "Designed for square legs that measure 20x20mm or 25x25mm"
+    ],
+    "Last edited time" : "2025-10-04T10:39:51.097Z",
+    "Manufacturers" : "Avenger/Manfrotto",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Braked Wheel Set of 3",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : " 3.5 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/set-of-3-baked-wheels-a9000n/",
+    "id" : "BD2A1342-85E4-4B34-9708-82DFA3D19EB6",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/f/e/feet-and-wheels-avenger-wheel-set-w-brakes-a9000n.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/f/e/feet-and-wheels-avenger-wheel-set-w-brakes-a9000n-01.jpg"
+    ],
+    "videoURLs" : [
+
     ]
   }
 ]
