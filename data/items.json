@@ -21465,5 +21465,245 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-10-04T12:18:11.260Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Matthews CAM Tank is designed to accept all large format camera plates or direct mount to any large or medium format camera equipped with 3/8\"-16 mounting holes. The CAM Tank was designed for extremely low shots, without taking away your ability to pan and tilt the camera. It is also used to achieve dutch angles when mounted to a fluid head, or shots designed to be pointed straight down off of a fluid head on a tripod or jib. The bottom of the plate has 17 strategically placed 3/8\"-16 tapped holes spaced 1\" apart, complying with Motion Picture Industry Standards. The system is CNC machined out of 6061 T6 aluminum, stainless steel hardware. The pan bearing uses a machined polyoqymethyline, delrin disk, which self-lubricates and has an endurance rating 100x more than any plastic. The tilt system uses 4 premium NSK deep grooved ball bearings, made in Japan. Both pan and tilt functions come with brakes for lock off shots and camera safety.",
+    "Features" : [
+
+    ],
+    "Height" : "4in",
+    "Last edited time" : "2025-10-04T12:21:36.748Z",
+    "Length" : "10in",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "4.5kg",
+    "Name" : "CAM Tank",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "260º",
+    "Payload" : "82 kg",
+    "Steering Mode" : [
+
+    ],
+    "Tilt Range" : "30º",
+    "WebsiteURL" : "https://www.msegrip.com/products/the-cam-tank?srsltid=AfmBOoo0kD-zS7jizvI_oXYv-L7ZlwWldldZNLEXsRp573sAcgkpQHwv",
+    "Width" : "7in",
+    "id" : "D99A6608-058E-447E-BB56-2A8AA8925635",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/CAMTank_ProductShot.jpg?v=1729458139&width=1125 https://www.msegrip.com/cdn/shop/products/CAMTank_TiltDegrees.jpg?v=1729458139&width=1125",
+      "https://www.msegrip.com/cdn/shop/products/CAMTank_TiltDegrees.jpg?v=1729458139&width=1125",
+      "https://www.msegrip.com/cdn/shop/products/CAM_Tank_Cased.jpg?v=1729458108&width=160",
+      "https://www.msegrip.com/cdn/shop/products/CAMTank_Bottom.jpg?v=1729458135&width=1125",
+      "https://www.msegrip.com/cdn/shop/products/CAMTank_Bowl.jpg?v=1729458135&width=1125"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-10-04T12:21:49.409Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Tilting camera support for Car Rigs and vertical or horizontal positioning.\n\n",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:22:33.299Z",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "7.3kg",
+    "Name" : "2-way Tilt Plate",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "781BFDF1-3A47-4FC9-B670-2CF9BE563521",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/2waytiltplate415165.jpg?v=1728246897&width=625"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-04T12:23:42.960Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+      "Mitchell Mount System.",
+      "Eight 3/8\"-16 tapped mounts.",
+      "Machined out of 6061-T6 aluminum.",
+      "Designed to accept any medium and large format camera systems."
+    ],
+    "Height" : "1.8in",
+    "Last edited time" : "2025-10-04T12:27:02.281Z",
+    "Length" : "19 1/4in",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Dutti Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.msegrip.com/collections/camera-support/products/the-dutti-dolly",
+    "Width" : "16in Track Centres",
+    "id" : "B9730663-5E4B-4350-97F9-FFCF5AC7E18E",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/dutti-dolly-silver_395400_front-angled_01_web.jpg?v=1754426108&width=1125",
+      "https://www.msegrip.com/cdn/shop/products/dutti-dolly-rental-kit_395400K_01_web.jpg?v=1754427571&width=1125",
+      "https://www.msegrip.com/cdn/shop/products/dutti-dolly-rental-kit_B395400K_01_web.jpg?v=1729458679&width=1125"
+    ],
+    "videoURLs" : [
+      "https://vimeo.com/164334287?fl=pl&fe=sh",
+      "https://vimeo.com/223004056?fl=pl&fe=sh"
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-10-04T12:27:27.608Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Pump it until a red marker disappears to create an amazing bond to non porous surfaces.\n\n",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:31:50.094Z",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "10in Vacuum Cup with Cheese Plate",
+    "Other Requirements" : [
+
+    ],
+    "Outside Diameter" : "10in",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.msegrip.com/collections/camera-support/products/pump-cup-10-vacuum-cup-with-cheese-plate",
+    "id" : "2F9A1EC3-476E-4F2B-A2D9-CDA7BE36912A",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/vacuumcup427018.jpg?v=1728245521&width=625"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-10-04T12:28:27.174Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Pump it until a red marker disappears to create an amazing bond to non porous surfaces.\n\n",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:31:52.866Z",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "6in Vacuum Cup w/ 3/8\"-16 Studs",
+    "Other Requirements" : [
+
+    ],
+    "Outside Diameter" : "6in",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.msegrip.com/collections/camera-support/products/pump-cup-6-suction-cup-w-3-8-16-studs",
+    "id" : "775901B2-6E0C-45DE-B70B-E224F3C34CAF",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/vacuum_cup_6in_6049-100.jpg?v=1754426329&width=1125"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-10-04T12:30:25.423Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Pump until the red marker disappears to create an amazing bond to nonporous surfaces such as car hoods and doors. Use in conjunction with the 4-Way Tilt Plate for interesting camera angles and a camera tie down strap to ensure proper safety precautions.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:31:55.022Z",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "6in Vacuum Cup with 5/8\" Pin",
+    "Other Requirements" : [
+
+    ],
+    "Outside Diameter" : "6in",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.msegrip.com/collections/vacuum-cups/products/pump-cup-6-vacuum-cup-with-5-8-pin",
+    "id" : "8EA0FDAB-F302-4065-B6F9-A6C97088E651",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/8-pin_427000_03_web.jpg?v=1754426207&width=1125"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Specialist Rigging",
+    "Created Date" : "2025-10-04T12:31:11.257Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Pump until the red marker disappears to create an amazing bond to nonporous surfaces such as car hoods and doors. Use in conjunction with the 4-Way Tilt Plate for interesting camera angles and a camera tie down strap to ensure proper safety precautions.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:31:46.583Z",
+    "Manufacturers" : "Matthews Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "4.5in Vacuum Cup with 5/8\" Pin",
+    "Other Requirements" : [
+
+    ],
+    "Outside Diameter" : "4.5in",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.msegrip.com/collections/vacuum-cups/products/pump-cup-4-5-vacuum-cup-with-5-8-pin",
+    "id" : "7B9ACDFD-0871-468B-93E5-DAECD8A20D7E",
+    "photoURLs" : [
+      "https://www.msegrip.com/cdn/shop/products/vacuumcup417026.jpg?v=1728245523&width=625"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
