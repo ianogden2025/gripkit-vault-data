@@ -7084,22 +7084,26 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:11:37.624Z",
+    "Height" : "Min Height: 179 cm | Maximum Height: 450 cm",
+    "Last edited time" : "2025-10-04T10:50:02.032Z",
+    "Length" : "Closed Length 155 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : " 13 kg",
     "Name" : "Combo Stand 45 Silver 450cm/178in Steel Triple Riser",
     "Other Requirements" : [
 
     ],
+    "Payload" : " 40 kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/combo-stand-45-steel-a1045cs/",
     "id" : "231",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/c/o/combo-stands-avenger-combo-stand-45-triple-riser-chrome-steel-a1045cs.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/c/o/combo-stands-avenger-combo-stand-45-triple-riser-chrome-steel-a1045cs.jpg"
     ],
     "videoURLs" : [
 
@@ -7115,22 +7119,26 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:11:58.854Z",
+    "Height" : "Min Height: 134 cm | Maximum Height: 328 cm",
+    "Last edited time" : "2025-10-04T10:49:18.267Z",
+    "Length" : "Closed Length 134 cm",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : " 5.5 kg",
     "Name" : "C-Stand Fixed Base 40'' CS 3.3m/10.8' Base & Column",
     "Other Requirements" : [
 
     ],
+    "Payload" : " 10 kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/c-stand-33-a2033f/",
     "id" : "232",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/c/e/century-stand-avenger-c-stand-33-a2033f.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/c/e/century-stand-avenger-c-stand-33-a2033f.jpg"
     ],
     "videoURLs" : [
 
@@ -7146,12 +7154,12 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:12:14.377Z",
+    "Last edited time" : "2025-10-04T10:48:17.999Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Knuckle",
+    "Name" : "5/8in Knuckle",
     "Other Requirements" : [
 
     ],
@@ -7161,7 +7169,8 @@
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/grip-head-2-1-2-d200/",
     "id" : "233",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/g/r/grip-head-avenger-2-d200-02.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/g/r/grip-head-avenger-2-d200-01.jpg",
+      "https://cdn.manfrotto.com/media/catalog/product/g/r/grip-head-avenger-2-d200.jpg"
     ],
     "videoURLs" : [
 
@@ -7177,7 +7186,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:12:23.498Z",
+    "Last edited time" : "2025-10-04T10:47:44.469Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7192,7 +7201,7 @@
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/9-baby-plate-with-16mm-spigot-f808/",
     "id" : "234",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/p/l/plates-avenger--9inbaby-wall-plate-f808.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/p/l/plates-avenger--9inbaby-wall-plate-f808.jpg"
     ],
     "videoURLs" : [
 
@@ -7208,7 +7217,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:12:33.867Z",
+    "Last edited time" : "2025-10-04T10:47:35.300Z",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
@@ -7223,7 +7232,7 @@
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/3-baby-plate-with-16mm-spigot-f800/",
     "id" : "235",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/p/l/plates-avenger--3in-baby-wall-plate-f800-detail-01.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/p/l/plates-avenger--3in-baby-wall-plate-f800.jpg"
     ],
     "videoURLs" : [
 
@@ -7239,11 +7248,13 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T17:12:43.212Z",
+    "Last edited time" : "2025-10-04T10:47:24.365Z",
+    "Length" : " 102 cm | 40in",
     "Manufacturers" : "Manfrotto/Avenger",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "1.1 kg",
     "Name" : "Long Flag Arm",
     "Other Requirements" : [
 
@@ -7254,7 +7265,7 @@
     "WebsiteURL" : "https://www.manfrotto.com/uk-en/40-extension-grip-arm-d520l/",
     "id" : "236",
     "photoURLs" : [
-      "https://cdn.manfrotto.com/media/catalog/product/cache/d67ed91f3d3385ab51d00e2cfc284f52/e/x/extension-grip-arm-avenger-d520l.jpg"
+      "https://cdn.manfrotto.com/media/catalog/product/g/r/grip-arm-avenger-40-extension--d520.jpg"
     ],
     "videoURLs" : [
 
