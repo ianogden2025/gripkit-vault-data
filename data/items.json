@@ -21056,5 +21056,72 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-10-04T08:30:04.574Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T08:31:29.318Z",
+    "Manufacturers" : "Ratworks Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "RatGrips Handheld Bars",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "id" : "E33F7808-7C1D-40B5-BDD9-01102790FF86",
+    "photoURLs" : [
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9185-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9201-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9186-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9186-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9196-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2022/04/IMG_9199-768x768.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2023/02/RATGRIPS-07-768x768.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-10-04T08:31:35.090Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Here’s the Z plate system with ‘Drop/offset Plate’ to get your camera set up even lower. The system is modular, and built off a foundation of the quick change portrait plate and as a result gives an incredibly versatile system.",
+    "Features" : [
+      "Comprising a Portrait Plate, Offset Plate and Z-plate"
+    ],
+    "Last edited time" : "2025-10-04T08:32:55.943Z",
+    "Manufacturers" : "Ratworks Engineering",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Z Plate",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://ratworksengineering.com/product/z-plate-system/",
+    "id" : "363481F5-02EE-4DB4-91A0-DD8A836ADC75",
+    "photoURLs" : [
+      "https://ratworksengineering.com/wp-content/uploads/2024/08/z-plate-assembled.jpg",
+      "https://ratworksengineering.com/wp-content/uploads/2024/08/z-plate.jpg"
+    ],
+    "videoURLs" : [
+      "https://ratworksengineering.com/wp-content/uploads/2024/08/IMG_6420-1-scaled.jpg"
+    ]
   }
 ]
