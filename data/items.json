@@ -16114,7 +16114,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:09:55.143Z",
+    "Last edited time" : "2025-10-04T12:12:29.615Z",
     "Min. Transport Required" : [
 
     ],
@@ -21359,6 +21359,108 @@
     "id" : "6273360F-8C19-4830-B613-E692D8522ABE",
     "photoURLs" : [
       "https://cdn.manfrotto.com/media/catalog/product/a/v/avenger-lighting-supports-combo-stand-20-chrome-steel-a1020cs.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Rigging",
+    "Created Date" : "2025-10-04T12:12:31.145Z",
+    "Crew Required" : [
+      "Rigger"
+    ],
+    "DescriptionText" : "The swivel eye coupler is made from two twin couplers designed to rotate 360° for firm, quick and easy interconnection for truss, bars or pipes.",
+    "Features" : [
+      "360º Swivel"
+    ],
+    "Last edited time" : "2025-10-04T12:15:22.577Z",
+    "Manufacturers" : "Avenger",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : " 0.76 kg",
+    "Name" : "Eye Coupler Clamp LP Twin, 360° Swivel",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "300kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/lp-swivel-eye-coupler-c482/",
+    "Width" : "48-52mm Ø",
+    "id" : "81CA73B0-6A16-4846-9277-B95E7977A37D",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/c/4/c482.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Rigging",
+    "Created Date" : "2025-10-04T12:13:39.461Z",
+    "Crew Required" : [
+      "Rigger"
+    ],
+    "DescriptionText" : "This model of LP eye coupler is a twin fixed coupler at 90° that is used for interconnection of truss, bars and pipes. ",
+    "Features" : [
+      "90° fixed"
+    ],
+    "Last edited time" : "2025-10-04T12:15:38.471Z",
+    "Manufacturers" : "Avenger",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : " 0.76 kg",
+    "Name" : "Eye Coupler Clamp LP Twin, Fixed",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "300kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/lp-eye-coupler-90-fixed-c481/",
+    "Width" : "48-52mm Ø",
+    "id" : "6E8CCF71-09C5-4351-8A4F-56899DA455A9",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/c/4/c481.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Rigging",
+    "Created Date" : "2025-10-04T12:14:49.343Z",
+    "Crew Required" : [
+      "Rigger"
+    ],
+    "DescriptionText" : "The Avenger C463-1 LP Eye Coupler grid clamp comes supplied with an attached lifting ring. This popular clamp is ideal for many rigging systems, truss and entertainment configurations. TÜV and SÜD certified, you can feel confident that this cheeseboro clamp with lifting ring will perform in any demanding environment. ",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-04T12:16:23.976Z",
+    "Manufacturers" : "Avenger",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "0.55 kg",
+    "Name" : "Eye Coupler Clamp LP w/Lifting Ring",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "220kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.manfrotto.com/global-uk/lp-eye-coupler-w-lifting-ring-c463-1/",
+    "Width" : "48-52mm Ø",
+    "id" : "0C4295F9-0473-4968-BA1E-FF944702C7AC",
+    "photoURLs" : [
+      "https://cdn.manfrotto.com/media/catalog/product/a/v/avenger-lighting-lp-eye-coupler-w-lifting-ring-c463-1.jpg"
     ],
     "videoURLs" : [
 
