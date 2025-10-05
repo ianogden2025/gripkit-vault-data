@@ -22202,5 +22202,44 @@
     "videoURLs" : [
 
     ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-05T19:50:47.012Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "These days, the challenge is to do more with less -- for less. That is why we came up with the Dana Dolly.\n\nDesigned for the times where you just want to do a little 6' to 8' dolly move without a lot of setup. The Dana Dolly is easy to set up, can be used with a variety of track options, and can be supported using standard junior stands, apple boxes, or the ground, whatever the shot requires.\n\nWhether you're an established professional or just getting started, the Dana Dolly is a great solution for adding production value to your shoot. Designed to be flexible, affordable, and easy to set up. Designed by a key grip with over 20 years of experience in all types of production, the design is simple and practical. The Mitchell Mount can take all types of camera heads with available adapters.\n\nThe sixteen-wheel design with floating trucks provides a smooth glide. The track ends and center support can use any 1 1/4\" pipe as a track: aluminum, stainless steel, etc. So, if you're on location and don't want to pack track, you can stop by a home center and pick up some pipe or conduit as an alternative to the Schedule 80 aluminum pipe we recommend for everyday use.",
+    "Features" : [
+      "Fast and Portable Dolly System",
+      "Soft Polyurethane Wheels",
+      "Made in the USA"
+    ],
+    "Height" : "14in",
+    "Last edited time" : "2025-10-05T19:54:27.540Z",
+    "Length" : "24in",
+    "Manufacturers" : "Dana Dolly",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Dana Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://danadolly.com",
+    "Width" : "28in",
+    "id" : "100690C0-5D3A-4C64-A345-86A1A010C91F",
+    "photoURLs" : [
+      "https://danadolly.com/wp-content/uploads/2023/08/UniversalRentalKit1-2048x1365.jpg",
+      "https://danadolly.com/wp-content/uploads/2023/11/Dolly-solo-600x400.jpg",
+      "https://danadolly.com/wp-content/uploads/2023/11/Dolly-solo-3_4-RT-upside-down-600x400.jpg",
+      "https://danadolly.com/wp-content/uploads/2023/11/Wheels-tight-600x400.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
   }
 ]
