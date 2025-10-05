@@ -1286,37 +1286,29 @@
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The Paddle Mount is a camera support system designed for the TV and film industry, featuring aluminium speed rails and Mitchell plates for secure camera positioning and flexibility during shoots. It allows for smooth camera movements and is ideal for various filming setups.",
+    "DescriptionText" : "The Dual Pipe Paddle Mount (Mitchell) serves as an excellent mounting solution to transform the multi-function plate into a dual pipe paddle mount, allowing for the offsetting of a camera from a tripod or dolly using a custom-made camera adapter. The set comprises a Mitchell Fitting (Male) on the multi-function plate with 2\" black couplers and a Mitchell Offset Adapter (Female) with 2\" black couplers. There is added versatility to convert the Dual Pipe Paddle Mount Mitchell into a Euro base by either transitioning from a Single Pipe Paddle Mount system like KS-669 (Euro Paddle Mount) or by switching the Mitchell Offset Adapter (KS-836) to a 150mm Bowl Offset Adapter (KS-834).",
     "Features" : [
-      "☑ Mitchell male plate 233 x 233 x 20mm (9",
-      "17\" x 9",
-      "17\" x 0",
-      "78\")\n ☑ Mitchell female plate 233 x 233 x 20mm (9",
-      "17\" x 9",
-      "17\" x 0",
-      "78\") \n☑ Mitchell base 185 x 19mm (7",
-      "28\" x 0",
-      "74\")\n☑ 48.3mm (1\" 1/2 ) Aluminium speed-rail\n☑ 38 - 52mm (1\"49 - 2\"",
-      "04)  Black half coupler clamp \n☑ M12 Red Mitchell connector\n☑ TÜV approved\n☑ M5 Anti-twist \n☑ Aluminium Alloy\n☑ Black Hard Anodized\n☑ Easy tighten\n☑ M12 Shortened lobe knobs\n☑ Stainless steel \n☑ High strength aluminium alloy"
+      "Multi-Functional - can be used inisolation as cheese plates for car mounts.",
+      "Set includes male and female Mitchell fittings with 2\" black couplers"
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Length" : "1.5m",
-    "Manufacturers" : "gripfilm.com",
+    "Last edited time" : "2025-10-05T08:03:16.654Z",
+    "Manufacturers" : "Kupo",
     "Min. Transport Required" : [
 
     ],
-    "Name" : "Paddle Mount",
+    "Name" : "Twin Tube Paddle Mount",
     "Other Requirements" : [
 
     ],
     "Steering Mode" : [
 
     ],
-    "WebsiteURL" : "https://gripfilm.com/collections/paddlemount/products/48-3mm-1-1-2-speed-speed-rail-mitchell-offset",
-    "Width" : "23.3cm",
+    "WebsiteURL" : "https://www.kuposhop.com/en/product-711638/KUPO-Dual-Pipe-Paddle-Mount-Mitchell-KS-954.html",
     "id" : "39",
     "photoURLs" : [
-      "https://gripfilm.com/cdn/shop/files/U9A9814.jpg?v=1747043402&width=1280"
+      "https://www.kuposhop.com/comm/upimage/p_240206_07614.jpg",
+      "https://www.kuposhop.com/files/KS-954-b8.jpg",
+      "https://www.kuposhop.com/files/KS-954-b9.jpg"
     ],
     "videoURLs" : [
 
@@ -22071,6 +22063,47 @@
     "id" : "BFD09580-7895-4A60-9F98-28A90A056967",
     "photoURLs" : [
       "https://www.kuposhop.com/comm/upimage/p_191008_09292.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-10-05T08:04:01.326Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+      "Mitchell male plate 233 x 233 x 20mm (9,17\" x 9,17\" x 0,78\")",
+      "Mitchell female plate 233 x 233 x 20mm (9,17\" x 9,17\" x 0,78\")",
+      "Mitchell base 185 x 19mm (7,28\" x 0,74\")",
+      "48.3mm (1\" 1/2 ) Aluminium speed-rail",
+      "38 - 52mm (1\"49 - 2\",04)  Black half coupler clamp",
+      "M12 Red Mitchell connector",
+      "M5 Anti-twist",
+      "Aluminium Alloy Black Anodized",
+      "M12 Shortened lobe knobs"
+    ],
+    "Last edited time" : "2025-10-05T08:06:36.081Z",
+    "Manufacturers" : "gripfilm.com",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Twin Tube Paddle Mount",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://gripfilm.com/collections/paddlemount/products/48-3mm-1-1-2-speed-speed-rail-mitchell-offset",
+    "id" : "DEC75B1E-8F2C-4571-89BE-987AF5389A4A",
+    "photoURLs" : [
+      "https://gripfilm.com/cdn/shop/files/U9A9814.jpg?v=1747043402&width=1080",
+      "https://gripfilm.com/cdn/shop/files/U9A9813.jpg?v=1747043402&width=1080",
+      "https://gripfilm.com/cdn/shop/files/IMG_3038.jpg?v=1747043402&width=1080",
+      "https://gripfilm.com/cdn/shop/files/U9A9704.jpg?v=1747043402&width=1080"
     ],
     "videoURLs" : [
 
