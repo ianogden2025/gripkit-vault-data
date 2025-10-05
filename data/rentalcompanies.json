@@ -979,5 +979,35 @@
       "D7F26145-35E2-4604-8715-48E3EE08781D"
     ],
     "id" : "915326E1-67F5-436A-BA8A-73C826699C1C"
+  },
+  {
+    "AccentColor" : "ffffff",
+    "LogoURL" : "https://static.wixstatic.com/media/5e60f6_d699f434824d41d8819b276268238141~mv2.webp/v1/fill/w_294,h_76,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/VI%20Rental_Border.webp",
+    "Name" : "VIRental",
+    "TextColor" : "000000",
+    "WebsiteURL" : "https://www.virental.co.uk/kit",
+    "availableItemIDs" : [
+      "100690C0-5D3A-4C64-A345-86A1A010C91F",
+      "119",
+      "157",
+      "158",
+      "161",
+      "171",
+      "184",
+      "185",
+      "187",
+      "222",
+      "395",
+      "396",
+      "397",
+      "398",
+      "448",
+      "50792D0D-75C2-4C9A-BA28-EADA2D378168",
+      "73",
+      "99346885-3C5E-48B3-AEC3-B459C4216B9B",
+      "CD583899-DD39-4856-B102-0324767D6B43",
+      "D7F26145-35E2-4604-8715-48E3EE08781D"
+    ],
+    "id" : "8679A876-5D7D-48D4-A4FF-1606FDC6E7C7"
   }
 ]
