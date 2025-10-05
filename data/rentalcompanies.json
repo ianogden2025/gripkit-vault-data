@@ -837,5 +837,23 @@
       "64"
     ],
     "id" : "C6B659E4-8B77-4B20-A450-CC4809C27750"
+  },
+  {
+    "AccentColor" : "979797",
+    "Address" : "Battersea Studios 80-82 Silverthorne Road London, SW8 3HE",
+    "ContactEmail" : "bulbrentals@gmail.com ",
+    "LogoURL" : "https://images.squarespace-cdn.com/content/v1/63936321ad4f1a7c8e5384d6/1dc40a36-45e5-4c89-bac5-a7befbaf89af/Screenshot+2024-07-27+at+22.36.28.png?format=1500w",
+    "Name" : "Bulb",
+    "PhoneNumber" : "07456926152",
+    "TextColor" : "ffffff",
+    "WebsiteURL" : "https://bulbrentals.co.uk/grip/camera-support",
+    "availableItemIDs" : [
+      "100690C0-5D3A-4C64-A345-86A1A010C91F",
+      "216",
+      "31E2256A-9DA7-45BF-A624-DCF8A42C9322",
+      "448",
+      "662E1F82-188B-40D4-BB3C-0FEBE6D739E2"
+    ],
+    "id" : "8A259D64-B217-4C70-865E-B935AE64C952"
   }
 ]
