@@ -1,7 +1,6 @@
 [
   {
     "AccentColor" : "ffffff",
-    "ContactEmail" : "info@panavision.co.uk",
     "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Kfyu7bl2xENZPU6VshW18XAfebnAZvv6dg&s",
     "Name" : "Panavision",
     "TextColor" : "D2232A",
@@ -31,11 +30,20 @@
     "branches" : [
       {
         "address" : "Unit 49, Bristol Rd Greenford London, United Kingdom UB6 8UP",
+        "emails" : [
+          "info@panavision.co.uk"
+        ],
         "id" : "93D70DFD-97E7-434E-8600-82B379F47DA1",
-        "name" : "Grip & Remote Systems London"
+        "name" : "Grip & Remote Systems London",
+        "phones" : [
+          "+44 20 8839 7333"
+        ]
       },
       {
         "address" : "Loughside Industrial Park Unit 9 Dargan Crescent Belfast, Northern Ireland GB BT3 9JA",
+        "emails" : [
+          "belfast@panavision.co.uk"
+        ],
         "id" : "8877A5FA-39F0-4E35-9F41-996FF1CDB5E1",
         "name" : "Belfast",
         "phones" : [
@@ -44,17 +52,29 @@
       },
       {
         "address" : "Capital Business Park Unit J2 Cardiff, GB CF3 2PX",
+        "emails" : [
+          "info@panavision.co.uk"
+        ],
         "id" : "BD14857E-547E-4FEA-BB17-63195D821E33",
-        "name" : "Cardiff"
+        "name" : "Cardiff",
+        "phones" : [
+          "+44 029 2240 2600"
+        ]
       },
       {
         "address" : "1B, Space Studios Vaughan Street Manchester, GB M12 5FQ",
+        "emails" : [
+          "manchester@panavision.co.uk"
+        ],
         "id" : "A793540A-7794-4570-9E94-DDEFE2E4C311",
-        "name" : "Manchester"
+        "name" : "Manchester",
+        "phones" : [
+          "+44 0161 872 4766"
+        ]
       }
     ],
     "emails" : [
-      "info@panavision.co.uk"
+
     ],
     "id" : "387C33CF-FDC8-4BBB-95DE-BC1CD2B77B66",
     "phones" : [
