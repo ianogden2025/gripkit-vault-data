@@ -12112,6 +12112,7 @@
     ]
   },
   {
+    "Arm Travel" : "38ft 4in",
     "Category" : "Telescopic Cranes",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
@@ -12122,89 +12123,125 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Fulcrum to Long End" : "50ft",
+    "Fulcrum to Rear" : "8ft 6in",
+    "Fulcrum to Short End" : "11ft 8in",
+    "Height" : "6ft 5in",
+    "Last edited time" : "2025-10-06T14:05:17.469Z",
+    "Length" : "18ft 1in",
     "Manufacturers" : "MovieBird",
+    "Max. Lens Height (Underslung)" : "46ft 9in",
+    "Max. Weight" : "2750kg",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "930kg",
     "Name" : "MB50XL",
     "Other Requirements" : [
       "Comms",
       "Stabilised Remote Head"
     ],
+    "Payload" : "80kg",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://moviebird.com/cranes-2/mb50xl/",
+    "Width" : "5ft",
     "id" : "381",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb50xl.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb50xl.png",
+      "https://moviebird.com/wp-content/uploads/2023/09/MB50XL-Specs.png"
     ],
     "videoURLs" : [
 
     ]
   },
   {
+    "Arm Travel" : "49ft",
     "Category" : "Telescopic Cranes",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "2 x Crane Techs (lvl 2)",
       "2x Crane Grips (lvl 3)"
     ],
-    "DescriptionText" : "The MB62 is a telescopic crane used in the TV and film industry for capturing dynamic shots from various heights and angles. It requires a crew of specialized technicians and grips to operate effectively, and it is equipped with communication systems and a stabilized remote head for precise control during filming.",
+    "DescriptionText" : "The MB62 is an extremely versatile telescopic camera crane suitable for working on any film set, TV studio or sports arena. It is easy to operate and will carry all types of camera packages up to 90 kg in weight. Despite the MB 62’s reach of 62 ft plus it can be transported in a standard 16 ton truck or a bespoke trailer.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Fulcrum to Long End" : "62ft",
+    "Fulcrum to Rear" : "11ft 5in",
+    "Fulcrum to Short End" : "11ft 7in",
+    "Height" : "5ft 7in",
+    "Last edited time" : "2025-10-06T14:10:42.977Z",
+    "Length" : "23ft",
     "Manufacturers" : "MovieBird",
+    "Max. Weight" : "4580kg",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "1400kg (arm only)",
     "Name" : "MB62",
     "Other Requirements" : [
       "Comms",
       "Stabilised Remote Head"
     ],
+    "Payload" : "90kg",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "60º",
     "WebsiteURL" : "https://moviebird.com/cranes-2/mb62/",
+    "Width" : "5ft 4in",
     "id" : "382",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb62.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb62.png",
+      "https://moviebird.com/wp-content/uploads/2019/11/MB62Specification.jpg"
     ],
     "videoURLs" : [
       "https://youtu.be/lUdUmgj_zEA"
     ]
   },
   {
+    "Arm Travel" : "41ft 3in",
     "Category" : "Telescopic Cranes",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "2 x Crane Techs (lvl 2)",
       "2x Crane Grips (lvl 3)"
     ],
-    "DescriptionText" : "The MB52 is a telescopic crane used in the TV and film industry for capturing dynamic shots from various heights and angles. It requires a crew of specialized technicians and grips to operate and is equipped with a stabilized remote head for smooth camera movement.",
+    "DescriptionText" : "The MB52 is an extended version of the MB45, it is mostly suitable for TV studio as this cranes’ maximum load is up to 25kg. MB52 has the same dolly ‘footprint’ as the smaller MB35 crane. Owing to the cranes’ small weight and size when disassembled, can be transported in a standard 16 ton truck or a bespoke trailer.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Fulcrum to Long End" : "51ft 5in",
+    "Fulcrum to Rear" : "8ft 2in",
+    "Fulcrum to Short End" : "9ft 5in",
+    "Height" : "6ft 7in",
+    "Last edited time" : "2025-10-06T14:07:57.155Z",
+    "Length" : "17ft 7in",
     "Manufacturers" : "MovieBird",
+    "Max. Lens Height (Underslung)" : "37ft 2in",
+    "Max. Weight" : "1700kg",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "680 kg",
     "Name" : "MB52",
     "Other Requirements" : [
       "Comms",
       "Stabilised Remote Head"
     ],
+    "Payload" : "25kg",
+    "Speed" : "2 m/s",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://moviebird.com/cranes-2/mb52/",
+    "Width" : "5ft 1in",
     "id" : "383",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb52.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb52.png",
+      "https://moviebird.com/wp-content/uploads/2023/12/MB52-Specification-1.jpg"
     ],
     "videoURLs" : [
 
