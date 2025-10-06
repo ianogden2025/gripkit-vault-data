@@ -2384,7 +2384,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-06T13:42:18.654Z",
     "Manufacturers" : "MovieBird",
     "Min. Transport Required" : [
 
@@ -2399,13 +2399,15 @@
     "WebsiteURL" : "https://moviebird.com/cranes-2/crane-mb35-3/",
     "id" : "70",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb45.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb45.png",
+      "https://moviebird.com/wp-content/uploads/2022/01/MB35-spec.png"
     ],
     "videoURLs" : [
 
     ]
   },
   {
+    "Arm Travel" : "11ft 8in",
     "Category" : "Telescopic Cranes",
     "Created Date" : "January 17, 2025 12:59 PM",
     "Crew Required" : [
@@ -2416,11 +2418,15 @@
     "Features" : [
 
     ],
-    "Height" : "6ft 2in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Length" : "23ft",
+    "Fulcrum to Long End" : "16ft 4in",
+    "Fulcrum to Rear" : "6ft 6in",
+    "Fulcrum to Short End" : "4ft 8in",
+    "Height" : "6ft 3in",
+    "Last edited time" : "2025-10-06T13:42:01.436Z",
+    "Length" : "11ft 3in",
     "Manufacturers" : "MovieBird",
-    "Max. Lens Height (Overslung)" : "22ft 6in",
+    "Max. Lens Height (Overslung)" : "25ft 9in ",
+    "Max. Lens Height (Underslung)" : "22ft 6in",
     "Max. Weight" : "700kg (weighted)",
     "Min. Transport Required" : [
 
@@ -2436,11 +2442,16 @@
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "55º",
     "WebsiteURL" : "https://moviebird.com/cranes-2/mb17/",
     "Width" : "4ft 7in",
     "id" : "71",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb17.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb17.png",
+      "https://moviebird.com/wp-content/uploads/2019/12/MovieBird_MB17_photo-02.jpg",
+      "https://moviebird.com/wp-content/uploads/2019/12/MovieBird_MB17_photo-01.jpg",
+      "https://moviebird.com/wp-content/uploads/2019/12/MovieBird_MB17_photo-03.jpg",
+      "https://moviebird.com/wp-content/uploads/2018/09/MB17Specification-2.jpg"
     ],
     "videoURLs" : [
 
@@ -11971,7 +11982,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-06T13:43:34.906Z",
     "Manufacturers" : "MovieBird",
     "Min. Transport Required" : [
       "Truck"
@@ -11987,7 +11998,8 @@
     "WebsiteURL" : "https://moviebird.com/cranes-2/mb24/",
     "id" : "378",
     "photoURLs" : [
-      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb24.png"
+      "https://moviebird.com/wp-content/uploads/2018/09/slider-produkty_mb24.png",
+      "https://moviebird.com/wp-content/uploads/2024/04/MB24Spec-scaled.jpg"
     ],
     "videoURLs" : [
 
