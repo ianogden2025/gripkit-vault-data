@@ -27,59 +27,7 @@
       "813F1638-6868-4F11-93B9-F0EBA99BED45",
       "A0672819-85B0-4007-A863-B26496F84CB5"
     ],
-    "branches" : [
-      {
-        "address" : "Unit 49, Bristol Rd Greenford London, United Kingdom UB6 8UP",
-        "emails" : [
-          "info@panavision.co.uk"
-        ],
-        "id" : "93D70DFD-97E7-434E-8600-82B379F47DA1",
-        "name" : "Grip & Remote Systems London",
-        "phones" : [
-          "+44 20 8839 7333"
-        ]
-      },
-      {
-        "address" : "Loughside Industrial Park Unit 9 Dargan Crescent Belfast, Northern Ireland GB BT3 9JA",
-        "emails" : [
-          "belfast@panavision.co.uk"
-        ],
-        "id" : "8877A5FA-39F0-4E35-9F41-996FF1CDB5E1",
-        "name" : "Belfast",
-        "phones" : [
-          "+44 2895 313205"
-        ]
-      },
-      {
-        "address" : "Capital Business Park Unit J2 Cardiff, GB CF3 2PX",
-        "emails" : [
-          "info@panavision.co.uk"
-        ],
-        "id" : "BD14857E-547E-4FEA-BB17-63195D821E33",
-        "name" : "Cardiff",
-        "phones" : [
-          "+44 029 2240 2600"
-        ]
-      },
-      {
-        "address" : "1B, Space Studios Vaughan Street Manchester, GB M12 5FQ",
-        "emails" : [
-          "manchester@panavision.co.uk"
-        ],
-        "id" : "A793540A-7794-4570-9E94-DDEFE2E4C311",
-        "name" : "Manchester",
-        "phones" : [
-          "+44 0161 872 4766"
-        ]
-      }
-    ],
-    "emails" : [
-
-    ],
-    "id" : "387C33CF-FDC8-4BBB-95DE-BC1CD2B77B66",
-    "phones" : [
-
-    ]
+    "id" : "387C33CF-FDC8-4BBB-95DE-BC1CD2B77B66"
   },
   {
     "AccentColor" : "ffffff",
@@ -92,13 +40,7 @@
       "76",
       "F3562AAC-BBB1-4210-9F36-5BF617352DCC"
     ],
-    "emails" : [
-
-    ],
-    "id" : "A54B8B39-03EE-4547-B355-6D9B26D81383",
-    "phones" : [
-
-    ]
+    "id" : "A54B8B39-03EE-4547-B355-6D9B26D81383"
   },
   {
     "AccentColor" : "434B52",
@@ -134,13 +76,7 @@
       "A2B199C3-6DDC-4E38-86B8-F12A51234EBA",
       "F3562AAC-BBB1-4210-9F36-5BF617352DCC"
     ],
-    "emails" : [
-
-    ],
-    "id" : "54A3476A-2ACD-4CCC-BC6A-E7288518AF3F",
-    "phones" : [
-
-    ]
+    "id" : "54A3476A-2ACD-4CCC-BC6A-E7288518AF3F"
   },
   {
     "AccentColor" : "ffffff",
@@ -164,13 +100,7 @@
       "A0672819-85B0-4007-A863-B26496F84CB5",
       "E45A49B7-6782-42F2-B847-D3D942A06C4E"
     ],
-    "emails" : [
-
-    ],
-    "id" : "5C80DD60-85F0-4916-B4D8-683E600F0D84",
-    "phones" : [
-
-    ]
+    "id" : "5C80DD60-85F0-4916-B4D8-683E600F0D84"
   },
   {
     "AccentColor" : "262626",
@@ -207,13 +137,7 @@
       "A0672819-85B0-4007-A863-B26496F84CB5",
       "A5CD2587-AF50-4BCE-974D-E79A71633102"
     ],
-    "emails" : [
-      "info@thegripcompany.co.uk"
-    ],
-    "id" : "8BCF167D-89F9-4493-AD56-ED2CAD8AE346",
-    "phones" : [
-      "01753 865566"
-    ]
+    "id" : "8BCF167D-89F9-4493-AD56-ED2CAD8AE346"
   },
   {
     "AccentColor" : "000000",
@@ -238,13 +162,7 @@
       "612F1224-9134-4EE1-B34A-8AB5925DFFEC",
       "A5CD2587-AF50-4BCE-974D-E79A71633102"
     ],
-    "emails" : [
-
-    ],
-    "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB",
-    "phones" : [
-
-    ]
+    "id" : "984E88CE-B109-422F-8092-9ACA5A92B8FB"
   },
   {
     "AccentColor" : "7AF5F1",
@@ -285,13 +203,7 @@
       "A0672819-85B0-4007-A863-B26496F84CB5",
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB"
     ],
-    "emails" : [
-      "info@emmyland.com"
-    ],
-    "id" : "7A3ECC23-C0B1-4EE9-A5BF-542BE731AAB2",
-    "phones" : [
-      "+44 (0) 020 3667 2613"
-    ]
+    "id" : "7A3ECC23-C0B1-4EE9-A5BF-542BE731AAB2"
   },
   {
     "AccentColor" : "000000",
@@ -343,13 +255,7 @@
       "A0672819-85B0-4007-A863-B26496F84CB5",
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB"
     ],
-    "emails" : [
-
-    ],
-    "id" : "FF73D51D-FCD3-4EB1-99A2-45B301FC5C19",
-    "phones" : [
-
-    ]
+    "id" : "FF73D51D-FCD3-4EB1-99A2-45B301FC5C19"
   },
   {
     "AccentColor" : "000000",
@@ -392,13 +298,7 @@
       "430",
       "474"
     ],
-    "emails" : [
-      "enquiries@chapmanleonard.com"
-    ],
-    "id" : "DF8C74B1-AAFC-49F2-89AC-E7CDD6F44C09",
-    "phones" : [
-      "+44 (0)1727 838424"
-    ]
+    "id" : "DF8C74B1-AAFC-49F2-89AC-E7CDD6F44C09"
   },
   {
     "AccentColor" : "FFFFFF",
@@ -446,31 +346,7 @@
       "CD76DCB7-9886-42B8-B516-FA9308C1232F",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
-    "emails" : [
-
-    ],
-    "id" : "5C0BA726-C165-40DA-AC44-4B62AD7C9118",
-    "phones" : [
-
-    ]
-  },
-  {
-    "AccentColor" : "ffffff",
-    "LogoURL" : "https://images.squarespace-cdn.com/content/v1/5b574a358f51306798f41d56/1536939315913-7CI3UZT1HHWUXET8FY0N/LogoRGB_24_7drama.png?format=1500w",
-    "Name" : "24-7 Drama",
-    "PhoneNumber" : "+44 (0) 208 752 3190",
-    "TextColor" : "FFD304",
-    "WebsiteURL" : "https://www.24-7drama.com",
-    "availableItemIDs" : [
-
-    ],
-    "emails" : [
-
-    ],
-    "id" : "E964C084-C941-4920-8A15-A770BEFA3BA9",
-    "phones" : [
-      "+44 (0) 208 752 3190"
-    ]
+    "id" : "5C0BA726-C165-40DA-AC44-4B62AD7C9118"
   },
   {
     "AccentColor" : "A7A6AB",
@@ -513,13 +389,7 @@
       "CD76DCB7-9886-42B8-B516-FA9308C1232F",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
-    "emails" : [
-      "hire@aimimage.com"
-    ],
-    "id" : "9E101371-2773-409C-853A-AFFB65E04993",
-    "phones" : [
-      "+4402073912650"
-    ]
+    "id" : "9E101371-2773-409C-853A-AFFB65E04993"
   },
   {
     "Address" : "11 Fairley Street Glasgow, Scotland G51 2SN",
@@ -534,13 +404,7 @@
       "476",
       "50792D0D-75C2-4C9A-BA28-EADA2D378168"
     ],
-    "emails" : [
-      "info@progressivebroadcast.com"
-    ],
-    "id" : "FA1B5E32-52E9-47F4-B386-588E4162EBB7",
-    "phones" : [
-      "01414202053"
-    ]
+    "id" : "FA1B5E32-52E9-47F4-B386-588E4162EBB7"
   },
   {
     "AccentColor" : "176F91",
@@ -573,13 +437,7 @@
       "CD583899-DD39-4856-B102-0324767D6B43",
       "F3562AAC-BBB1-4210-9F36-5BF617352DCC"
     ],
-    "emails" : [
-
-    ],
-    "id" : "1D6CF115-599D-4B06-AAAC-7C615B83498D",
-    "phones" : [
-
-    ]
+    "id" : "1D6CF115-599D-4B06-AAAC-7C615B83498D"
   },
   {
     "AccentColor" : "ffffff",
@@ -648,13 +506,7 @@
       "F6705B84-B188-4162-89CD-ED289F6D1E2F",
       "FA16692E-919E-4E8F-B0FB-1BC9B85288CB"
     ],
-    "emails" : [
-
-    ],
-    "id" : "FD1EF47C-7484-4CB9-890A-9F74D92190FE",
-    "phones" : [
-      "08081750215"
-    ]
+    "id" : "FD1EF47C-7484-4CB9-890A-9F74D92190FE"
   },
   {
     "AccentColor" : "000000",
@@ -708,13 +560,7 @@
       "308",
       "309"
     ],
-    "emails" : [
-      "action@bickers.co.uk"
-    ],
-    "id" : "522F4F3F-51F3-45CC-AE94-45E7FAE8B8EC",
-    "phones" : [
-      "01449 761300"
-    ]
+    "id" : "522F4F3F-51F3-45CC-AE94-45E7FAE8B8EC"
   },
   {
     "AccentColor" : "000000",
@@ -743,13 +589,7 @@
       "414",
       "415"
     ],
-    "emails" : [
-      "info@99cars.co.uk"
-    ],
-    "id" : "68141E81-A2D4-4CB7-B41F-A2AF4C9B5430",
-    "phones" : [
-      "01923 266 373"
-    ]
+    "id" : "68141E81-A2D4-4CB7-B41F-A2AF4C9B5430"
   },
   {
     "AccentColor" : "ffffff",
@@ -778,13 +618,7 @@
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
-    "emails" : [
-
-    ],
-    "id" : "7027D462-5B79-416A-8E19-B06459D4F515",
-    "phones" : [
-      "Leeds: 0113 222 8222 | Manchester: 0161 952 1999 | London: 0207 157 3330"
-    ]
+    "id" : "7027D462-5B79-416A-8E19-B06459D4F515"
   },
   {
     "AccentColor" : "000000",
@@ -796,13 +630,7 @@
       "370",
       "373"
     ],
-    "emails" : [
-
-    ],
-    "id" : "4E791E97-95C4-47F2-BD15-9FD144B1D896",
-    "phones" : [
-
-    ]
+    "id" : "4E791E97-95C4-47F2-BD15-9FD144B1D896"
   },
   {
     "AccentColor" : "ffffff",
@@ -838,13 +666,7 @@
       "63",
       "7FA2724A-5F92-42B7-994E-96B3B0468C8D"
     ],
-    "emails" : [
-      "info@cineworks.tv"
-    ],
-    "id" : "D965FD6B-3192-4656-B03D-D6F6B1B1C74F",
-    "phones" : [
-      "01494 880 659"
-    ]
+    "id" : "D965FD6B-3192-4656-B03D-D6F6B1B1C74F"
   },
   {
     "AccentColor" : "000000",
@@ -868,13 +690,7 @@
       "38",
       "73"
     ],
-    "emails" : [
-      "contact@feralequipment.com"
-    ],
-    "id" : "AC522C4E-829F-4C83-BBB1-AACD75FEA440",
-    "phones" : [
-      "0207 625 9829"
-    ]
+    "id" : "AC522C4E-829F-4C83-BBB1-AACD75FEA440"
   },
   {
     "AccentColor" : "ffffff",
@@ -930,13 +746,7 @@
       "C09D8D02-6574-4225-9DB4-2C1FED1658C7",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
-    "emails" : [
-      "adam@independentgrip.co.uk"
-    ],
-    "id" : "718F12E1-E354-4348-AE9E-FB94426CD6F0",
-    "phones" : [
-      "01932 242910"
-    ]
+    "id" : "718F12E1-E354-4348-AE9E-FB94426CD6F0"
   },
   {
     "AccentColor" : "ffffff",
@@ -960,13 +770,7 @@
       "60",
       "61"
     ],
-    "emails" : [
-      " +44 (0)1342 838015 rental@mrmoco.com"
-    ],
-    "id" : "3AC4BB77-8561-47AC-8FCE-AD1CC6287A28",
-    "phones" : [
-      " +44 (0)1342 838015"
-    ]
+    "id" : "3AC4BB77-8561-47AC-8FCE-AD1CC6287A28"
   },
   {
     "AccentColor" : "12181F",
@@ -988,13 +792,7 @@
       "429",
       "431"
     ],
-    "emails" : [
-
-    ],
-    "id" : "6D65957C-812D-4EBC-A47F-B8381035ADC3",
-    "phones" : [
-      "Manchester : 0161 399 0453  | Glasgow : 0141 459 1695"
-    ]
+    "id" : "6D65957C-812D-4EBC-A47F-B8381035ADC3"
   },
   {
     "AccentColor" : "000000",
@@ -1008,13 +806,7 @@
       "338",
       "339"
     ],
-    "emails" : [
-      "info@motionremote.co.uk"
-    ],
-    "id" : "2B48245D-CABA-4725-A99E-F9986C95FFC4",
-    "phones" : [
-      "+44 (0)20 8895 2047"
-    ]
+    "id" : "2B48245D-CABA-4725-A99E-F9986C95FFC4"
   },
   {
     "AccentColor" : "000000",
@@ -1031,13 +823,7 @@
       "63",
       "64"
     ],
-    "emails" : [
-
-    ],
-    "id" : "C6B659E4-8B77-4B20-A450-CC4809C27750",
-    "phones" : [
-      "07595673190"
-    ]
+    "id" : "C6B659E4-8B77-4B20-A450-CC4809C27750"
   },
   {
     "AccentColor" : "979797",
@@ -1055,13 +841,7 @@
       "448",
       "662E1F82-188B-40D4-BB3C-0FEBE6D739E2"
     ],
-    "emails" : [
-      "bulbrentals@gmail.com "
-    ],
-    "id" : "8A259D64-B217-4C70-865E-B935AE64C952",
-    "phones" : [
-      "07456926152"
-    ]
+    "id" : "8A259D64-B217-4C70-865E-B935AE64C952"
   },
   {
     "AccentColor" : "000000",
@@ -1098,13 +878,7 @@
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
-    "emails" : [
-      "bookings@hawklondon.com"
-    ],
-    "id" : "24CD9393-76F8-4362-B912-449704F4E042",
-    "phones" : [
-      "+44 2038161776"
-    ]
+    "id" : "24CD9393-76F8-4362-B912-449704F4E042"
   },
   {
     "AccentColor" : "ffffff",
@@ -1142,13 +916,7 @@
       "99346885-3C5E-48B3-AEC3-B459C4216B9B",
       "D7F26145-35E2-4604-8715-48E3EE08781D"
     ],
-    "emails" : [
-      "hire@genesishire.com"
-    ],
-    "id" : "E5527B0E-AE33-4979-98B9-90C1BB6AAE1B",
-    "phones" : [
-      "020 3268 2424  "
-    ]
+    "id" : "E5527B0E-AE33-4979-98B9-90C1BB6AAE1B"
   },
   {
     "AccentColor" : "FFFFFF",
@@ -1164,13 +932,7 @@
       "398",
       "7FA2724A-5F92-42B7-994E-96B3B0468C8D"
     ],
-    "emails" : [
-
-    ],
-    "id" : "8B3A2503-4298-4A3D-8F50-24768AD7A6E7",
-    "phones" : [
-
-    ]
+    "id" : "8B3A2503-4298-4A3D-8F50-24768AD7A6E7"
   },
   {
     "AccentColor" : "1A2B54",
@@ -1203,13 +965,7 @@
       "A2AD3900-17EA-410A-A743-EE6B650660DD",
       "D7F26145-35E2-4604-8715-48E3EE08781D"
     ],
-    "emails" : [
-      " +44 (0)20 7407 6090"
-    ],
-    "id" : "915326E1-67F5-436A-BA8A-73C826699C1C",
-    "phones" : [
-      " +44 (0)20 7407 6090"
-    ]
+    "id" : "915326E1-67F5-436A-BA8A-73C826699C1C"
   },
   {
     "AccentColor" : "ffffff",
@@ -1239,12 +995,6 @@
       "CD583899-DD39-4856-B102-0324767D6B43",
       "D7F26145-35E2-4604-8715-48E3EE08781D"
     ],
-    "emails" : [
-
-    ],
-    "id" : "8679A876-5D7D-48D4-A4FF-1606FDC6E7C7",
-    "phones" : [
-
-    ]
+    "id" : "8679A876-5D7D-48D4-A4FF-1606FDC6E7C7"
   }
 ]
