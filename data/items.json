@@ -2221,8 +2221,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -6470,8 +6470,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Filmair)",
+    "Last edited time" : "2025-10-09T21:21:16.880Z",
+    "Manufacturers" : "Filmair",
     "Min. Transport Required" : [
       "Truck"
     ],
@@ -12257,9 +12257,9 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "76in",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -12292,8 +12292,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -12613,9 +12613,9 @@
 
     ],
     "Height" : "8in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:25:18.864Z",
     "Length" : "12in",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -12647,9 +12647,9 @@
 
     ],
     "Height" : "4in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "12in",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -12681,9 +12681,9 @@
 
     ],
     "Height" : "1in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "12in",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -12715,9 +12715,9 @@
 
     ],
     "Height" : "2in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "12in",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -15848,14 +15848,18 @@
     "Crew Required" : [
       "Dolly Grip (lvl 2)"
     ],
-    "DescriptionText" : "The Prosup Laptop Dolly is a specialized equipment cart used in the TV and film industry to smoothly transport laptops and other gear on set. It allows for easy maneuverability during filming, ensuring that equipment is readily accessible while minimizing disruptions to the production process.",
+    "DescriptionText" : "Laptop dolliy incl. pneumatic wheels, steering rod, track wheels, push bar, tripod tie downs, 3x 100mm bowls, Euro adaptera and Inlay (PSLTD1)\nDesigned specifically by PROSUP for the Video / Film maker, who requires mobility with capacity and strength, the laptop dolly succeeds with this requirement.\n\nProsup designed the LapTop Dolly specifically for small Broadcast / Video teams. The dolly is made of CNC engineered aluminium and stainless steel. Camerman can mount the E-Jib onto the Dolly.\n\nThe original dolly size is 90x70cm (35.5x27.5\") and thus it clears any door opening.  The ingenious folding mechanism allows the dolly to minimize in size and to fit a Pelicase.\n\nThe dolly comes with 3 pre-mounted 100mm bowls for low shots. Straight travel shots are secured by a track locking mechanism.\n\nThe LapTop Dolly can take a camera person with the swivel support or a tripod with the tripod tie downs or a pedatsal column via specially made adapters.\n\nThe turnstile can be mounted to facilitate a swivel of 360° around the centre post. Besides the standard centre position, the swivel support unit can also be mounted offset thus allowing the camera person for additional moving space.The riser sits on the Euro mount of the swivel and comes with a 100mm bowl on the top. Via the 100 to 150mm adapter, bigger fluid heads can also be mounted.\n\nThe riser and the seat can be extended and locked to the most convenient position. Pedestal Columns Removable columns of the most popular pedestals can also be fitted on the LapTop Dolly. The necessary adapters and receptacles are available in the Prosup accessory range. Thus the dolly is a great solution for any OB work with diffcult floor conditions. The packing concept of the LapTop Dolly is really unique.\n\nOn three levels all necessary accessories can be stored away:\n\n- Bottom: air tyre set and tie downs for rock-solid lock of a tripod to the dolly\n\n- Middle: track wheel set for straight and curved tracks, push bar to be mounted on either side of the dolly, steering lock for track mode and straight ahead travel, space for Euro mount and air pump.\n\n- Top: the folded LapTop Dolly platform\n\nFully loaded and including the case the unit comes to over 40kg (90lbs) while the dolly itself weighs in with a mere 15kg (33lbs)",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-09T21:54:59.946Z",
+    "Length" : "70cm",
+    "Manufacturers" : "Prosup",
+    "Max. Weight" : "40kg",
     "Min. Transport Required" : [
 
     ],
+    "Min. Weight" : "15kg",
     "Name" : "Prosup Laptop Dolly",
     "Other Requirements" : [
 
@@ -15863,6 +15867,8 @@
     "Steering Mode" : [
 
     ],
+    "WebsiteURL" : "https://prosup.com/product/laptop-dolly-2/",
+    "Width" : "90cm",
     "id" : "491",
     "photoURLs" : [
       "https://prosup.com/wp-content/uploads/2024/10/LTD-pneumatic-wheels-no830.png",
@@ -16947,8 +16953,8 @@
     "Features" : [
       "Available in 2in and 4in"
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
-    "Manufacturers" : "Matthews Studio Equipment Inc.",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -19279,7 +19285,8 @@
 
     ],
     "Height" : "Max Working Height: 12m | Max Platform Height: 10m ",
-    "Last edited time" : "2025-10-01T15:02:53.927Z",
+    "Last edited time" : "2025-10-09T21:21:58.509Z",
+    "Manufacturers" : "Dingli",
     "Min. Transport Required" : [
 
     ],
@@ -19824,8 +19831,8 @@
 
     ],
     "Height" : "Working Height: 15.7 m ",
-    "Last edited time" : "2025-10-01T15:26:24.794Z",
-    "Manufacturers" : "Dingl",
+    "Last edited time" : "2025-10-09T21:22:02.570Z",
+    "Manufacturers" : "Dingli",
     "Min. Transport Required" : [
 
     ],
@@ -21558,9 +21565,9 @@
 
     ],
     "Height" : "4in",
-    "Last edited time" : "2025-10-04T12:21:36.748Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "10in",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21599,8 +21606,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-04T12:22:33.299Z",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21633,9 +21640,9 @@
       "Designed to accept any medium and large format camera systems."
     ],
     "Height" : "1.8in",
-    "Last edited time" : "2025-10-04T12:27:02.281Z",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
     "Length" : "19 1/4in",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21669,8 +21676,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-04T12:31:50.094Z",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21701,8 +21708,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-04T12:31:52.866Z",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21733,8 +21740,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-04T12:31:55.022Z",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -21765,8 +21772,8 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-04T12:31:46.583Z",
-    "Manufacturers" : "Matthews Studio Equipment",
+    "Last edited time" : "2025-10-09T21:25:18.744Z",
+    "Manufacturers" : "Matthews Studio Equipment Inc",
     "Min. Transport Required" : [
 
     ],
@@ -22564,6 +22571,520 @@
       "https://static.wixstatic.com/media/3e3f04_8f98d4ee1f3b47d39b6f6233c95377bf~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_8f98d4ee1f3b47d39b6f6233c95377bf~mv2.jpg",
       "https://static.wixstatic.com/media/3e3f04_5eee4b35d9ea4c1f8a19e64d8f8cbcdb~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_5eee4b35d9ea4c1f8a19e64d8f8cbcdb~mv2.jpg",
       "https://static.wixstatic.com/media/3e3f04_0b59233e1f0d40aba2d3d9748ac79ce8~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_0b59233e1f0d40aba2d3d9748ac79ce8~mv2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-10-09T21:26:20.842Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:39:31.698Z",
+    "Length" : "2ft",
+    "Manufacturers" : "Modern Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "2FT Camera Slider with 360º Swivel Base",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://modernstudio.com/products/2-camera-slider-with-360-swivel-base?variant=32683564695633",
+    "id" : "03F99C52-BFE9-4596-80B6-6E7411EEB881",
+    "photoURLs" : [
+      "https://modernstudio.com/cdn/shop/products/030-5702_eee313b3-458f-4e76-bc99-2ffe299c6e19.jpg?v=1635370196",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691334/image/big-71f90f139dd64e9d82fb179d98c6f229.jpg",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691333/image/big-8b2bd138f9b41be7ee2478ed9b7163ec.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-10-09T21:30:08.239Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:39:34.080Z",
+    "Length" : "3ft",
+    "Manufacturers" : "Modern Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "3ft Camera Slider with 360º Swivel Base",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://modernstudio.com/products/2-camera-slider-with-360-swivel-base?variant=32683564695633",
+    "id" : "9465DD85-D95B-4730-977F-A7C3AAF7F24C",
+    "photoURLs" : [
+      "https://modernstudio.com/cdn/shop/products/030-5704.jpg?v=1635370222&width=1445",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691334/image/big-71f90f139dd64e9d82fb179d98c6f229.jpg",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691333/image/big-8b2bd138f9b41be7ee2478ed9b7163ec.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-10-09T21:33:36.053Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:39:37.899Z",
+    "Length" : "6ft",
+    "Manufacturers" : "Modern Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "6FT Camera Slider with 360º Swivel Base",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://modernstudio.com/products/2-camera-slider-with-360-swivel-base?variant=32683564695633",
+    "id" : "94AC24B3-172C-42F7-824E-A31D4920E2C2",
+    "photoURLs" : [
+      "https://modernstudio.com/cdn/shop/products/030-5710.jpg?v=1635370845&width=1445",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691334/image/big-71f90f139dd64e9d82fb179d98c6f229.jpg",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691333/image/big-8b2bd138f9b41be7ee2478ed9b7163ec.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-10-09T21:35:47.639Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:39:41.440Z",
+    "Length" : "5ft",
+    "Manufacturers" : "Modern Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "5FT Camera Slider with 360º Swivel Base",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://modernstudio.com/products/2-camera-slider-with-360-swivel-base?variant=32683564695633",
+    "id" : "F035CC6D-9B53-48D6-83D6-A61D6C9EF4F9",
+    "photoURLs" : [
+      "https://modernstudio.com/cdn/shop/products/030-5708.jpg?v=1635370825&width=1445",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691334/image/big-71f90f139dd64e9d82fb179d98c6f229.jpg",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691333/image/big-8b2bd138f9b41be7ee2478ed9b7163ec.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Sliders",
+    "Created Date" : "2025-10-09T21:39:01.055Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:39:26.025Z",
+    "Length" : "4ft",
+    "Manufacturers" : "Modern Studio Equipment",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "4FT Camera Slider with 360º Swivel Base",
+    "Other Requirements" : [
+
+    ],
+    "Pan Range" : "360º",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://modernstudio.com/products/2-camera-slider-with-360-swivel-base?variant=32683564695633",
+    "id" : "8B7F1FB0-4C40-4314-A936-F1F1E08B1490",
+    "photoURLs" : [
+      "https://modernstudio.com/cdn/shop/products/030-5704.jpg?v=1635370222&width=1445",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691334/image/big-71f90f139dd64e9d82fb179d98c6f229.jpg",
+      "https://d1rzxhvrtciqq1.cloudfront.net/uploads/images/listingimage/691333/image/big-8b2bd138f9b41be7ee2478ed9b7163ec.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-09T21:43:36.555Z",
+    "Crew Required" : [
+      "Grip"
+    ],
+    "DescriptionText" : "Lightweight folding dolly",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:45:38.831Z",
+    "Manufacturers" : "Keywest",
+    "Max. Column/Jib Height" : "91cm",
+    "Min. Column/Jib Height" : "59cm",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "20 kgs",
+    "Name" : "Magic Dolly with Bazooka Column",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "150kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://vmi.tv/equipment/keywest-magic-hire-london-dolly-with-bazooka-column/",
+    "id" : "AF2B3A0B-C381-40AE-8346-0AA8F7B4A179",
+    "photoURLs" : [
+      "https://vmi.tv/wp-content/uploads/sites/3/2015/11/Keywest-Magic-Dolly-3-2.jpg",
+      "https://vmi.tv/wp-content/uploads/sites/3/products/batch6/keywest-_dolly2._1353500462.0444.jpg",
+      "https://vmi.tv/wp-content/uploads/sites/3/products/batch6/keywest-_dolly3._1353500839.4589.JPG",
+      "https://vmi.tv/wp-content/uploads/sites/3/products/batch6/keywest-_dolly1._1353500933.7961.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-09T21:46:44.438Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Based on the proven concept of the Classic Focus Dolly, the new Focus Dolly Light is a complete, lightweight, ultra-portable dolly for track use. The Focus dolly is a complete lightweight, ultra-portable dolly. It fits together in less than three minutes, and the design incorporates dual features. When closed down, the dolly becomes a portable flightcase, the push/pull handle functioning as the transport handle. The dolly track wheels or hard rubber wheels simply pop in the sockets of the dolly. The trackwheels, which operate on both curved and straight track, are stored inside the dolly case for transportation. The Focus Seat Support completes the focus dolly as a multi purpose package.",
+    "Features" : [
+      "Folding design"
+    ],
+    "Height" : "7 cm",
+    "Last edited time" : "2025-10-09T21:47:51.505Z",
+    "Length" : "100 cm",
+    "Manufacturers" : "Egripment",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "15 kg",
+    "Name" : "Focus Dolly Light ",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "125 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://egripment.com/solutions/eng-broadcast/focus-dolly-light/",
+    "Width" : "70 cm",
+    "id" : "81FC0861-A61B-4B70-81CB-E96D41E2BEA2",
+    "photoURLs" : [
+      "https://egripment.com/assets/components/phpthumbof/cache/150-PL%20Focus%20Dolly%20Light_Seat_clean_small.1b7665f2a31d6961f80680926191a75f.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-09T21:48:14.104Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Skateboard Dolly is Egripment's platform track dolly for quick, multi purpose and easy use.\n\nThe cooperation between Egripment's designers and our end users resulted in the Skateboard Dolly with a strong platform with anti slip surface. The Skateboard Dolly is equipped with Egripment's high quality boogie wheels and can be upgrated with a push and pull bar. A euro coupling can be mounted on several locations on the board.\n\nThe Skateboard Dolly runs straight as well as curved track.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:49:09.705Z",
+    "Length" : "80 cm",
+    "Manufacturers" : "Egripment",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "16 kg",
+    "Name" : "Skateboard Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "250 kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://egripment.com/solutions/eng-broadcast/skateboard-dolly/",
+    "Width" : "80 cm",
+    "id" : "B1D61B1D-CADA-4D72-89FE-EC6504EB809D",
+    "photoURLs" : [
+      "https://egripment.com/assets/components/phpthumbof/cache/skateboard-dolly-.1b7665f2a31d6961f80680926191a75f.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-09T21:49:24.538Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Based on the proven features of the StarTrack Dolly (foldable), Matador Dolly, (Sliding push pull bar), Dinky Dolly, (4 wheel steering on both sides) and Focus Dolly (ultra-portable) the new \"Universal\" Dolly combines all the best features of all Egripment Platform dollies.\n\nThe \"Universal\" Dolly utilizes a completely new method of steering, it folds into a small and lightweight package that weighs only 16.8 kg / 37 lbs., it carries a very good payload of 200 kg / 440 lbs., offers a solid camera platform, and it offers steering from the back or the front side, both 2 wheel steering and also 4 wheel steering when very tight turns are required.\n\nThe minimum turn radius is only 85 cm/34 inches.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:50:58.031Z",
+    "Length" : "115cm",
+    "Manufacturers" : "Egripment",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "16.8 kg",
+    "Name" : "Universal Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "200 kg",
+    "Steering Mode" : [
+      "Rear",
+      "Round"
+    ],
+    "WebsiteURL" : "https://egripment.com/solutions/eng-broadcast/universal-dolly/",
+    "Width" : "75cm",
+    "id" : "02DB06A8-6D6E-4CA8-A08E-58389C5CA6BE",
+    "photoURLs" : [
+      "https://egripment.com/assets/components/phpthumbof/cache/Egripment-210UniversalDollyand_Accs.ddcf1909748a68c804cfda1da6bbe9fc.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Other",
+    "Created Date" : "2025-10-09T21:58:24.542Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T21:59:57.741Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Raptor Magnet",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "50kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/raptor-magnet",
+    "id" : "CEEA8609-FFA7-4F83-B6B6-3008B0A00F25",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/07/Custom-Easy-Store_Raptor-Magnet.webp",
+      "https://customeasy.org/wp-content/uploads/2021/12/Raptor-Magnet_Universal-Plate-2-min.png"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/nScsDsu707w"
+    ]
+  },
+  {
+    "Category" : "Vibration Isolators",
+    "Created Date" : "2025-10-09T22:00:17.792Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Raptor ISO gives your remote head extra horizontal smoothness. With integrated springs and adjustable dampeners on both the X and Y axes, your system stays balanced—helping you keep every shot level and clean.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T22:01:20.412Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6kg",
+    "Name" : "Raptor ISO5",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "36kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/raptor-iso",
+    "id" : "59599422-151E-49E3-B2D5-7088BE9F3197",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/08/Custom-Easy-Store_Raptor-ISO5_1.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Vibration Isolators",
+    "Created Date" : "2025-10-09T22:01:33.260Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Raptor Air is custom-engineered to eliminate high-frequency vibrations and reduce low-frequency oscillations, making it an ideal choice for filming on both rugged terrain and smooth roads.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T22:03:12.111Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Min. Weight" : "6kg",
+    "Name" : "Raptor Air",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "10-35kgs",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/raptor-iso",
+    "id" : "4319BB0C-A63F-432A-B0CE-3B2283E2712F",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/08/Custom-Easy-Store_Raptor-Air.webp",
+      "https://customeasy.org/wp-content/uploads/2025/08/raptor-air-adjustment-1.webp",
+      "https://customeasy.org/wp-content/uploads/2025/08/Raptor-Air_Application_Various-Accessories-Supported.webp",
+      "https://customeasy.org/wp-content/uploads/2025/08/Raptor-Air_Various-Payload-Supported.webp"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/5As-TGnp5zM"
+    ]
+  },
+  {
+    "Category" : "Vibration Isolators",
+    "Created Date" : "2025-10-09T22:03:44.828Z",
+    "Crew Required" : [
+      "Level 3 Grip"
+    ],
+    "DescriptionText" : "The next cinema vibration isolator with dynamic range support up to 35kgs payload.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T22:05:49.172Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "C35 Vibration",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "35kgs",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/c35-vibration",
+    "id" : "0C05BF44-484D-4DDA-80E3-B800FEC5B725",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/07/Custom-Easy-Store_C35-Vibration-Isolator.webp",
+      "https://customeasy.org/wp-content/uploads/2025/03/Custom-Easy-ecosystem-for-DJI-Ronin-2.png",
+      "https://customeasy.org/wp-content/uploads/2025/03/Custom-Easy-ecosystem-for-Movi-XL.png",
+      "https://customeasy.org/wp-content/uploads/2025/08/C35-Vibration_Various-Payload-Supported.webp"
+    ],
+    "videoURLs" : [
+      "https://youtu.be/arLksiXtWxM"
+    ]
+  },
+  {
+    "Category" : "Vibration Isolators",
+    "Created Date" : "2025-10-09T22:06:04.011Z",
+    "Crew Required" : [
+      "Level 3 Grip"
+    ],
+    "DescriptionText" : "Raptor XY2 Vibration Isolator absorbs pulsations in the X & Y horizontal axis. Smoother shots without disturbing vibrations are the result.",
+    "Features" : [
+
+    ],
+    "Last edited time" : "2025-10-09T22:06:44.607Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Raptor XY",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "45kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/raptor-xy-vibration-isolator",
+    "id" : "ED6CF995-5080-4B5E-A18D-F4C416956CFB",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/07/Custom-Easy-Store_Raptor-XY.webp"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-09T22:07:11.712Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The Raptor Butt Dolly is a brand-new offering from Custom Easy that redefines camera dolly functionality for handheld operators. While traditional “butt dollies” have long been used in the film industry for achieving low-angle, dynamic shots on smooth or semi-smooth surfaces, the Raptor Butt Dolly takes this to the next level. With whisper-quiet operation, it provides unobtrusive, seamless motion, making it an invaluable tool for professional handheld filming.",
+    "Features" : [
+      "Height adjustable"
+    ],
+    "Last edited time" : "2025-10-09T22:08:36.496Z",
+    "Manufacturers" : "Custom Easy",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Raptor Butt Dolly",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://customeasy.org/all-news/raptor-butt-dolly-more-than-just-a-butt-dolly",
+    "id" : "0F71B75C-70DF-4CA9-934F-EF322082B3DE",
+    "photoURLs" : [
+      "https://customeasy.org/wp-content/uploads/2025/07/Custom-Easy-Store_Raptor-Butt-Dolly.webp"
     ],
     "videoURLs" : [
 
