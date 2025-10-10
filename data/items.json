@@ -11394,27 +11394,33 @@
   },
   {
     "Category" : "Jib Arms",
+    "Column/Jib Travel" : "51cm",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The GF-Baby Jib is a compact jib arm designed for use in TV and film production, allowing for smooth camera movements and dynamic shots. It requires a van for transport and is operated with a communications system and a remote head, making it ideal for capturing creative angles and perspectives.",
+    "DescriptionText" : "The GF-Baby Jib is a stable, very compact Jib with an arm length of only 45 cm (1'5\") (pivot point to Euro Adapter). It is ideal for working off dollies in tight confined spaces as it provides additional pan and tilt adjustment plus smooth, vibration-free movements.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:24:28.925Z",
+    "Fulcrum to Long End" : "45cm",
+    "Fulcrum to Rear" : "31cm (retracted) | 63cm (extended)",
+    "Last edited time" : "2025-10-10T07:44:06.134Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "16kg",
     "Name" : "GF-Baby Jib",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "30kg",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "53º",
     "WebsiteURL" : "https://www.gripfactory.com/gf-baby-jib",
     "id" : "360",
     "photoURLs" : [
@@ -11426,27 +11432,34 @@
   },
   {
     "Category" : "Jib Arms",
+    "Column/Jib Travel" : "151 cm (retracted) | 227 cm (extended)",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "2x Crane Grips (lvl 3)"
     ],
-    "DescriptionText" : "The GF-Jib is a jib arm used in the TV and film industry to create smooth, sweeping camera movements. It requires a crew of two crane grips and is typically mounted on a van, allowing for dynamic shots while maintaining stability and control.",
+    "DescriptionText" : "The GF-Jib was designed to function as a stable, solid Jib Arm, meeting the specific needs of heavier camera packages up to 60 kg (132 lbs). Its manual length adjustment allows for quick and easy setup at the required length.\n\nThe counterweight arm is telescopic and can be adjusted to the required length with ease — with just a few turns of the crank to ensure perfect balance at any angle.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:24:36.699Z",
+    "Fulcrum to Long End" : "188 cm",
+    "Fulcrum to Rear" : "48 cm (retracted) | 103 cm (extended)",
+    "Fulcrum to Short End" : "133 cm",
+    "Last edited time" : "2025-10-10T07:52:28.692Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "42 kg",
     "Name" : "GF-Jib",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "60 kg (retracted) | 40 kg (extended)",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "43º",
     "WebsiteURL" : "https://www.gripfactory.com/gf-jib",
     "id" : "361",
     "photoURLs" : [
@@ -11458,24 +11471,29 @@
   },
   {
     "Category" : "Jib Arms",
+    "Column/Jib Travel" : "120cm",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The GF-Mini Jib is a compact jib arm used in the TV and film industry to create smooth, dynamic camera movements. It allows for elevated shots and versatile angles, enhancing the visual storytelling by enabling seamless panning and tilting while maintaining stability.",
+    "DescriptionText" : "The GF-Mini Jib is a lightweight, stable, compact jib for camera packages weighing up to 30 kg (66 lbs). It provides smooth, vibration-free movements in tight, confined spaces whether working off a dolly or tripod. The complete GF-Mini Jib set fits into one flight case.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:24:44.038Z",
+    "Fulcrum to Long End" : "82cm",
+    "Fulcrum to Rear" : "31cm (retracted) | 100cm (extended)",
+    "Last edited time" : "2025-10-10T07:45:37.434Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "17kg",
     "Name" : "GF-Mini Jib",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "30kg",
     "Steering Mode" : [
 
     ],
@@ -11490,6 +11508,7 @@
   },
   {
     "Category" : "Jib Arms",
+    "Column/Jib Travel" : "52cm (shortest) | 610cm (longest)",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
       "2x Crane Grips (lvl 3)"
@@ -11498,19 +11517,25 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:26:36.578Z",
+    "Fulcrum to Long End" : "400cm (480cm with extension)",
+    "Fulcrum to Short End" : "80cm",
+    "Last edited time" : "2025-10-10T08:30:38.936Z",
     "Manufacturers" : "Grip Factory Munich",
+    "Max. Weight" : "270kg",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "75kg",
     "Name" : "GF-Mod Jib",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "35kg (20kg with extension | 60kg in shorter set-ups",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "54º",
     "WebsiteURL" : "https://www.gripfactory.com/gf-mod-jib",
     "id" : "363",
     "photoURLs" : [
@@ -11519,7 +11544,8 @@
       "https://static.wixstatic.com/media/3e3f04_32afc1de73d941e7a163f5ecf4a3faaf~mv2.png/v1/fill/w_1356,h_450,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/qdwdw.png",
       "https://static.wixstatic.com/media/3e3f04_01fda9c3050547b4b186645e97888aee~mv2.png/v1/fill/w_920,h_338,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-mod-jib-ultra-lightweight-construction.png",
       "https://static.wixstatic.com/media/3e3f04_a755015fdad1480d840f5df87456bb97~mv2.png/v1/crop/x_115,y_600,w_2769,h_1800/fill/w_720,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Play-Free-Dove-Tail-System.png",
-      "https://static.wixstatic.com/media/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg/v1/fit/w_1011,h_1213,q_90,enc_avif,quality_auto/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg"
+      "https://static.wixstatic.com/media/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg/v1/fit/w_1011,h_1213,q_90,enc_avif,quality_auto/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_37e673c49c85480fa77cee43d61a50a8.pdf"
     ],
     "videoURLs" : [
       "https://vimeo.com/861547629?fl=pl&fe=sh"
@@ -11531,13 +11557,13 @@
     "Crew Required" : [
       "2x Crane Grips (lvl 3)"
     ],
-    "DescriptionText" : "The GF-Multi Jib is a professional, lightweight and modular Jib arm, suitable for carrying all general remote head systems. It is portable, mobile and mounts on most standard dollies fitted with Euro Adapter or Mitchell mounts.\nThe arm is stabilised with an easy to mount, rod rigging system. In general, the two 150 cm sections are used as front arm extensions whereas the 100, 50 and 30 cm sections function as both rear and front sections. Various configurations can be achieved by combining the sections, allowing the arm to be assembled to the required length.",
+    "DescriptionText" : "The GF-Multi Jib is a professional, lightweight and modular Jib arm, suitable for carrying all general remote head systems. It is portable, mobile and mounts on most standard dollies fitted with Euro Adapter or Mitchell mounts.\n\nThe arm is stabilised with an easy to mount, rod rigging system. In general, the two 150 cm sections are used as front arm extensions whereas the 100, 50 and 30 cm sections function as both rear and front sections. Various configurations can be achieved by combining the sections, allowing the arm to be assembled to the required length.",
     "Features" : [
 
     ],
     "Fulcrum to Long End" : "15ft 3in",
     "Fulcrum to Short End" : "4ft 2in (30cm Rear Section) | 4ft 10in (50cm Rear Section) | 6ft 6in (1m Rear Section)",
-    "Last edited time" : "2025-09-27T16:26:58.555Z",
+    "Last edited time" : "2025-10-10T07:53:04.789Z",
     "Length" : "60in with Jacks",
     "Manufacturers" : "Grip Factory Munich",
     "Max. Lens Height (Overslung)" : "20ft 1in (30cm Rear Section) | 19ft 6in (50cm Rear Section) | 18ft (1m Rear Section)",
@@ -11566,27 +11592,34 @@
   },
   {
     "Category" : "Jib Arms",
+    "Column/Jib Travel" : "143 cm (retracted) | 230 cm (extended)",
     "Created Date" : "December 28, 2024 7:07 PM",
     "Crew Required" : [
 
     ],
-    "DescriptionText" : "The GF-Tele Jib is a specialized camera support system used in the TV and film industry to create smooth, dynamic shots by allowing the camera to move vertically and horizontally. It is operated remotely, typically requiring a van for transportation and communication equipment for control.",
+    "DescriptionText" : "The GF-Tele Jib is a lightweight, stable and variable length Jib Arm. The advantage is a very fast resetting of the arm length by telescoping in or out and then fixing the arm at the required working length. It carries camera packages of up to 45 kg (99 lbs) and offers smooth, vibration-free movements, and adds flexibility when working on tight sets.",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T16:27:30.419Z",
+    "Fulcrum to Long End" : "156 cm",
+    "Fulcrum to Rear" : "37 cm (retracted) | 54 cm (extended)",
+    "Fulcrum to Short End" : "103 cm",
+    "Last edited time" : "2025-10-10T07:50:59.831Z",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
     ],
+    "Min. Weight" : "25kg",
     "Name" : "GF-Tele Jib",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "45kg (retracted) | 30kg (extended)",
     "Steering Mode" : [
 
     ],
+    "Tilt Range" : "56º",
     "WebsiteURL" : "https://www.gripfactory.com/gf-tele-jib",
     "id" : "365",
     "photoURLs" : [
@@ -23153,6 +23186,44 @@
       "https://static.wixstatic.com/media/3e3f04_17330cd2646a4986af8f6c09459c1c10~mv2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_17330cd2646a4986af8f6c09459c1c10~mv2.jpg",
       "https://static.wixstatic.com/media/3e3f04_57614fe085af4a64b0386dfce29d5726~mv2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_57614fe085af4a64b0386dfce29d5726~mv2.jpg",
       "https://static.wixstatic.com/media/3e3f04_31301d557df740b89f0f79f31cd93a63~mv2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_31301d557df740b89f0f79f31cd93a63~mv2.jpg"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-10-10T07:37:50.859Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "The GF-Grip Kit System is a multifunctional rigging tool for building various sized bazooka bases, track dollies, rolling spiders as well as customized camera mounts, built on set to suit the operational requirements.\n\nThe centre plate is available as Mitchell or Euro Adapter accepting Combi Rig tubes, Mitchell and Bowl mounts as well as adjustable and fixed risers. The complete kit fits neatly into one custom designed flight case.\n\nThe Extension legs come in four sizes and up to five of them can be connected to the centre plate at any one time. Various sized track or studio dollies can be built by adding skateboard or studio wheels.",
+    "Features" : [
+      "Mitchell and Euro Centre Plate options",
+      "Extension Legs in different sizes allow for different use cases",
+      "Castor Wheels, Skate Wheels and Vulkolan Track Wheels"
+    ],
+    "Last edited time" : "2025-10-10T07:40:45.805Z",
+    "Manufacturers" : "Grip Factory Munich",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "GF-Grip Kit",
+    "Other Requirements" : [
+
+    ],
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.gripfactory.com/grip-kit",
+    "id" : "2700C7E8-47F3-4E38-8058-DE958D28E43B",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/3e3f04_f878a2a8d661480faf4b35953c6e5d49~mv2.png/v1/crop/x_4,y_0,w_746,h_508/fill/w_744,h_508,al_c,q_90,enc_avif,quality_auto/gripkit-teaser.png",
+      "https://static.wixstatic.com/media/3e3f04_9df2b51d49ad45499fd9520012b702ff~mv2.png/v1/crop/x_0,y_36,w_1405,h_458/fill/w_1398,h_458,al_c,q_90,enc_avif,quality_auto/gripkit_setups.png",
+      "https://static.wixstatic.com/media/0b5294_0934682ac548465db3e3cb16fce89555~mv2.png/v1/fill/w_590,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gripkit3.png",
+      "https://static.wixstatic.com/media/0b5294_aaec3d6a2d0648b398de50f765eda62f~mv2.png/v1/fill/w_590,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/schienendolly.png",
+      "https://static.wixstatic.com/media/0b5294_21e25380e0874c459e754657a57abe7a~mv2.png/v1/fill/w_642,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/studiodolly.png",
+      "https://static.wixstatic.com/media/0b5294_8714cf2f9f4e412e9181c1d77dfbcee8~mv2.png/v1/crop/x_0,y_638,w_758,h_536/fill/w_580,h_410,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bazooka.png"
     ],
     "videoURLs" : [
 
