@@ -6986,7 +6986,7 @@
     "Fulcrum to Long End" : "21ft",
     "Fulcrum to Rear" : "4ft (V1 & V2) 7ft (V3-V7)",
     "Fulcrum to Short End" : "6ft",
-    "Last edited time" : "2025-09-27T16:24:04.572Z",
+    "Last edited time" : "2025-10-10T09:22:43.336Z",
     "Manufacturers" : "J.L. Fisher",
     "Max. Lens Height (Overslung)" : "20ft 7in",
     "Max. Weight" : "154 (excl dolly, payload & counterweight)",
@@ -7007,7 +7007,9 @@
     "WebsiteURL" : "https://www.jlfisher.com/jibarms",
     "id" : "228",
     "photoURLs" : [
-      "https://static.wixstatic.com/media/9e1783_38546adf573e40e4940dc2be6d758e11~mv2.png/v1/fill/w_770,h_682,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cover%20Composite_tif.png"
+      "https://static.wixstatic.com/media/9e1783_38546adf573e40e4940dc2be6d758e11~mv2.png/v1/fill/w_770,h_682,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cover%20Composite_tif.png",
+      "https://www.jlfisher.com/_files/ugd/9e1783_a0e927bcb57f4a928751d1c99fe9dd29.pdf",
+      "https://www.jlfisher.com/_files/ugd/9e1783_a86358e6682749fdaf20a059e88ce369.pdf"
     ],
     "videoURLs" : [
 
@@ -11522,7 +11524,7 @@
     ],
     "Fulcrum to Long End" : "400cm (480cm with extension)",
     "Fulcrum to Short End" : "80cm",
-    "Last edited time" : "2025-10-10T08:30:38.936Z",
+    "Last edited time" : "2025-10-10T09:21:26.293Z",
     "Manufacturers" : "Grip Factory Munich",
     "Max. Weight" : "270kg",
     "Min. Transport Required" : [
@@ -11547,7 +11549,6 @@
       "https://static.wixstatic.com/media/3e3f04_32afc1de73d941e7a163f5ecf4a3faaf~mv2.png/v1/fill/w_1356,h_450,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/qdwdw.png",
       "https://static.wixstatic.com/media/3e3f04_01fda9c3050547b4b186645e97888aee~mv2.png/v1/fill/w_920,h_338,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf-mod-jib-ultra-lightweight-construction.png",
       "https://static.wixstatic.com/media/3e3f04_a755015fdad1480d840f5df87456bb97~mv2.png/v1/crop/x_115,y_600,w_2769,h_1800/fill/w_720,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Play-Free-Dove-Tail-System.png",
-      "https://static.wixstatic.com/media/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg/v1/fit/w_1011,h_1213,q_90,enc_avif,quality_auto/3e3f04_9fdc5aeec4074fa1931245ee994d362b~mv2.jpeg",
       "https://www.gripfactory.com/_files/ugd/3e3f04_37e673c49c85480fa77cee43d61a50a8.pdf"
     ],
     "videoURLs" : [
@@ -11566,7 +11567,7 @@
     ],
     "Fulcrum to Long End" : "15ft 3in",
     "Fulcrum to Short End" : "4ft 2in (30cm Rear Section) | 4ft 10in (50cm Rear Section) | 6ft 6in (1m Rear Section)",
-    "Last edited time" : "2025-10-10T07:53:04.789Z",
+    "Last edited time" : "2025-10-10T09:22:06.111Z",
     "Length" : "60in with Jacks",
     "Manufacturers" : "Grip Factory Munich",
     "Max. Lens Height (Overslung)" : "20ft 1in (30cm Rear Section) | 19ft 6in (50cm Rear Section) | 18ft (1m Rear Section)",
@@ -11587,7 +11588,9 @@
     "Width" : "35in",
     "id" : "364",
     "photoURLs" : [
-      "https://static.wixstatic.com/media/3e3f04_3501886589be4dadb4a8cb8ecc18276d~mv2.png/v1/fill/w_2250,h_398,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/hero_gf-multi-jib.png"
+      "https://static.wixstatic.com/media/3e3f04_3501886589be4dadb4a8cb8ecc18276d~mv2.png/v1/fill/w_2250,h_398,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/hero_gf-multi-jib.png",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_2509cc778c4d46cb838d5c7b87786c4d.pdf",
+      "https://www.gripfactory.com/_files/ugd/0b5294_dc81a20c7e4747eb8d57d1e5a7f07821.pdf"
     ],
     "videoURLs" : [
 
@@ -23227,6 +23230,81 @@
       "https://static.wixstatic.com/media/0b5294_aaec3d6a2d0648b398de50f765eda62f~mv2.png/v1/fill/w_590,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/schienendolly.png",
       "https://static.wixstatic.com/media/0b5294_21e25380e0874c459e754657a57abe7a~mv2.png/v1/fill/w_642,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/studiodolly.png",
       "https://static.wixstatic.com/media/0b5294_8714cf2f9f4e412e9181c1d77dfbcee8~mv2.png/v1/crop/x_0,y_638,w_758,h_536/fill/w_580,h_410,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bazooka.png"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Jib Arms",
+    "Created Date" : "2025-10-10T09:23:11.249Z",
+    "Crew Required" : [
+
+    ],
+    "DescriptionText" : "Crossarms introduce another brush to the cinematographer's palette. Theymake it possible to move the camera off center and allow sweeping rotation in an extremely low or high position. They enable lateral, angular, round & square camera movement where tight focus can be held. Perfect for your table-top work and any complicated offset camera needs.",
+    "Features" : [
+      "Offsettable arm to add dynamic moves movement on 23 Jib Arm",
+      "Available in 7 lengths"
+    ],
+    "Last edited time" : "2025-10-10T09:30:08.357Z",
+    "Length" : "3ft 3in | 4ft | 4ft 10in | 5ft 6in | 7ft 6in | 9ft 6in | 13ft 11in",
+    "Manufacturers" : "J.L.Fisher",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Cross Arm",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "41kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.jlfisher.com/jibarms",
+    "id" : "FEDD32D7-F7B1-4D10-94D2-DBD87DC2CE4B",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/9e1783_4096b28ff7984a0b9f7a09c1cdded0c0~mv2.png/v1/fill/w_574,h_634,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/10%20with%20CRA6%20and%20Weaver-Steadman_tif.png",
+      "https://www.jlfisher.com/_files/ugd/9e1783_c0293e0cb2e34dacacfd34aed52aefc6.pdf",
+      "https://www.jlfisher.com/_files/ugd/9e1783_c8411b42f477424db8df928563de10f4.pdf"
+    ],
+    "videoURLs" : [
+
+    ]
+  },
+  {
+    "Category" : "Dollies",
+    "Created Date" : "2025-10-10T09:30:28.932Z",
+    "Crew Required" : [
+
+    ],
+    "Features" : [
+      "Tripod Locators",
+      "4 tiedowns",
+      "Carry Handles",
+      "4 x Sets articulating wheels",
+      "Multiple 3/8in holes to mount accessories",
+      "Mitchell Mount in centre"
+    ],
+    "Last edited time" : "2025-10-10T09:36:33.842Z",
+    "Length" : "53in",
+    "Manufacturers" : "J.L. Fisher",
+    "Min. Transport Required" : [
+
+    ],
+    "Name" : "Scooter Board (Skateboard Dolly)",
+    "Other Requirements" : [
+
+    ],
+    "Payload" : "180kg",
+    "Steering Mode" : [
+
+    ],
+    "WebsiteURL" : "https://www.jlfisher.com/_files/ugd/9e1783_57fffbeddf644b98af9f6f55724008b8.pdf",
+    "Width" : "34 1/2in",
+    "id" : "C6C53082-910D-4049-8D6E-D6A7EC479BF8",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/9e1783_6d42301aa7624b0b8e06996bb88c9067~mv2.jpg/v1/fill/w_686,h_302,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scooter%20Board.jpg",
+      "https://www.jlfisher.com/_files/ugd/9e1783_57fffbeddf644b98af9f6f55724008b8.pdf"
     ],
     "videoURLs" : [
 
