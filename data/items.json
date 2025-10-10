@@ -11285,11 +11285,12 @@
     "Features" : [
 
     ],
-    "Fulcrum to Long End" : "10.6m",
+    "Fulcrum to Long End" : "10.83m",
     "Height" : "200cm",
-    "Last edited time" : "2025-10-10T09:43:43.944Z",
+    "Last edited time" : "2025-10-10T10:00:24.369Z",
     "Length" : "127cm (Wheels) | 154cm (with Jacks)",
     "Manufacturers" : "Grip Factory Munich",
+    "Max. Lens Height (Underslung)" : "10.53m",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -11326,11 +11327,12 @@
     "Features" : [
 
     ],
-    "Fulcrum to Long End" : "9.3m",
+    "Fulcrum to Long End" : "9.35m",
     "Height" : "180cm",
-    "Last edited time" : "2025-10-10T09:43:38.011Z",
+    "Last edited time" : "2025-10-10T09:59:42.270Z",
     "Length" : "127cm (Wheels) | 154cm (with Jacks)",
     "Manufacturers" : "Grip Factory Munich",
+    "Max. Lens Height (Underslung)" : "9.31m",
     "Min. Transport Required" : [
       "Van"
     ],
@@ -11367,9 +11369,12 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-10T09:49:36.304Z",
+    "Fulcrum to Long End" : "16.82m",
+    "Fulcrum to Rear" : "2.79m",
+    "Last edited time" : "2025-10-10T10:02:29.982Z",
     "Length" : "177cm",
     "Manufacturers" : "Grip Factory Munich",
+    "Max. Lens Height (Underslung)" : "15.3m",
     "Max. Weight" : "2289kg",
     "Min. Transport Required" : [
       "Truck"
