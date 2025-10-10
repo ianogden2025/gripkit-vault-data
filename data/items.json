@@ -6470,11 +6470,17 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-10-09T21:21:16.880Z",
+    "Fulcrum to Long End" : "31ft 6in",
+    "Fulcrum to Rear" : "7ft",
+    "Height" : "7ft 6in",
+    "Last edited time" : "2025-10-10T09:53:09.894Z",
     "Manufacturers" : "Filmair",
+    "Max. Lens Height (Underslung)" : "31ft",
+    "Max. Weight" : "600kg",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "294kg",
     "Name" : "Giraffe Classic",
     "Other Requirements" : [
       "Comms",
@@ -6483,6 +6489,8 @@
     "Steering Mode" : [
 
     ],
+    "WebsiteURL" : "https://www.filmairinternational.com/classic.htm",
+    "Width" : "4ft 8in",
     "id" : "214",
     "photoURLs" : [
       "https://www.filmairinternational.com/images/giraffe_classic.jpg",
@@ -11277,7 +11285,10 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Fulcrum to Long End" : "10.6m",
+    "Height" : "200cm",
+    "Last edited time" : "2025-10-10T09:43:43.944Z",
+    "Length" : "127cm (Wheels) | 154cm (with Jacks)",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11287,13 +11298,18 @@
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "50kg (remote) | 2 persons (upto 5.6m)",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.gripfactory.com/gf-8",
+    "Width" : "90cm",
     "id" : "356",
     "photoURLs" : [
-      "https://static.wixstatic.com/media/0b5294_f0b293897543444a928b758f8292a374~mv2.png/v1/fill/w_1184,h_1558,al_c,q_90,enc_avif,quality_auto/GF-8-Xten-crane.png"
+      "https://static.wixstatic.com/media/0b5294_f0b293897543444a928b758f8292a374~mv2.png/v1/fill/w_1184,h_1558,al_c,q_90,enc_avif,quality_auto/GF-8-Xten-crane.png",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_c1cda0cc64564af7ba66871653f6d27a.pdf",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_26105a4982384a409253e20c6666b2f9.pdf",
+      "https://www.gripfactory.com/_files/ugd/0b5294_be64a3ba58a14c4780e06fb829de7f2a.pdf"
     ],
     "videoURLs" : [
 
@@ -11310,7 +11326,10 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Fulcrum to Long End" : "9.3m",
+    "Height" : "180cm",
+    "Last edited time" : "2025-10-10T09:43:38.011Z",
+    "Length" : "127cm (Wheels) | 154cm (with Jacks)",
     "Manufacturers" : "Grip Factory Munich",
     "Min. Transport Required" : [
       "Van"
@@ -11320,13 +11339,18 @@
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "50kg (remote) | 2 persons (upto 4m)",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.gripfactory.com/gf-8",
+    "Width" : "90cm",
     "id" : "357",
     "photoURLs" : [
-      "https://static.wixstatic.com/media/0b5294_f0b293897543444a928b758f8292a374~mv2.png/v1/fill/w_1184,h_1558,al_c,q_90,enc_avif,quality_auto/GF-8-Xten-crane.png"
+      "https://static.wixstatic.com/media/0b5294_f0b293897543444a928b758f8292a374~mv2.png/v1/fill/w_1184,h_1558,al_c,q_90,enc_avif,quality_auto/GF-8-Xten-crane.png",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_1357d329b88440b394d582617d03a28f.pdf",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_26105a4982384a409253e20c6666b2f9.pdf",
+      "https://www.gripfactory.com/_files/ugd/0b5294_be64a3ba58a14c4780e06fb829de7f2a.pdf"
     ],
     "videoURLs" : [
 
@@ -11339,27 +11363,36 @@
       "2x Crane Grips (lvl 3)",
       "Crane Tech (lvl 2)"
     ],
-    "DescriptionText" : "The GF-16 is a fixed arm crane used in the TV and film industry to support camera equipment, allowing for smooth and controlled movements during shoots. It requires a minimum crew of two crane grips and a crane technician to operate effectively.",
+    "DescriptionText" : "The GF-16 Crane System is the ultimate in big modular, rideable and remote-operated camera cranes. It satisfies the demands of the crane operator when it comes to safety, transport, ease of assembly and in-shot stability as well as giving the DOP an amazing range of choice to create that dream shot.​\n",
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-10-10T09:49:36.304Z",
+    "Length" : "177cm",
     "Manufacturers" : "Grip Factory Munich",
+    "Max. Weight" : "2289kg",
     "Min. Transport Required" : [
       "Truck"
     ],
+    "Min. Weight" : "935kg",
     "Name" : "GF-16",
     "Other Requirements" : [
       "Comms",
       "Remote Head"
     ],
+    "Payload" : "60kg (full length) | 1 person (11.3m)",
     "Steering Mode" : [
 
     ],
     "WebsiteURL" : "https://www.gripfactory.com/gf-16",
+    "Width" : "141cm",
     "id" : "358",
     "photoURLs" : [
-      "https://static.wixstatic.com/media/0b5294_79b3b19bb8dc4339a5270b1e11f48fcf~mv2.png/v1/fill/w_993,h_1385,al_c,q_90,enc_avif,quality_auto/GF-16-RemMax.png"
+      "https://static.wixstatic.com/media/0b5294_79b3b19bb8dc4339a5270b1e11f48fcf~mv2.png/v1/fill/w_993,h_1385,al_c,q_90,enc_avif,quality_auto/GF-16-RemMax.png",
+      "https://static.wixstatic.com/media/0b5294_f857175657dc455ea1f9f421e02db0ea~mv2.jpg/v1/fill/w_1072,h_664,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gf16-transport.jpg",
+      "https://www.gripfactory.com/_files/ugd/3e3f04_b4cb38608f284cb2b4e53ec29f00ac79.pdf",
+      "https://www.gripfactory.com/_files/ugd/0b5294_b10b3b38e50e4bd0a6be1c1be0cc5a94.pdf",
+      "https://www.gripfactory.com/_files/ugd/0b5294_c7f81d54b1c8472ab040aa5dc9fd9af8.pdf"
     ],
     "videoURLs" : [
 
