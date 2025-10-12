@@ -6835,7 +6835,7 @@
       "Excellent Dancefloor dolly"
     ],
     "Height" : "25in (with controls folded)",
-    "Last edited time" : "2025-10-10T08:37:59.799Z",
+    "Last edited time" : "2025-10-12T08:00:36.845Z",
     "Length" : "52 3/4in min | 68in max (with low mode on)",
     "Manufacturers" : "J.L. Fisher",
     "Max. Column/Jib Height" : "62in with standard nose",
@@ -6857,9 +6857,14 @@
     "WebsiteURL" : "https://www.jlfisher.com/10rhc",
     "Width" : "32in wheels out | 26 3/4” wheels in",
     "id" : "224",
-    "photoURLs" : [
-      "https://static.wixstatic.com/media/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg/v1/fill/w_676,h_774,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg",
+    "pdfTitles" : [
+      "Brochure"
+    ],
+    "pdfURLs" : [
       "https://www.jlfisher.com/_files/ugd/9e1783_9b0fac44642946fb97cbfadfc861affc.pdf"
+    ],
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg/v1/fill/w_676,h_774,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg"
     ],
     "videoURLs" : [
 
