@@ -9,7 +9,7 @@
     "Features" : [
 
     ],
-    "Last edited time" : "2025-09-27T15:47:47.430Z",
+    "Last edited time" : "2025-10-12T22:39:18.161Z",
     "Manufacturers" : "3 Legged Thing",
     "Min. Transport Required" : [
 
@@ -23,6 +23,12 @@
     ],
     "WebsiteURL" : "https://www.3leggedthing.com/uk/docz2.html",
     "id" : "622CBF08-AC39-4D82-942B-21CC46065EAA",
+    "pdfTypes" : [
+
+    ],
+    "pdfURLs" : [
+
+    ],
     "photoURLs" : [
       "https://www.3leggedthing.com/media/catalog/product/cache/458c2b2c08ce2b77f8327b7301166bd4/d/o/docz2-1.jpg",
       "https://www.3leggedthing.com/media/catalog/product/cache/458c2b2c08ce2b77f8327b7301166bd4/d/o/docz2-17_1.jpg"
@@ -6835,7 +6841,7 @@
       "Excellent Dancefloor dolly"
     ],
     "Height" : "25in (with controls folded)",
-    "Last edited time" : "2025-10-12T22:08:05.647Z",
+    "Last edited time" : "2025-10-12T22:39:39.513Z",
     "Length" : "52 3/4in min | 68in max (with low mode on)",
     "Manufacturers" : "J.L. Fisher",
     "Max. Column/Jib Height" : "62in with standard nose",
@@ -6864,7 +6870,7 @@
       "Brochure"
     ],
     "pdfURLs" : [
-      "https://www.jlfisher.com/_files/ugd/9e1783_9b0fac44642946fb97cbfadfc861affc.pdf"
+      "https://www.jlfisher.com/_files/ugd/9e1783_9b0fac44642946fb97cbfadfc861affc.pdf | Brochure"
     ],
     "photoURLs" : [
       "https://static.wixstatic.com/media/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg/v1/fill/w_676,h_774,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9e1783_65e5eab2b77e4c4f949f31c144df173d~mv2.jpg"
@@ -6958,7 +6964,7 @@
 
     ],
     "Height" : "23 1/2in (with controls folded)",
-    "Last edited time" : "2025-10-12T22:35:58.675Z",
+    "Last edited time" : "2025-10-12T22:39:58.014Z",
     "Length" : "37 3/4in min | 51 3/4in max (with low mode on)",
     "Manufacturers" : "J.L. Fisher",
     "Max. Column/Jib Height" : "51 1/4in with standard nose",
@@ -6984,18 +6990,12 @@
 
     ],
     "pdfTypes" : [
-      "Brochure",
       "Specs",
-      "Brochure",
-      "Brochure",
-      "Brochure",
-      "Brochure",
-      "Brochure",
-      "Brochure"
+      "Specs"
     ],
     "pdfURLs" : [
-      "https://www.jlfisher.com/_files/ugd/9e1783_2152a9d3e22a46c9a9e5b51deea51263.pdf | Brochure",
-      "https://www.jlfisher.com/_files/ugd/9e1783_0c33778dd4f54791a264136a5522237c.pdf | Specs"
+      "https://www.jlfisher.com/_files/ugd/9e1783_0c33778dd4f54791a264136a5522237c.pdf | Specs",
+      "https://www.jlfisher.com/_files/ugd/9e1783_2152a9d3e22a46c9a9e5b51deea51263.pdf | Specs"
     ],
     "photoURLs" : [
       "https://static.wixstatic.com/media/9e1783_449207f95a4e425db7e81a73a35bc44a~mv2.jpg/v1/fill/w_504,h_719,al_c,q_85,enc_avif,quality_auto/9e1783_449207f95a4e425db7e81a73a35bc44a~mv2.jpg"
