@@ -6835,7 +6835,7 @@
       "Excellent Dancefloor dolly"
     ],
     "Height" : "25in (with controls folded)",
-    "Last edited time" : "2025-10-12T22:02:01.240Z",
+    "Last edited time" : "2025-10-12T22:08:05.647Z",
     "Length" : "52 3/4in min | 68in max (with low mode on)",
     "Manufacturers" : "J.L. Fisher",
     "Max. Column/Jib Height" : "62in with standard nose",
@@ -6859,6 +6859,9 @@
     "id" : "224",
     "pdfTitles" : [
 
+    ],
+    "pdfTypes" : [
+      "Brochure"
     ],
     "pdfURLs" : [
       "https://www.jlfisher.com/_files/ugd/9e1783_9b0fac44642946fb97cbfadfc861affc.pdf"
@@ -23363,7 +23366,7 @@
       "Multiple 3/8in holes to mount accessories",
       "Mitchell Mount in centre"
     ],
-    "Last edited time" : "2025-10-10T09:36:33.842Z",
+    "Last edited time" : "2025-10-12T22:08:42.570Z",
     "Length" : "53in",
     "Manufacturers" : "J.L. Fisher",
     "Min. Transport Required" : [
@@ -23380,9 +23383,14 @@
     "WebsiteURL" : "https://www.jlfisher.com/_files/ugd/9e1783_57fffbeddf644b98af9f6f55724008b8.pdf",
     "Width" : "34 1/2in",
     "id" : "C6C53082-910D-4049-8D6E-D6A7EC479BF8",
-    "photoURLs" : [
-      "https://static.wixstatic.com/media/9e1783_6d42301aa7624b0b8e06996bb88c9067~mv2.jpg/v1/fill/w_686,h_302,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scooter%20Board.jpg",
+    "pdfTypes" : [
+      "Brochure"
+    ],
+    "pdfURLs" : [
       "https://www.jlfisher.com/_files/ugd/9e1783_57fffbeddf644b98af9f6f55724008b8.pdf"
+    ],
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/9e1783_6d42301aa7624b0b8e06996bb88c9067~mv2.jpg/v1/fill/w_686,h_302,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scooter%20Board.jpg"
     ],
     "videoURLs" : [
 
