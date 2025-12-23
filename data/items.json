@@ -13507,5 +13507,26 @@
       "https://static.wixstatic.com/media/3e3f04_d9a3fd4ef59144eda107a292c874a05a~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_d9a3fd4ef59144eda107a292c874a05a~mv2.jpg",
       "https://static.wixstatic.com/media/3e3f04_3b5b4bb766e0482bb34a1afaaa8cf69d~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_3b5b4bb766e0482bb34a1afaaa8cf69d~mv2.jpg"
     ]
+  },
+  {
+    "Category" : "Camera Support",
+    "Created Date" : "2025-12-23T17:49:57.381Z",
+    "DescriptionText" : "Operates with a self-locking spindle drive giving stepless adjustment ranging from 0 to 106°\n\n",
+    "Height" : "4cm",
+    "Last edited time" : "2025-12-23T17:52:34.733Z",
+    "Length" : "28cm",
+    "Manufacturers" : "Grip Factory Munich",
+    "Min. Weight" : "2.4kg",
+    "Name" : "GF-Tilt Plate ",
+    "Payload" : "30kg",
+    "Tilt Range" : "0-106º",
+    "WebsiteURL" : "https://www.gripfactory.com/product/gf-tilt-plate",
+    "Width" : "12.5cm",
+    "id" : "615BD7FD-452D-4BD6-AEC2-D8ECB5B00267",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/0b5294_6de3871f54bc4c2da59269b12e60cfde~mv2_d_2000_1334_s_2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0b5294_6de3871f54bc4c2da59269b12e60cfde~mv2_d_2000_1334_s_2.jpg",
+      "https://static.wixstatic.com/media/0b5294_7972f6064b28423287380da7a8154664~mv2_d_2000_1334_s_2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0b5294_7972f6064b28423287380da7a8154664~mv2_d_2000_1334_s_2.jpg",
+      "https://static.wixstatic.com/media/0b5294_478ba75092e9448f97ec4f35ec93c3f2~mv2_d_2000_1334_s_2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0b5294_478ba75092e9448f97ec4f35ec93c3f2~mv2_d_2000_1334_s_2.jpg"
+    ]
   }
 ]
