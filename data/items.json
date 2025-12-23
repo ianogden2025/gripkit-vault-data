@@ -9216,7 +9216,7 @@
     "Travel" : "36in",
     "WebsiteURL" : "https://www.hudsonspider.com/shop/p/slider",
     "Width" : "9 1/2in",
-    "id" : "481",
+    "id" : "7F60F5C1-7402-4308-89DA-70FE722CE0B6",
     "photoURLs" : [
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1704769970926-9ZFDSV7R9KHVEK5QXL6I/X2+slider+squarespace+black.jpg?format=300w",
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1705527292165-04T5NQIW9G94QB7FN5G7/IMG_0983.jpg?format=100w",
@@ -13472,6 +13472,24 @@
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1708028409053-OSFCNRJMT5QUYFZYER57/hedgehog+standard+set.png?format=300w",
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/f98f78cb-d203-4b8d-965c-7320a4031959/Deck+Hedgehog+System.jpg?format=300w",
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/e72e09c8-a05b-4d0a-b072-f72ee87a4032/bleacher01.png?format=300w"
+    ]
+  },
+  {
+    "Category" : "Modtruss/Modulus-X",
+    "Created Date" : "2025-12-23T17:36:50.347Z",
+    "DescriptionText" : "The adjustable L-Camera Plate for Modulus X is designed for precise alignment of professional camera packages.\n \nMachined from high-grade aluminum with a hard-coat surface finish, it supports loads of up to 30 kg and delivers maximum durability on set. The L-shaped design allows accurate lateral and vertical positioning to align the camera package perfectly with the rig’s centerline.\n \nThe three adjustment slots — two curved and one straight — feature threaded holes for securely fixing camera screws, while the remaining mounting points are 3/8” through-holes for flexible integration.",
+    "Last edited time" : "2025-12-23T17:38:59.641Z",
+    "Manufacturers" : "Grip Factory Munich",
+    "Name" : "Adjustable L-Camera Plate for Modulus-X™ ",
+    "WebsiteURL" : "https://www.gripfactory.com/product/l-camera-plate-for-modulus-x",
+    "id" : "AE54F7CE-F435-4113-B7E8-ED4CD93D03D7",
+    "photoURLs" : [
+      "https://static.wixstatic.com/media/3e3f04_f5b1f5934d0e409cab992b50c8d6954b~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_f5b1f5934d0e409cab992b50c8d6954b~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_f96fcd17744f4c318dfd856d08b3d0fc~mv2.gif",
+      "https://static.wixstatic.com/media/3e3f04_c20c013663fc42acab1e739c5f3f2f43~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_c20c013663fc42acab1e739c5f3f2f43~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_621c3e8f934444f69aed0de696d265c0~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_621c3e8f934444f69aed0de696d265c0~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_3f38d5ce36c1410097e7aec27c5ff53b~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_3f38d5ce36c1410097e7aec27c5ff53b~mv2.jpg",
+      "https://static.wixstatic.com/media/3e3f04_6fb3aa62315d4a9b9e1634170c48d768~mv2.jpg/v1/fill/w_1653,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e3f04_6fb3aa62315d4a9b9e1634170c48d768~mv2.jpg"
     ]
   }
 ]
