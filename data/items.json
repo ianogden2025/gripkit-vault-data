@@ -9205,20 +9205,23 @@
     "Crew Required" : [
       "Grip"
     ],
-    "DescriptionText" : "The Spider Slider is a filmmaking tool designed to create smooth camera movements, allowing for dynamic shots in TV and film productions. It features a compact design with a travel distance of 36 inches, supporting payloads of up to 45 kg, and is typically operated by a grip to enhance production quality.",
+    "DescriptionText" : "Compact Power: Experience a 4’ slider in a 2’ frame.\n\nExtremely Rigid: No more flex or cumbersome end support restrictions.\nSpace-Efficient: Fits through doorways and on planes, perfect for on-the-go shoots.\nVersatile: Adjust height, position and angle effortlessly. Ideal for 2’, 3’, and 4’ setups. Bearing stages decouple for infinite offset options.\nSmooth: Incredibly fluid movement, thanks to advanced compounding movement.\nRotating Base: Enhanced with cross roller bearings for seamless rotation.\nUltra-Quiet: Compounding reduces bearing speed by half, reducing sound output exponentially for discreet operation in any setting.\nBuilt to Last: Made in the USA using the highest quality materials ready to operate in any conditions.",
     "Height" : "6in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2025-12-23T17:31:41.770Z",
     "Length" : "29in",
     "Manufacturers" : "Hudson Spider",
     "Max. Weight" : "21kg",
-    "Name" : "Spider Slider",
+    "Name" : "x2 Compound Camera Slider",
     "Payload" : "45kg",
     "Travel" : "36in",
     "WebsiteURL" : "https://www.hudsonspider.com/shop/p/slider",
     "Width" : "9 1/2in",
     "id" : "481",
     "photoURLs" : [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTDIE6v4pB-XoZsptKXbgs1ujkvEC2jvgFg&s"
+      "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1704769970926-9ZFDSV7R9KHVEK5QXL6I/X2+slider+squarespace+black.jpg?format=300w",
+      "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1705527292165-04T5NQIW9G94QB7FN5G7/IMG_0983.jpg?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1705527300159-1IBL485J1I4I5P1WCW2O/IMG_1013.jpg?format=100w",
+      "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1669733124831-2CVV9D8SODCXKU9LHGPJ/Bipod+squarespace.jpg?format=300w"
     ],
     "videoURLs" : [
       "https://youtu.be/ru7R59T01iI"
