@@ -3963,14 +3963,21 @@
     "Features" : [
       "Rated Power Output: 3.6 kW (16A) | Peak Power Output: 18kW (80 A)"
     ],
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T11:42:01.142Z",
     "Manufacturers" : "Instagrid",
     "Min. Weight" : "20kg",
-    "Name" : "Instagrid Power Pack",
+    "Name" : "Instagrid ONE",
     "Operating Temperature" : "- 20 °C to 60 °C",
+    "WebsiteURL" : "https://instagrid.co/gb/products/one",
     "id" : "217",
+    "pdfTypes" : [
+      "Brochure"
+    ],
+    "pdfURLs" : [
+      "https://assets.ctfassets.net/13jsp1mdo5j2/27whtOh0edoG9jWLwyJGxp/d9daac15ae6e38b21d805e849cee3463/Instagrid_APP_Brochure_-_DIGITAL_-_EN-EUROPE.pdf"
+    ],
     "photoURLs" : [
-      "https://assets.zoro.co.uk/Images/p/1500x1500/ZT6336316S/One_230v_Portable_Battery_System_0.jpg?w=1080"
+      "https://tbws.co.uk/wp-content/uploads/2025/08/Instagrid-One-Welding-Battery-Power-Source.jpg"
     ]
   },
   {
