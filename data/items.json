@@ -13530,5 +13530,43 @@
       "https://static.wixstatic.com/media/0b5294_7972f6064b28423287380da7a8154664~mv2_d_2000_1334_s_2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0b5294_7972f6064b28423287380da7a8154664~mv2_d_2000_1334_s_2.jpg",
       "https://static.wixstatic.com/media/0b5294_478ba75092e9448f97ec4f35ec93c3f2~mv2_d_2000_1334_s_2.jpg/v1/fill/w_1652,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0b5294_478ba75092e9448f97ec4f35ec93c3f2~mv2_d_2000_1334_s_2.jpg"
     ]
+  },
+  {
+    "Category" : "Remote Systems",
+    "Controls" : "Joystick, Pedals, Smartphone App",
+    "Created Date" : "2026-02-15T11:21:43.335Z",
+    "DescriptionText" : "Developed by professional cameramen, the patented Multi Slider can be changed from a linear to a curved slider within seconds. Thanks to the innovative modular systems it can be ordered at any length and achieve almost any demanded radius.",
+    "Features" : [
+      "High Speed, ultra silent brushless motor",
+      "Custom lengths built to any length, easily shapeable on set for infinite possiblities."
+    ],
+    "Height" : "2.5”",
+    "Last edited time" : "2026-02-15T11:29:48.990Z",
+    "Length" : "Various",
+    "Manufacturers" : "Waterbird",
+    "Name" : "Multi Slider XL",
+    "Operating Temperature" : "-20° to +40° C",
+    "Payload" : "15kg",
+    "Speed" : "1.4 m/s",
+    "WebsiteURL" : "https://waterbird.at/products/ms-xl/",
+    "Width" : "5.5”",
+    "id" : "F1C86370-032E-4963-96C1-931188FCB107",
+    "pdfTypes" : [
+      "Manual"
+    ],
+    "pdfURLs" : [
+      "https://waterbird.at/wp-content/uploads/2021/01/User_Manual_Waterbird_MSXL_v1-0.pdf"
+    ],
+    "photoURLs" : [
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2021/07/MSXL_Overview_whiteBG_2000x1000.png?w=2000&ssl=1",
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2023/02/msxl_schlitten_schiene_full.42.png?resize=2048%2C1280&ssl=1",
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2021/07/MS_XL_Kettensegmente__trimmed_300x300.png?w=300&ssl=1",
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2023/02/msxl_schlitten_full_1000.43.png?resize=2048%2C2048&ssl=1",
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2019/06/ICON_MS-PRO-Segments.jpg?w=300&ssl=1",
+      "https://i0.wp.com/waterbird.at/wp-content/uploads/2019/06/IMG_7321_web.jpg?w=1000&ssl=1"
+    ],
+    "videoURLs" : [
+      "https://vimeo.com/268596554?fl=pl&fe=cm"
+    ]
   }
 ]
