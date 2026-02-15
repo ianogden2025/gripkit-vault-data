@@ -199,27 +199,15 @@
       "Precision Driver"
     ],
     "DescriptionText" : "Customised street legal Mazda MX5 capable of carrying any of our array rigs for 360 VFX Plate Capture - Arri Alexa Mini's, Arri Alexa Mini LF's, RED V-Raptors, RED Komodos, Sony Venice Rialto cameras.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:05:14.162Z",
     "Manufacturers" : "Brownian Motion",
     "Name" : "MX5 Array Vehicle",
     "Road Legal" : true,
+    "WebsiteURL" : "https://www.brownianmotion.co.uk/products/brownian-mazda-mx5-camera-array-360-plate-shot-vehicle-vfx-hire-london-uk",
     "id" : "12",
     "photoURLs" : [
       "https://brownianmotion-uploads.eu-central-1.linodeobjects.com/product-images/wide/_xl169/IMG_7125_16x9.jpg"
     ]
-  },
-  {
-    "Category" : "Remote Systems",
-    "Created Date" : "December 28, 2024 7:07 PM",
-    "Crew Required" : [
-      "Head Tech"
-    ],
-    "DescriptionText" : "The Cheetah is a remote camera control system used in the TV and film industry for capturing dynamic shots from various angles without requiring a camera operator to be physically present. It allows for precise adjustments and movements, enabling filmmakers to achieve creative, high-quality footage efficiently.",
-    "Last edited time" : "2025-09-27T17:30:31.747Z",
-    "Manufacturers" : "Camera Revolution",
-    "Name" : "The Cheetah",
-    "WebsiteURL" : "https://camerarevolution.com/equipment/the-cheetah/",
-    "id" : "13"
   },
   {
     "Category" : "Dollies",
@@ -1543,12 +1531,13 @@
     "Category" : "Camera Support",
     "Created Date" : "January 18, 2025 3:08 PM",
     "DescriptionText" : "The Quick Change Portrait Plate is a camera support accessory used in the TV and film industry to facilitate rapid switching between landscape and portrait orientations for mounted cameras, ensuring efficient shooting setups during production.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:07:02.367Z",
     "Manufacturers" : "Ratworks Engineering",
     "Name" : "Quick Change Portrait Plate",
     "Other Requirements" : [
       "Quick Release Plate"
     ],
+    "WebsiteURL" : "https://ratworksengineering.com/product/quick-change-portrait-plate/",
     "id" : "82",
     "photoURLs" : [
       "https://ratworksengineering.com/wp-content/uploads/2018/11/IMG_8668.jpg",
@@ -1836,9 +1825,10 @@
     "Category" : "Specialist Rigging",
     "Created Date" : "July 25, 2025 11:20 AM",
     "DescriptionText" : "The Threaded 32mm Tube Connector is a rigging component used in the TV and film industry to securely join and stabilize various equipment such as lighting, camera rigs, and scaffolding structures, ensuring reliable setups during productions.",
-    "Last edited time" : "2026-02-15T13:01:42.991Z",
+    "Last edited time" : "2026-02-15T13:07:13.464Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Name" : "Threaded 32mm Tube Conector",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk",
     "Width" : "32mm",
     "id" : "103",
     "photoURLs" : [
@@ -2030,12 +2020,13 @@
       "Grip"
     ],
     "DescriptionText" : "The Hula Rig is a specialized camera rig used in the TV and film industry to create smooth, dynamic shots, particularly for tracking movements. It allows operators to achieve fluid motion while maintaining stability, making it ideal for scenes that require fluidity and precision.",
-    "Last edited time" : "2025-09-27T17:07:35.603Z",
+    "Last edited time" : "2026-02-15T13:07:52.385Z",
     "Manufacturers" : "The Grip Company",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Hula Rig",
+    "WebsiteURL" : "https://thegripcompany.co.uk/camera-rigs-rent",
     "id" : "116",
     "photoURLs" : [
       "https://assets.super.so/c8ecefae-57de-4a58-b40a-aa72f5a10170/images/4cc4a3ed-8445-40d8-9c85-92637b20e05f/IMG_3549.jpeg"
@@ -2045,7 +2036,7 @@
     "Category" : "Camera Support",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "The Halo Head is a camera support device used in the TV and film industry, designed to stabilize and enhance the movement of cameras using an air floater system. It requires a quick release plate for easy attachment and can be transported in a car.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:07:56.542Z",
     "Manufacturers" : "AC Grips",
     "Min. Transport Required" : [
       "Car"
@@ -2054,6 +2045,7 @@
     "Other Requirements" : [
       "Quick Release Plate"
     ],
+    "WebsiteURL" : "https://vmi.tv/equipment/halo-hire-london-head/",
     "id" : "117",
     "photoURLs" : [
       "https://vmi.tv/wp-content/uploads/sites/3/2020/11/Halo-Head-3-2-460x307.jpg"
@@ -2555,7 +2547,7 @@
     "Fulcrum to Long End" : "13ft 10in",
     "Fulcrum to Rear" : "4ft 6in",
     "Fulcrum to Short End" : "4ft 6.5in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:08:20.173Z",
     "Length" : "5ft 1in (Ultra Hy Hy Base)",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Max. Column/Jib Height" : "4ft 2in",
@@ -2577,6 +2569,7 @@
       "Crab",
       "Rear"
     ],
+    "WebsiteURL" : "https://www.chapman-leonard.com/product/hydrascope15/",
     "Width" : "2ft 3in (Ultra Hy Hy Base)",
     "id" : "140",
     "photoURLs" : [
@@ -2596,7 +2589,7 @@
     "Fulcrum to Long End" : "19ft",
     "Fulcrum to Rear" : "4ft 6in",
     "Fulcrum to Short End" : "5ft 4in",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:08:36.032Z",
     "Length" : "5ft 1in (Ultra Hy Hy Base)",
     "Manufacturers" : "Chapman/Leonard Studio Equipment",
     "Max. Column/Jib Height" : "4ft 2in",
@@ -2618,6 +2611,7 @@
       "Crab",
       "Rear"
     ],
+    "WebsiteURL" : "https://www.chapman-leonard.com/product/hydrascope-20/",
     "Width" : "2ft 3in (Ultra Hy Hy Base)",
     "id" : "141",
     "photoURLs" : [
@@ -2841,13 +2835,14 @@
       "Grip"
     ],
     "DescriptionText" : "The Adjustable Wedge Plate is a camera support accessory used in the TV and film industry to achieve precise tilting angles from 0 to 60°. It allows for stable camera positioning and adjustments, facilitating dynamic shots and enhancing overall production quality.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:08:59.230Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Adjustable Wedge Plate",
     "Tilt Range" : "0 to 60°",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "154",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2017/03/Ronford-Baker-Adjustable-Wedge-Plate_shootblue.png"
@@ -2917,12 +2912,13 @@
       "Grip"
     ],
     "DescriptionText" : "A Hi Hat is a camera support used in the TV and film industry to provide stability for cameras at low angles. It consists of a flat platform with adjustable legs, allowing for precise positioning and movement during shooting.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:09:04.468Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Hi Hat",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "158",
     "photoURLs" : [
       "https://vmi.tv/wp-content/uploads/sites/3/2020/11/Ronford-Baker-Moy-Hi-Hat-3-2.jpg"
@@ -2935,12 +2931,13 @@
       "Grip"
     ],
     "DescriptionText" : "The \"Moy-to-Boss\" is a camera support device used in the TV and film industry to stabilize cameras during shooting, allowing for smooth movement and preventing unwanted vibrations. It typically requires grip crew and is transported by car.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:09:08.060Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Moy-to-Boss",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "159",
     "photoURLs" : [
       "https://genesishire.com/wp-content/uploads/2021/11/euro-boss-adapter-scaled.jpg"
@@ -2953,12 +2950,13 @@
       "Grip"
     ],
     "DescriptionText" : "The 7” Rotating Offset is a camera support accessory used in the TV and film industry to provide flexible positioning of cameras, allowing for dynamic shots and angles. It is typically mounted on tripods or rigs and is essential for achieving precise camera movements.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:09:24.864Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "7” Rotating Offset",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "160",
     "photoURLs" : [
       "https://vmi.tv/wp-content/uploads/sites/3/2023/05/Rotating-offset.jpg",
@@ -2994,7 +2992,7 @@
       "Grip"
     ],
     "DescriptionText" : "The Tri-Hat is a camera support accessory used in the TV and film industry to stabilize and support cameras on uneven surfaces. It typically requires a head for mounting and is essential for achieving smooth shots during filming.",
-    "Last edited time" : "2025-09-27T20:46:04.279Z",
+    "Last edited time" : "2026-02-15T13:09:47.872Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
@@ -3003,6 +3001,7 @@
     "Other Requirements" : [
       "Head"
     ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "162",
     "photoURLs" : [
       "https://www.mediadoghire.com/wp-content/uploads/2023/01/ronford-tri-hat.jpeg"
@@ -3034,12 +3033,13 @@
       "Grip"
     ],
     "DescriptionText" : "The Three-Way Leveller is a camera support tool used in the TV and film industry to stabilize and level cameras on uneven surfaces. It allows for precise adjustments in three directions, ensuring smooth and balanced shots during production.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:10:02.031Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Three-Way Leveller",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "164",
     "photoURLs" : [
       "https://lh4.googleusercontent.com/proxy/zumQxrWlOclZhLwx_6SFrDSUjpjIhUekMYrsbCk5BoTubbCqaBxU_rGgwlZaQ0vmoN9HcfhEbq_pMKVIUmuZ4pa9VvPz358dk_XwUJEJhLsgN8_sOs4DZZI_K0KRiT_xMacUmkNH0RC_OGckCNX67c9x8A"
@@ -3071,12 +3071,13 @@
       "Grip"
     ],
     "DescriptionText" : "The Four-Way Leveller is a camera support device used in the TV and film industry to stabilize and level cameras on uneven surfaces, ensuring smooth and balanced shots during filming.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:10:26.669Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Four-Way Leveller",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "166",
     "photoURLs" : [
       "https://www.ljud-bildmedia.se/prod/1010259.00/1010259.00_01.jpg"
@@ -3089,12 +3090,13 @@
       "Grip"
     ],
     "DescriptionText" : "The Twin Tube Paddle Mount is a camera support device used in the TV and film industry to stabilize cameras during shooting, particularly for handheld or moving shots. It attaches to various equipment and allows for smooth, controlled movement, enhancing the overall production quality.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:10:30.358Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Car"
     ],
     "Name" : "Twin Tube Paddle Mount",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/general-accessories/",
     "id" : "167",
     "photoURLs" : [
       "https://genesishire.com/wp-content/uploads/2016/10/ronford.jpg"
@@ -3337,12 +3339,14 @@
       "24ft Camera Centre"
     ],
     "Inside Diameter" : "21ft 6in",
-    "Last edited time" : "2025-09-27T20:40:33.584Z",
+    "Last edited time" : "2026-02-15T13:12:33.675Z",
+    "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
     ],
     "Name" : "Large Circle Track (24ft)",
     "Outside Diameter" : "26ft 6in",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "184",
     "photoURLs" : [
       "https://www.bhphotovideo.com/images/fb/Black_Bear_CT01_8_Foldable_Type_Curved_826505.jpg"
@@ -3359,12 +3363,14 @@
       "18ft Camera Centre"
     ],
     "Inside Diameter" : "15ft 6in",
-    "Last edited time" : "2025-09-27T20:40:35.035Z",
+    "Last edited time" : "2026-02-15T13:12:40.114Z",
+    "Manufacturers" : "Ronford Baker Engineering",
     "Min. Transport Required" : [
       "Van"
     ],
     "Name" : "Medium Circle Track (18ft)",
     "Outside Diameter" : "20ft 6in",
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "185",
     "photoURLs" : [
       "https://media.redstarpictures.com/wp-content/uploads/2022/08/01222314/Dolly-Track-Curved-45.webp"
@@ -3378,7 +3384,7 @@
     ],
     "DescriptionText" : "A Dolly Track is a specialized rail system used in the TV and film industry to facilitate smooth camera movements. It allows a camera mounted on a dolly to glide along the track, enabling dynamic shots and precise movement during filming.",
     "Height" : "4in",
-    "Last edited time" : "2025-09-30T20:03:08.228Z",
+    "Last edited time" : "2026-02-15T13:12:51.673Z",
     "Length" : "1ft | 2ft | 3ft | 4ft | 6ft | 8ft",
     "Manufacturers" : "Dunton Cine Engineering",
     "Name" : "MOY Dolly Track",
@@ -3387,6 +3393,7 @@
       "Track Joiners",
       "Wedges"
     ],
+    "WebsiteURL" : "https://www.duntoncineengineering.com/moy-steel-track",
     "Width" : "30in",
     "id" : "186",
     "photoURLs" : [
@@ -3410,12 +3417,14 @@
       "12ft Camera Centre"
     ],
     "Inside Diameter" : "9ft 6in",
-    "Last edited time" : "2025-09-27T20:40:39.633Z",
+    "Last edited time" : "2026-02-15T13:12:10.861Z",
+    "Manufacturers" : "-",
     "Min. Transport Required" : [
       "Van"
     ],
     "Name" : "Small Circle Track (12ft)",
     "Outside Diameter" : "14ft 6in",
+    "WebsiteURL" : "-",
     "id" : "187",
     "photoURLs" : [
       "https://hdgear.tv/wp-content/uploads/2023/03/40743699-FB1B-45E9-9ECB-190886BC448F.jpeg"
@@ -3425,7 +3434,7 @@
     "Category" : "Track",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "The 50' Technocrane Track is a specialized track system used in the TV and film industry to support Technocrane cameras, allowing for smooth and precise camera movements during shoots. It enables filmmakers to capture dynamic shots from various angles and heights, enhancing the visual storytelling.",
-    "Last edited time" : "2025-09-27T20:27:26.208Z",
+    "Last edited time" : "2026-02-15T13:11:37.469Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Name" : "50’ Technocrane Track",
     "Other Requirements" : [
@@ -3433,6 +3442,7 @@
       "Track Joiners",
       "Wedges"
     ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "189",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_shoobue_tv.jpg"
@@ -3445,9 +3455,10 @@
       "Grip"
     ],
     "DescriptionText" : "A dolly track run up is a filmmaking tool used to smoothly guide a camera along a set path, allowing for dynamic and stable movement during shots. It is essential for capturing smooth tracking shots in both TV and film productions.",
-    "Last edited time" : "2025-09-27T20:25:45.944Z",
+    "Last edited time" : "2026-02-15T13:13:05.808Z",
     "Manufacturers" : "Dunton Cine Engineering",
     "Name" : "Dolly Track Run Up",
+    "WebsiteURL" : "https://www.duntoncineengineering.com/moy-steel-track",
     "id" : "190",
     "photoURLs" : [
       "https://images.squarespace-cdn.com/content/v1/5dc9705736a14e4248e59097/1574170065806-X02056J2T6UGB173SQNG/dolly-riser1.jpg?format=750w"
@@ -3457,7 +3468,7 @@
     "Category" : "Track",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "A 1m crane track is a specialized equipment used in the TV and film industry to create smooth, controlled camera movements. It allows cameras to glide along a fixed path, enhancing the production's visual storytelling by providing dynamic shots and angles.",
-    "Last edited time" : "2025-09-27T20:27:51.769Z",
+    "Last edited time" : "2026-02-15T13:11:40.603Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Name" : "1m Crane Track",
     "Other Requirements" : [
@@ -3465,6 +3476,7 @@
       "Track Joiners",
       "Wedges"
     ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "191",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_shoobue_tv.jpg"
@@ -3474,7 +3486,7 @@
     "Category" : "Track",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "The 30' Technocrane Track is a specialized track system used in the TV and film industry to support the movement of a Technocrane, allowing for smooth and controlled camera movements during filming. It enables dynamic shots and precise positioning, enhancing the visual storytelling of productions.",
-    "Last edited time" : "2025-09-27T20:27:52.920Z",
+    "Last edited time" : "2026-02-15T13:11:45.019Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Name" : "30’ Technocrane Track",
     "Other Requirements" : [
@@ -3482,6 +3494,7 @@
       "Track Joiners",
       "Wedges"
     ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "192",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_shoobue_tv.jpg"
@@ -3491,7 +3504,7 @@
     "Category" : "Track",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "An 50’ crane track is a specialized equipment used in the TV and film industry to create smooth camera movements along a set path. It allows filmmakers to achieve dynamic shots, such as tracking or panning, enhancing the overall production quality.",
-    "Last edited time" : "2025-09-27T20:28:02.779Z",
+    "Last edited time" : "2026-02-15T13:11:48.262Z",
     "Manufacturers" : "Ronford Baker Engineering",
     "Name" : "50’ Crane Track",
     "Other Requirements" : [
@@ -3499,6 +3512,7 @@
       "Track Joiners",
       "Wedges"
     ],
+    "WebsiteURL" : "http://www.ronfordbaker.co.uk/products/track/",
     "id" : "193",
     "photoURLs" : [
       "https://shootblue.tv/wp-content/uploads/2018/03/Ronford-baker-dolly-track_shoobue_tv.jpg"
@@ -3511,11 +3525,14 @@
       "Head Tech"
     ],
     "DescriptionText" : "The Oculus 4 Axis Head is a stabilised camera mount used in TV and film production to achieve smooth and controlled movements. It allows for dynamic shots by stabilizing the camera on four axes, making it ideal for capturing high-quality footage in motion.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:13:39.297Z",
     "Manufacturers" : "Cinemoves",
     "Name" : "Oculus 4 axis Head",
     "WebsiteURL" : "https://camerarevolution.com/equipment/oculus/",
-    "id" : "194"
+    "id" : "194",
+    "photoURLs" : [
+      "https://www.allaxissystems.com/allaxis/wp-content/uploads/2015/03/OculusSlider3.jpg"
+    ]
   },
   {
     "Axis" : "4",
@@ -3560,14 +3577,21 @@
     "Crew Required" : [
       "Dolly Grip (lvl 2)"
     ],
-    "DescriptionText" : "A cricket dolly is a specialized camera support used in the TV and film industry, enabling smooth and stable movement during shots. It is typically operated by a dolly grip and is essential for achieving dynamic tracking shots or fluid camera movements.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "DescriptionText" : "The Elemack Cricket is a versatile dollie designed to enhance camera stability and control. With a lightweight aluminium construction and adjustable height, it accommodates various shot types, from handheld tracking to precise framing. \n",
+    "Last edited time" : "2026-02-15T13:15:55.918Z",
     "Manufacturers" : "Elemack",
     "Min. Transport Required" : [
       "Van"
     ],
     "Name" : "Cricket",
+    "WebsiteURL" : "https://phillipcovell.com/Elemack/",
     "id" : "196",
+    "pdfTypes" : [
+      "Manual"
+    ],
+    "pdfURLs" : [
+      "https://www.phillipcovell.com/gallery/Elemack%20Cricket%20Manual.pdf"
+    ],
     "photoURLs" : [
       "https://cdn.cvp.com/images/products/altimage/28-03-20251743157367ev151230.001_2.jpg"
     ]
@@ -3580,7 +3604,7 @@
       "Dolly Grip (lvl 2)"
     ],
     "DescriptionText" : "The Spyder is a professional dolly used in the TV and film industry for smooth camera movement. It supports a payload of up to 90kg and requires a Dolly Grip (level 2) to operate, making it ideal for dynamic shots and tracking movements on set.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:16:16.881Z",
     "Manufacturers" : "Elemack",
     "Max. Column/Jib Height" : "57 3/4in",
     "Min. Column/Jib Height" : "30in",
@@ -3590,6 +3614,7 @@
     "Min. Weight" : "100kg",
     "Name" : "Spyder",
     "Payload" : "90kg",
+    "WebsiteURL" : "https://phillipcovell.com/Elemack/",
     "id" : "197",
     "photoURLs" : [
       "https://static.wixstatic.com/media/2b2c2a_852718e195574d3b90d504ae9720d1ea~mv2.png/v1/crop/x_331,y_0,w_2361,h_2024/fill/w_658,h_564,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Spyder%20Dolly.png"
@@ -4736,12 +4761,13 @@
     "Category" : "Stabilised Heads",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "The Underwater Libra is a stabilised head used in the TV and film industry for underwater filming. It ensures smooth and stable camera movements while capturing dynamic shots beneath the water's surface, enhancing the visual quality of underwater scenes.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:16:57.042Z",
     "Manufacturers" : "Libra Remotes",
     "Min. Transport Required" : [
       "Van"
     ],
     "Name" : "Underwater Libra",
+    "WebsiteURL" : "https://www.camerarevolution.com",
     "id" : "253",
     "photoURLs" : [
       "https://www.camerarevolution.com/wp-content/uploads/2024/03/Water-resistant.jpg"
@@ -4909,11 +4935,17 @@
       "Head Tech"
     ],
     "DescriptionText" : "The Shotover G1 is a high-performance stabilized head used in the TV and film industry for capturing smooth, stable shots, particularly during dynamic filming conditions. It is designed to enhance camera stability and control, allowing for precise movements and high-quality footage.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:17:50.024Z",
     "Manufacturers" : "Shotover",
     "Name" : "Shotover G1",
     "WebsiteURL" : "http://shotover.com/products/g1",
-    "id" : "265"
+    "id" : "265",
+    "photoURLs" : [
+      "https://shotover.com/site_assets/content/image_sliders/canvas-G1-v2_1.jpg"
+    ],
+    "videoURLs" : [
+      "https://vimeo.com/923388837?fl=pl&fe=cm"
+    ]
   },
   {
     "Category" : "Comms",
@@ -4937,13 +4969,22 @@
       "Head Tech"
     ],
     "DescriptionText" : "The Alpha Stabilized Head is a specialized camera support system used in the TV and film industry, designed to provide stability and smooth movement for cameras during filming. With a payload capacity of 68kg and controls via joystick, pan bar, and wheels, it allows for precise maneuverability and control, essential for capturing high-quality footage in dynamic shooting environments.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:19:03.592Z",
     "Manufacturers" : "Alpha Stabilized",
     "Min. Weight" : "36kg",
     "Name" : "Alpha Stabilized Head",
     "Payload" : "68kg",
     "WebsiteURL" : "http://www.alphastabilized.com/overview/",
-    "id" : "267"
+    "id" : "267",
+    "pdfTypes" : [
+      "Brochure"
+    ],
+    "pdfURLs" : [
+      "http://www.alphastabilized.com/wp-content/uploads/2016/10/ALPHA-TS-Geo-Film.pdf"
+    ],
+    "photoURLs" : [
+      "https://sunbeltrentalsuk-media.azureedge.net/media/ProductMedia/126031/c316218702ed480c91d0ec9da25b6401.jpg"
+    ]
   },
   {
     "Axis" : "3",
@@ -4954,14 +4995,17 @@
     ],
     "DescriptionText" : "The Alpha-M is a stabilized head used in the TV and film industry to provide smooth camera movements and stable shots, allowing for 360° panning and a roll range of ±45°. It is designed to support various camera setups, ensuring high-quality footage during dynamic shooting scenarios.",
     "Height" : "31 1/2in underslung full drop | 25 3/4in underslung shortest drop | 23in overslung",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:19:50.029Z",
     "Manufacturers" : "Alpha Stabilized",
     "Name" : "Alpha-M",
     "Pan Range" : "360°",
     "Roll Range" : "90°  (+/- 45°)",
     "WebsiteURL" : "http://www.alphastabilized.com/alpha-m/",
     "Width" : "25 1/2in",
-    "id" : "268"
+    "id" : "268",
+    "photoURLs" : [
+      "https://www.independentgrip.co.uk/product_images/RollRing1.png"
+    ]
   },
   {
     "Category" : "Tracking Vehicles",
@@ -5790,11 +5834,12 @@
     ],
     "DescriptionText" : "The Hover Dolly is a specialized filmmaking tool used to create smooth, gliding camera movements. With its compact design and adjustable height, it allows for versatile tracking shots and dynamic angles, enhancing the visual storytelling in TV and film production.",
     "Height" : "160mm (dolly only) | 100mm to Mitchell Plate when on Delta Track",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:20:20.656Z",
     "Length" : "480mm (dolly only)",
     "Manufacturers" : "Arri",
     "Min. Weight" : "9kg",
     "Name" : "Hover Dolly",
+    "WebsiteURL" : "https://www.arrirental.com/en/grip/dollies/hover-dolly",
     "Width" : "275mm (dolly only) | 390mm on Delta Track",
     "id" : "315",
     "photoURLs" : [
@@ -6002,11 +6047,14 @@
       "Precision Driver"
     ],
     "DescriptionText" : "The Panatracker EV is a remote tracking vehicle system used in the TV and film industry to capture dynamic shots with precision. It allows for controlled movement of cameras, providing filmmakers with versatile and smooth tracking capabilities during production.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:20:42.939Z",
     "Manufacturers" : "Panavision",
     "Name" : "Panatracker EV",
     "WebsiteURL" : "https://www.panavision.com/grip-remote/remote-systems/product-detail/ptv-panatracker-ev",
-    "id" : "324"
+    "id" : "324",
+    "photoURLs" : [
+      "https://www.panavision.com/images/default-source/product-images/panavision-grip-and-remote/remote-systems/ptv_panatracker-ev/gr_remote-systems_mobile-base_panavision_panatracker_ev_01-png.png?sfvrsn=67674bba_0"
+    ]
   },
   {
     "Category" : "Comms",
@@ -6361,11 +6409,14 @@
       "Head Tech"
     ],
     "DescriptionText" : "The Flight Head Colibri is a stabilized camera head used in the TV and film industry for smooth and dynamic shots, allowing operators to capture high-quality footage with reduced vibrations and shakes while moving.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:21:10.061Z",
     "Manufacturers" : "Filmotechnic",
     "Name" : "Flight Head Colibri",
     "WebsiteURL" : "https://filmotechnic.nl/colibri/",
-    "id" : "338"
+    "id" : "338",
+    "photoURLs" : [
+      "https://filmotechnic.nl/wp-content/uploads/2024/03/fh-colibri-003_2022-940x500.jpg"
+    ]
   },
   {
     "Category" : "Stabilised Heads",
@@ -6374,11 +6425,14 @@
       "Head Tech"
     ],
     "DescriptionText" : "The Flight Head Mini is a compact stabilized camera head used in the TV and film industry for smooth and precise camera movement. It is typically mounted on a tripod or rig, enabling operators to achieve dynamic shots with minimal vibrations, enhancing the visual quality of productions.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:21:32.106Z",
     "Manufacturers" : "Filmotechnic",
     "Name" : "Flight Head Mini",
     "WebsiteURL" : "https://filmotechnic.nl/flight-head-mini/",
-    "id" : "339"
+    "id" : "339",
+    "photoURLs" : [
+      "https://filmotechnic.nl/wp-content/uploads/2018/07/flighthead-img-2.jpg"
+    ]
   },
   {
     "Category" : "Sliders",
@@ -7514,9 +7568,10 @@
     "Category" : "Woodwork",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "Finger wedges are wooden tools used in the TV and film industry for precise alignment and stabilization of various set pieces and props during filming. They help ensure that items remain securely in place, allowing for smoother shots and reducing the need for post-production adjustments.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:21:47.496Z",
     "Manufacturers" : "Setgear",
     "Name" : "Finger Wedges",
+    "WebsiteURL" : "https://www.setgear.co.uk/products/wedge-finger",
     "id" : "387",
     "photoURLs" : [
       "https://www.setgear.co.uk/cdn/shop/products/WedgesNewFreshPhoto_360x.jpg?v=1680721380"
@@ -7539,9 +7594,10 @@
     "Category" : "Woodwork",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "Large wedges are commonly used in the TV and film industry for set construction and staging. They provide stability and support for props, set pieces, and equipment, ensuring safety and proper alignment during production.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:22:05.148Z",
     "Manufacturers" : "Setgear",
     "Name" : "Large Wedges",
+    "WebsiteURL" : "https://www.setgear.co.uk/collections/grip-kit/products/wedges",
     "id" : "389",
     "photoURLs" : [
       "https://www.setgear.co.uk/cdn/shop/products/P1410079_360x.jpg?v=1652257464"
@@ -8400,9 +8456,10 @@
     "Category" : "Comms",
     "Created Date" : "December 28, 2024 7:07 PM",
     "DescriptionText" : "The HME Comms Kit is a communication system widely used in the TV and film industry to facilitate clear and reliable communication between crew members on set, ensuring smooth coordination during production.",
-    "Last edited time" : "2025-09-27T15:47:43.696Z",
+    "Last edited time" : "2026-02-15T13:22:29.174Z",
     "Manufacturers" : "HME",
     "Name" : "Clear-Com Comms Kit",
+    "WebsiteURL" : "https://www.clearcom.com",
     "id" : "432",
     "photoURLs" : [
       "https://www.fullcompass.com/common/products/original/82456.jpg"
