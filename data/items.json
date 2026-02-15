@@ -3,14 +3,16 @@
     "Category" : "Camera Support",
     "Created Date" : "April 6, 2025 11:44 AM",
     "DescriptionText" : "The Docz Foot Stabiliser is a camera support accessory designed to enhance stability and prevent camera shake during filming. It is used in the TV and film industry to provide a solid base for tripods or cameras on uneven surfaces, ensuring smooth and steady shots.",
-    "Last edited time" : "2025-10-12T22:39:18.161Z",
+    "Last edited time" : "2026-02-15T11:15:13.264Z",
     "Manufacturers" : "3 Legged Thing",
     "Name" : "Docz Foot Stabiliser",
     "WebsiteURL" : "https://www.3leggedthing.com/uk/docz2.html",
     "id" : "622CBF08-AC39-4D82-942B-21CC46065EAA",
+    "pdfTypes" : [
+      "Brochure"
+    ],
     "photoURLs" : [
-      "https://www.3leggedthing.com/media/catalog/product/cache/458c2b2c08ce2b77f8327b7301166bd4/d/o/docz2-1.jpg",
-      "https://www.3leggedthing.com/media/catalog/product/cache/458c2b2c08ce2b77f8327b7301166bd4/d/o/docz2-17_1.jpg"
+      "https://cdn.shopify.com/s/files/1/0949/7840/8712/files/3LT1138_c54f8acc-7e3c-42db-97fe-288478c75faf.jpg?v=1756313607"
     ]
   },
   {
@@ -18,14 +20,14 @@
     "Created Date" : "April 6, 2025 11:16 AM",
     "DescriptionText" : "The Alana monopod is a carbon fiber camera support designed for stability and portability in the TV and film industry. It allows operators to capture smooth, dynamic shots while reducing camera shake, making it ideal for handheld shooting, tracking shots, and low-angle perspectives.",
     "Height" : "Min. 17.7in | Max 58.7in",
-    "Last edited time" : "2025-12-21T15:29:44.400Z",
+    "Last edited time" : "2026-02-15T11:15:42.027Z",
     "Manufacturers" : "3 Legged Thing",
     "Name" : "Monopod (Alana)",
     "Payload" : "60kg",
     "WebsiteURL" : "https://www.3leggedthing.com/uk/legends-alana-carbon-fibre-monopod-config.html",
     "id" : "2",
     "photoURLs" : [
-      "https://www.3leggedthing.com/media/catalog/product/cache/9166a717bb576696a0e976f879e38147/a/l/alanadark-18066.jpg"
+      "https://3leggedthing.com/cdn/shop/files/alanadark-18066.jpg?v=1769768266&width=1125"
     ]
   },
   {
