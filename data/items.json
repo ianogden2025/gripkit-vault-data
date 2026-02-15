@@ -13596,5 +13596,29 @@
     "videoURLs" : [
       "https://youtu.be/LQgVTorIdUM"
     ]
+  },
+  {
+    "Category" : "Power",
+    "Created Date" : "2026-02-15T11:47:18.049Z",
+    "DescriptionText" : "Voltstack 2k is the trailblazing electric generator that reigns supreme in the realm of silent, emission-free, off-grid portable power. With its cutting-edge technology and sleek design, the Voltstack 5k stands tall as an industry leader. This powerhouse of a portable battery energy storage system effortlessly handles the power needs of temporary projects of almost any scale.",
+    "Height" : "30in",
+    "Last edited time" : "2026-02-15T11:48:21.555Z",
+    "Length" : "32in",
+    "Manufacturers" : "Portable Electric",
+    "Max. Weight" : "150kg",
+    "Name" : "Voltstack 2k Electric Generator",
+    "Operating Temperature" : "-20°C to 50°C",
+    "WebsiteURL" : "https://portable-electric.com/voltstack-power-stations/voltstack-5k-power-station/",
+    "Width" : "24in",
+    "id" : "86125EFB-634C-42E7-9CA5-3C3234B4191E",
+    "pdfTypes" : [
+      "Brochure"
+    ],
+    "pdfURLs" : [
+      "https://healthpro-production.s3.ca-central-1.amazonaws.com/pdfs/covid/field/CAN-med__Agent__-_VOLTstack_2k.pdf"
+    ],
+    "photoURLs" : [
+      "https://cdn.prod.website-files.com/6052260588608de53210f981/6662466c5d21ae21372d8cd8_2k%20Left%20Face%20Angle.png"
+    ]
   }
 ]
