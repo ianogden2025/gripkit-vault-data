@@ -13714,7 +13714,7 @@
       "2 x Level 3 Grips",
       "2 x Level 2 Crane Techs"
     ],
-    "DescriptionText" : "The Scorpio 55 is a telescopic crane with a payload of 40kg. It can be used for lifting and positioning equipment, with a maximum height of 54ft 8in and an arm travel of 46ft 9in.",
+    "DescriptionText" : "The Scorpio 55′ is based on the reliable Scorpio 45′, sharing the same structural components, with the addition of one more telescopic section to increase the camera height by 3 m (9’7’’).",
     "Features" : [
       "Automatic arc compensation for arm movement in both Pan and Tilt.",
       "Programmable limits for the telescopic arm movement.",
@@ -13729,7 +13729,7 @@
     "Fulcrum to Rear" : "9ft 2in",
     "Fulcrum to Short End" : "7ft 10 in",
     "Height" : "7ft",
-    "Last edited time" : "2026-05-17T08:43:48.029Z",
+    "Last edited time" : "2026-05-17T08:45:10.238Z",
     "Length" : "5ft 10in",
     "Manufacturers" : "Servicevision",
     "Max. Lens Height (Overslung)" : "54ft 8in",
