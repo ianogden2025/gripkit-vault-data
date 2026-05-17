@@ -13714,7 +13714,7 @@
       "2 x Level 3 Grips",
       "2 x Level 2 Crane Techs"
     ],
-    "DescriptionText" : "The Scorpio 55 is a telescopic crane designed for professional use, featuring a 55-metre reach and a 11-metre boom. It is ideal for filming in various locations, offering flexibility and precision in lifting and moving heavy equipment.",
+    "DescriptionText" : "The Scorpio 55 is a telescopic crane with a payload of 40kg. It can be used for lifting and positioning equipment, with a maximum height of 54ft 8in and an arm travel of 46ft 9in.",
     "Features" : [
       "Automatic arc compensation for arm movement in both Pan and Tilt.",
       "Programmable limits for the telescopic arm movement.",
@@ -13729,7 +13729,7 @@
     "Fulcrum to Rear" : "9ft 2in",
     "Fulcrum to Short End" : "7ft 10 in",
     "Height" : "7ft",
-    "Last edited time" : "2026-05-17T08:43:09.909Z",
+    "Last edited time" : "2026-05-17T08:43:48.029Z",
     "Length" : "5ft 10in",
     "Manufacturers" : "Servicevision",
     "Max. Lens Height (Overslung)" : "54ft 8in",
