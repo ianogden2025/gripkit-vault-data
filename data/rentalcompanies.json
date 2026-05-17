@@ -153,6 +153,7 @@
       "19",
       "20",
       "214",
+      "217",
       "224",
       "227",
       "312",
@@ -161,6 +162,7 @@
       "356",
       "357",
       "361",
+      "362",
       "364",
       "378",
       "379",
@@ -169,7 +171,8 @@
       "385",
       "813F1638-6868-4F11-93B9-F0EBA99BED45",
       "A0672819-85B0-4007-A863-B26496F84CB5",
-      "A5CD2587-AF50-4BCE-974D-E79A71633102"
+      "A5CD2587-AF50-4BCE-974D-E79A71633102",
+      "C82D89C6-C961-4186-978D-F871BB17A039"
     ],
     "emails" : [
       "info@thegripcompany.co.uk"
@@ -1052,51 +1055,6 @@
     "id" : "24CD9393-76F8-4362-B912-449704F4E042",
     "phones" : [
       "+44 2038161776"
-    ]
-  },
-  {
-    "AccentColor" : "ffffff",
-    "ContactEmail" : "hire@genesishire.com",
-    "LogoURL" : "https://genesishire.com/wp-content/uploads/2019/12/new-logo-large1.jpg",
-    "Name" : "Genesis",
-    "PhoneNumber" : "020 3268 2424  ",
-    "TextColor" : "000000",
-    "WebsiteURL" : "https://genesishire.com/product-category/grip/",
-    "availableItemIDs" : [
-      "156",
-      "157",
-      "158",
-      "159",
-      "161",
-      "164",
-      "167",
-      "168",
-      "173",
-      "186",
-      "215",
-      "216",
-      "22",
-      "222",
-      "312",
-      "31E2256A-9DA7-45BF-A624-DCF8A42C9322",
-      "389",
-      "448",
-      "476",
-      "69",
-      "73",
-      "7BC3CED9-B334-4ABD-BDF6-81F1241649FB",
-      "7FA2724A-5F92-42B7-994E-96B3B0468C8D",
-      "813F1638-6868-4F11-93B9-F0EBA99BED45",
-      "99346885-3C5E-48B3-AEC3-B459C4216B9B",
-      "AF2B3A0B-C381-40AE-8346-0AA8F7B4A179",
-      "D7F26145-35E2-4604-8715-48E3EE08781D"
-    ],
-    "emails" : [
-      "hire@genesishire.com"
-    ],
-    "id" : "E5527B0E-AE33-4979-98B9-90C1BB6AAE1B",
-    "phones" : [
-      "020 3268 2424  "
     ]
   },
   {
