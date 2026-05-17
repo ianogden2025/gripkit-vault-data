@@ -13704,5 +13704,53 @@
     "photoURLs" : [
       "https://cdn.prod.website-files.com/6052260588608de53210f981/6662466c5d21ae21372d8cd8_2k%20Left%20Face%20Angle.png"
     ]
+  },
+  {
+    "Arm Travel" : "46ft 9in",
+    "Category" : "Telescopic Cranes",
+    "Column/Jib Travel" : "2ft 9in",
+    "Created Date" : "2026-05-17T08:33:27.583Z",
+    "Crew Required" : [
+      "2 x Level 3 Grips",
+      "2 x Level 2 Crane Techs"
+    ],
+    "DescriptionText" : "The Scorpio 55 is a telescopic crane designed for professional use, featuring a 55-metre reach and a 11-metre boom. It is ideal for filming in various locations, offering flexibility and precision in lifting and moving heavy equipment.",
+    "Features" : [
+      "Automatic arc compensation for arm movement in both Pan and Tilt.",
+      "Programmable limits for the telescopic arm movement.",
+      "Programmable movements for the telescopic arm.",
+      "Movement generator for the telescopic arm relative to Pan or Tilt.",
+      "On-screen data display: arm range, optical axis height, and Pan/Tilt angles.",
+      "Programmable stop sequence.",
+      "Pan, Tilt, and Arm encoder output for Motion Capture workflows. (Servicevision offers the Scorpio AR system).",
+      "Interface capability between the Scorpio head and the crane, allowing for back-panning with non-stabilized heads or tracking."
+    ],
+    "Fulcrum to Long End" : "55ft",
+    "Fulcrum to Rear" : "9ft 2in",
+    "Fulcrum to Short End" : "7ft 10 in",
+    "Height" : "7ft",
+    "Last edited time" : "2026-05-17T08:43:09.909Z",
+    "Length" : "5ft 10in",
+    "Manufacturers" : "Servicevision",
+    "Max. Lens Height (Overslung)" : "54ft 8in",
+    "Max. Lens Height (Underslung)" : "50ft 9in",
+    "Max. Weight" : "2473kg",
+    "Min. Lens Height" : "-31ft 6in",
+    "Min. Transport Required" : [
+      "Truck"
+    ],
+    "Min. Weight" : "1516kg",
+    "Name" : "Scorpio 55",
+    "Payload" : "40kg Overslung and Underslung",
+    "Speed" : "3.12 m/s",
+    "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/telescopic-cranes/scorpio-55/",
+    "Width" : "4ft 11in",
+    "id" : "B5DC5C05-1B95-470A-9779-E27320C33A67",
+    "pdfURLs" : [
+      "https://scorpio.servicevision.es/en/product/grips-en/telescopic-cranes/scorpio-55/?attachment_id=11092&download_file=0yjjv2hg3ndry"
+    ],
+    "photoURLs" : [
+      "https://scorpio.servicevision.es/wp-content/uploads/2026/03/SCORPIO55-1536x908.jpg"
+    ]
   }
 ]
