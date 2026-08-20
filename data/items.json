@@ -8,9 +8,6 @@
     "Name" : "Docz Foot Stabiliser",
     "WebsiteURL" : "https://www.3leggedthing.com/uk/docz2.html",
     "id" : "622CBF08-AC39-4D82-942B-21CC46065EAA",
-    "pdfTypes" : [
-      "Brochure"
-    ],
     "photoURLs" : [
       "https://cdn.shopify.com/s/files/1/0949/7840/8712/files/3LT1138_c54f8acc-7e3c-42db-97fe-288478c75faf.jpg?v=1756313607"
     ]
@@ -1327,6 +1324,9 @@
     "WebsiteURL" : "https://modtruss.com/products/truss",
     "Width" : "6 1/4in",
     "id" : "67",
+    "pdfTitles" : [
+      "Spec Sheet"
+    ],
     "pdfTypes" : [
       "Spec Sheet"
     ],
@@ -3586,6 +3586,9 @@
     "Name" : "Cricket",
     "WebsiteURL" : "https://phillipcovell.com/Elemack/",
     "id" : "196",
+    "pdfTitles" : [
+      "Manual"
+    ],
     "pdfTypes" : [
       "Manual"
     ],
@@ -4021,6 +4024,9 @@
     "Operating Temperature" : "- 20 °C to 60 °C",
     "WebsiteURL" : "https://instagrid.co/gb/products/one",
     "id" : "217",
+    "pdfTitles" : [
+      "Brochure"
+    ],
     "pdfTypes" : [
       "Brochure"
     ],
@@ -4184,6 +4190,9 @@
     "WebsiteURL" : "https://www.jlfisher.com/10rhc",
     "Width" : "32in wheels out | 26 3/4” wheels in",
     "id" : "224",
+    "pdfTitles" : [
+      "Brochure"
+    ],
     "pdfTypes" : [
       "Brochure"
     ],
@@ -4271,6 +4280,10 @@
     "WebsiteURL" : "https://www.jlfisher.com/11rhc",
     "Width" : "26 3/4in wheels out | 20 1/2in wheels in",
     "id" : "227",
+    "pdfTitles" : [
+      "Specs",
+      "Specs"
+    ],
     "pdfTypes" : [
       "Specs",
       "Specs"
@@ -4976,6 +4989,9 @@
     "Payload" : "68kg",
     "WebsiteURL" : "http://www.alphastabilized.com/overview/",
     "id" : "267",
+    "pdfTitles" : [
+      "Brochure"
+    ],
     "pdfTypes" : [
       "Brochure"
     ],
@@ -8347,7 +8363,7 @@
     "Fulcrum to Rear" : "8ft 6in",
     "Fulcrum to Short End" : "7ft 6in",
     "Height" : "6ft 11in",
-    "Last edited time" : "2026-02-27T15:51:03.969Z",
+    "Last edited time" : "2026-08-20T13:18:56.618Z",
     "Length" : "5ft 11in",
     "Manufacturers" : "Servicevision",
     "Max. Lens Height (Overslung)" : "40ft",
@@ -13402,6 +13418,9 @@
     "WebsiteURL" : "https://www.jlfisher.com/_files/ugd/9e1783_57fffbeddf644b98af9f6f55724008b8.pdf",
     "Width" : "34 1/2in",
     "id" : "C6C53082-910D-4049-8D6E-D6A7EC479BF8",
+    "pdfTitles" : [
+      "Brochure"
+    ],
     "pdfTypes" : [
       "Brochure"
     ],
@@ -13558,9 +13577,10 @@
     "Category" : "Rigging",
     "Created Date" : "2025-12-23T17:23:03.104Z",
     "DescriptionText" : "Build solid decks with The Deck Hedgehog™ System, combined with items common on most grip trucks;\n\nPre-cut Speed Rail lengths (no cut)\nCommon pre-cut Plywood sizes\nHollander fittings\n\nThe standard Deck Hedgehog™ set enables a deck build of up to 4’x8’ and fits into a single full size Milk Crate. set includes: 4 corners and 2 middles.",
-    "Last edited time" : "2025-12-23T17:25:04.423Z",
+    "Last edited time" : "2026-08-20T13:50:56.778Z",
     "Manufacturers" : "Hudson Spider",
     "Name" : "MightyMods™ Deck Hedgehog System",
+    "WebsiteURL" : "https://www.hudsonspider.com/shop/p/deck-hedgehog-system",
     "id" : "E8D59C3A-6B22-4B01-87A8-9343F5CCD600",
     "photoURLs" : [
       "https://images.squarespace-cdn.com/content/v1/5882adc8d1758e6708b60c1a/1708028409053-OSFCNRJMT5QUYFZYER57/hedgehog+standard+set.png?format=300w",
@@ -13642,6 +13662,9 @@
     "WebsiteURL" : "https://waterbird.at/products/ms-xl/",
     "Width" : "5.5”",
     "id" : "F1C86370-032E-4963-96C1-931188FCB107",
+    "pdfTitles" : [
+      "Manual"
+    ],
     "pdfTypes" : [
       "Manual"
     ],
@@ -13695,6 +13718,9 @@
     "WebsiteURL" : "https://portable-electric.com/voltstack-power-stations/voltstack-5k-power-station/",
     "Width" : "24in",
     "id" : "86125EFB-634C-42E7-9CA5-3C3234B4191E",
+    "pdfTitles" : [
+      "Brochure"
+    ],
     "pdfTypes" : [
       "Brochure"
     ],
@@ -13746,6 +13772,12 @@
     "WebsiteURL" : "https://scorpio.servicevision.es/en/product/grips-en/telescopic-cranes/scorpio-55/",
     "Width" : "4ft 11in",
     "id" : "B5DC5C05-1B95-470A-9779-E27320C33A67",
+    "pdfTitles" : [
+      "scorpio-55"
+    ],
+    "pdfTypes" : [
+      "scorpio-55"
+    ],
     "pdfURLs" : [
       "https://scorpio.servicevision.es/en/product/grips-en/telescopic-cranes/scorpio-55/?attachment_id=11092&download_file=0yjjv2hg3ndry"
     ],
