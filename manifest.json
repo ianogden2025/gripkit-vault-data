@@ -1,25 +1,25 @@
 {
-  "commit" : "3be0d3e620dc5d458d8f11e8e89e1a4a5f188abd",
-  "currentTag" : "v1.3.0",
-  "dataVersion" : "v2.0.0",
+  "commit" : "230ca95fee3fd33f98891850889b34bfe75b7796",
+  "currentTag" : "v2.0.0",
+  "dataVersion" : "v2.0.1",
   "files" : [
     {
       "name" : "items",
       "path" : "data/items.json",
       "schemaVersion" : 1,
-      "sha256" : "9a77bdfccc5810ec9b7c1fd495c2f510a08801acfc7cdc8f625bff5d47ee0466",
-      "url" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@3be0d3e620dc5d458d8f11e8e89e1a4a5f188abd/data/items.json"
+      "sha256" : "dbb2c152b411f7b86f444fb0be64b70050ef3731de1b560f5adc7268918c4183",
+      "url" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@230ca95fee3fd33f98891850889b34bfe75b7796/data/items.json"
     },
     {
       "name" : "rentalcompanies",
       "path" : "data/rentalcompanies.json",
       "schemaVersion" : 1,
       "sha256" : "83cfd012ae0bd819c878a3657a2d2b6ac773e98fbfebb6abee731bb7a99c33fd",
-      "url" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@3be0d3e620dc5d458d8f11e8e89e1a4a5f188abd/data/rentalcompanies.json"
+      "url" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@230ca95fee3fd33f98891850889b34bfe75b7796/data/rentalcompanies.json"
     }
   ],
-  "lastUpdated" : "2026-11-24T17:34:25Z",
+  "lastUpdated" : "2026-11-24T22:46:36Z",
   "manifestVersion" : 1,
-  "whatsNewSHA256" : "4a283d6bebd3ded3560db1816b00ed95d99fae4120418063e1b50b87b3738e4c",
-  "whatsNewURL" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@3be0d3e620dc5d458d8f11e8e89e1a4a5f188abd/whatsnew.json"
+  "whatsNewSHA256" : "8c33590229567bf3782d59431e3e5097e7f9b6aa3bb312307794bb0c5bfcd935",
+  "whatsNewURL" : "https://cdn.jsdelivr.net/gh/ianogden2025/gripkit-vault-data@230ca95fee3fd33f98891850889b34bfe75b7796/whatsnew.json"
 }
