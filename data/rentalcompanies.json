@@ -710,7 +710,7 @@
     "AccentColor" : "ffffff",
     "LogoURL" : "https://provisionequipment.tv/wp-content/uploads/2023/10/Prov_Logo_600px.png",
     "Name" : "ProVision",
-    "PhoneNumber" : "Leeds: 0113 222 8222 | Manchester: 0161 952 1999 | London: 0207 157 3330",
+    "PhoneNumber" : "",
     "TextColor" : "00A2D2",
     "WebsiteURL" : "https://provisionequipment.tv/",
     "availableItemIDs" : [
@@ -733,12 +733,35 @@
       "BB4CE1DC-17E6-4F10-B7BC-EC0E489830DB",
       "F2640D57-D42E-4E9E-B5CA-7856583890AC"
     ],
+    "branches" : [
+      {
+        "id" : "85DAD794-CCAD-4572-B3E8-FABA9021183E",
+        "name" : "Leeds",
+        "phones" : [
+          "0113 222 8222"
+        ]
+      },
+      {
+        "id" : "04AF9EFD-1D47-48B7-B1E5-11023E6A6789",
+        "name" : "Manchester",
+        "phones" : [
+          "0161 952 1999"
+        ]
+      },
+      {
+        "id" : "01F9CF0A-18FB-4371-ABC5-008D86D3DE1C",
+        "name" : "London",
+        "phones" : [
+          "0207 157 3330"
+        ]
+      }
+    ],
     "emails" : [
 
     ],
     "id" : "7027D462-5B79-416A-8E19-B06459D4F515",
     "phones" : [
-      "Leeds: 0113 222 8222 | Manchester: 0161 952 1999 | London: 0207 157 3330"
+
     ]
   },
   {
@@ -896,10 +919,10 @@
   {
     "AccentColor" : "ffffff",
     "Address" : "Unit 3, South East Studios Eastbourne Road Blindley Heath Surrey RH7 6JP United Kingdom",
-    "ContactEmail" : " +44 (0)1342 838015 rental@mrmoco.com",
+    "ContactEmail" : "rental@mrmoco.com",
     "LogoURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_Qb-EtVA6IWCfyr5fKbXBHrCK75ZY9Vpu28aLHYcaji-ausVrdNimKjnOpEblthVjdc&usqp=CAU",
     "Name" : "Mr Moco (Mark Roberts Motion Control)",
-    "PhoneNumber" : " +44 (0)1342 838015",
+    "PhoneNumber" : "+44 (0)1342 838015",
     "TextColor" : "000000",
     "WebsiteURL" : "https://www.mrmoco.com",
     "availableItemIDs" : [
@@ -916,18 +939,18 @@
       "61"
     ],
     "emails" : [
-      " +44 (0)1342 838015 rental@mrmoco.com"
+      "rental@mrmoco.com"
     ],
     "id" : "3AC4BB77-8561-47AC-8FCE-AD1CC6287A28",
     "phones" : [
-      " +44 (0)1342 838015"
+      "+44 (0)1342 838015"
     ]
   },
   {
     "AccentColor" : "12181F",
     "LogoURL" : "https://scopics.uk/wp-content/uploads/2025/08/2025-SCOPICS-LOGO.png",
     "Name" : "Scopics",
-    "PhoneNumber" : "Manchester : 0161 399 0453  | Glasgow : 0141 459 1695",
+    "PhoneNumber" : "",
     "TextColor" : "FF8200",
     "WebsiteURL" : "https://scopics.uk",
     "availableItemIDs" : [
@@ -943,12 +966,28 @@
       "429",
       "431"
     ],
+    "branches" : [
+      {
+        "id" : "0DDF3BEA-BBD8-4518-B595-B09EA7752E56",
+        "name" : "Manchester",
+        "phones" : [
+          "0161 399 0453"
+        ]
+      },
+      {
+        "id" : "16EF71B9-0DA8-4832-BE1D-AE698BC58CA8",
+        "name" : "Glasgow",
+        "phones" : [
+          "0141 459 1695"
+        ]
+      }
+    ],
     "emails" : [
 
     ],
     "id" : "6D65957C-812D-4EBC-A47F-B8381035ADC3",
     "phones" : [
-      "Manchester : 0161 399 0453  | Glasgow : 0141 459 1695"
+
     ]
   },
   {
@@ -997,7 +1036,7 @@
   {
     "AccentColor" : "979797",
     "Address" : "Battersea Studios 80-82 Silverthorne Road London, SW8 3HE",
-    "ContactEmail" : "bulbrentals@gmail.com ",
+    "ContactEmail" : "bulbrentals@gmail.com",
     "LogoURL" : "https://images.squarespace-cdn.com/content/v1/63936321ad4f1a7c8e5384d6/1dc40a36-45e5-4c89-bac5-a7befbaf89af/Screenshot+2024-07-27+at+22.36.28.png?format=1500w",
     "Name" : "Bulb",
     "PhoneNumber" : "07456926152",
@@ -1011,7 +1050,7 @@
       "662E1F82-188B-40D4-BB3C-0FEBE6D739E2"
     ],
     "emails" : [
-      "bulbrentals@gmail.com "
+      "bulbrentals@gmail.com"
     ],
     "id" : "8A259D64-B217-4C70-865E-B935AE64C952",
     "phones" : [
@@ -1086,10 +1125,10 @@
   {
     "AccentColor" : "1A2B54",
     "Address" : "1 Shacklewell St, London E2 7EG",
-    "ContactEmail" : " +44 (0)20 7407 6090",
+    "ContactEmail" : "",
     "LogoURL" : "https://www.fomorentals.co.uk/img/containers/assets/fomo-rentals-160x2.png/c89949f85c5d603332d5612d07f99ed3.webp",
     "Name" : "FOMO",
-    "PhoneNumber" : " +44 (0)20 7407 6090",
+    "PhoneNumber" : "+44 (0)20 7407 6090",
     "TextColor" : "ffffff",
     "WebsiteURL" : "https://www.fomorentals.co.uk/",
     "availableItemIDs" : [
@@ -1116,11 +1155,11 @@
       "D7F26145-35E2-4604-8715-48E3EE08781D"
     ],
     "emails" : [
-      " +44 (0)20 7407 6090"
+
     ],
     "id" : "915326E1-67F5-436A-BA8A-73C826699C1C",
     "phones" : [
-      " +44 (0)20 7407 6090"
+      "+44 (0)20 7407 6090"
     ]
   },
   {
