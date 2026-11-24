@@ -1,32 +1,35 @@
 {
   "added" : [
-    "ModTruss\/Modulus-X Mitchell Rotating Base",
-    "Raptor Rickshaw 3",
-    "AGITO MagTrax",
-    "3’ Ronford Baker Slider",
-    "Sleeve Coupler (STF-04)",
-    "S Type",
-    "Imperial Quarter Apple Box (18\" high)",
-    "2’ x 2’ Polybag",
-    "Modulus-X™ Rotary Adapter",
-    "Porsche Ultra Arm",
-    "… +504 more"
+
   ],
   "counts" : {
-    "added" : 514,
+    "added" : 0,
     "removed" : 0,
-    "updated" : 0
+    "updated" : 219
   },
-  "date" : "2025-09-08",
+  "date" : "2026-11-24",
   "notes" : [
-
+    "Updated company: ProVision",
+    "Updated company: Mr Moco (Mark Roberts Motion Control)",
+    "Updated company: Scopics",
+    "Updated company: FOMO"
   ],
   "removed" : [
 
   ],
-  "summary" : "Grip Kit Vault data update",
+  "summary" : "Catalogue tidy v2.0.0: every length and weight is now one readable value the app converts to your units; two-value fields split into Min./Max. and set-ups; lifts show Working Height, Platform Height, Horizontal Reach and Up and Over Clearance; ProVision and Scopics branches; category and name fixes.",
   "updated" : [
-
+    "Monopod (Alana)",
+    "Short Double Joint Arm",
+    "Medium Double Joint Arm",
+    "Long Double Joint Arm",
+    "Double El-bo Arm",
+    "Angled El-bo Arm",
+    "El-bo Arm",
+    "Arrihead 2",
+    "Raptor Rickshaw Lite",
+    "Ronin 4D",
+    "… +209 more"
   ],
-  "version" : "v1.2.0"
+  "version" : "v2.0.0"
 }
