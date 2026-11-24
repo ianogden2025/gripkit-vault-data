@@ -5,31 +5,28 @@
   "counts" : {
     "added" : 0,
     "removed" : 0,
-    "updated" : 219
+    "updated" : 21
   },
   "date" : "2026-11-24",
   "notes" : [
-    "Updated company: ProVision",
-    "Updated company: Mr Moco (Mark Roberts Motion Control)",
-    "Updated company: Scopics",
-    "Updated company: FOMO"
+
   ],
   "removed" : [
 
   ],
-  "summary" : "Catalogue tidy v2.0.0: every length and weight is now one readable value the app converts to your units; two-value fields split into Min./Max. and set-ups; lifts show Working Height, Platform Height, Horizontal Reach and Up and Over Clearance; ProVision and Scopics branches; category and name fixes.",
+  "summary" : "Updated 15’ Hydrascope; Updated U-Crane Dynamic Stealth GLC63S AMG; Updated U-Crane 6 Stealth GLE63s AMG; Updated U-Crane 6 Stealth F150 Raptor; Updated Technocrane10+; Updated Supertechno50+; Updated Supertechno75+; Updated GF-8 Xten; and 13 more",
   "updated" : [
-    "Monopod (Alana)",
-    "Short Double Joint Arm",
-    "Medium Double Joint Arm",
-    "Long Double Joint Arm",
-    "Double El-bo Arm",
-    "Angled El-bo Arm",
-    "El-bo Arm",
-    "Arrihead 2",
-    "Raptor Rickshaw Lite",
-    "Ronin 4D",
-    "… +209 more"
+    "15’ Hydrascope",
+    "U-Crane Dynamic Stealth GLC63S AMG",
+    "U-Crane 6 Stealth GLE63s AMG",
+    "U-Crane 6 Stealth F150 Raptor",
+    "Technocrane10+",
+    "Supertechno50+",
+    "Supertechno75+",
+    "GF-8 Xten",
+    "GF-8",
+    "GF-16",
+    "… +11 more"
   ],
-  "version" : "v2.0.0"
+  "version" : "v2.0.1"
 }
